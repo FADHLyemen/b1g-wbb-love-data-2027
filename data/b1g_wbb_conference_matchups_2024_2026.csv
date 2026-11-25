@@ -1,0 +1,245 @@
+season,games,t1,t2,lat1,lon1,lat2,lon2,mi,slabel,trip
+2024,2,Illinois,Indiana,40.1,-88.23,39.17,-86.52,111,2023–24,Between pre-expansion members
+2024,1,Illinois,Iowa,40.1,-88.23,41.66,-91.55,204,2023–24,Between pre-expansion members
+2024,2,Illinois,Maryland,40.1,-88.23,38.99,-76.94,606,2023–24,Between pre-expansion members
+2024,2,Illinois,Michigan,40.1,-88.23,42.27,-83.74,277,2023–24,Between pre-expansion members
+2024,1,Illinois,Michigan State,40.1,-88.23,42.73,-84.48,266,2023–24,Between pre-expansion members
+2024,1,Illinois,Minnesota,40.1,-88.23,44.98,-93.23,422,2023–24,Between pre-expansion members
+2024,2,Illinois,Nebraska,40.1,-88.23,40.82,-96.7,448,2023–24,Between pre-expansion members
+2024,2,Illinois,Northwestern,40.1,-88.23,42.06,-87.68,138,2023–24,Between pre-expansion members
+2024,1,Illinois,Ohio State,40.1,-88.23,40.0,-83.02,276,2023–24,Between pre-expansion members
+2024,1,Illinois,Penn State,40.1,-88.23,40.8,-77.86,547,2023–24,Between pre-expansion members
+2024,1,Illinois,Purdue,40.1,-88.23,40.43,-86.92,73,2023–24,Between pre-expansion members
+2024,1,Illinois,Rutgers,40.1,-88.23,40.52,-74.46,725,2023–24,Between pre-expansion members
+2024,1,Illinois,Wisconsin,40.1,-88.23,43.07,-89.41,214,2023–24,Between pre-expansion members
+2024,2,Indiana,Iowa,39.17,-86.52,41.66,-91.55,316,2023–24,Between pre-expansion members
+2024,2,Indiana,Maryland,39.17,-86.52,38.99,-76.94,514,2023–24,Between pre-expansion members
+2024,1,Indiana,Michigan,39.17,-86.52,42.27,-83.74,259,2023–24,Between pre-expansion members
+2024,1,Indiana,Michigan State,39.17,-86.52,42.73,-84.48,268,2023–24,Between pre-expansion members
+2024,1,Indiana,Minnesota,39.17,-86.52,44.98,-93.23,528,2023–24,Between pre-expansion members
+2024,1,Indiana,Nebraska,39.17,-86.52,40.82,-96.7,550,2023–24,Between pre-expansion members
+2024,2,Indiana,Northwestern,39.17,-86.52,42.06,-87.68,209,2023–24,Between pre-expansion members
+2024,1,Indiana,Ohio State,39.17,-86.52,40.0,-83.02,195,2023–24,Between pre-expansion members
+2024,1,Indiana,Penn State,39.17,-86.52,40.8,-77.86,472,2023–24,Between pre-expansion members
+2024,2,Indiana,Purdue,39.17,-86.52,40.43,-86.92,90,2023–24,Between pre-expansion members
+2024,1,Indiana,Rutgers,39.17,-86.52,40.52,-74.46,646,2023–24,Between pre-expansion members
+2024,1,Indiana,Wisconsin,39.17,-86.52,43.07,-89.41,309,2023–24,Between pre-expansion members
+2024,1,Iowa,Maryland,41.66,-91.55,38.99,-76.94,790,2023–24,Between pre-expansion members
+2024,1,Iowa,Michigan,41.66,-91.55,42.27,-83.74,403,2023–24,Between pre-expansion members
+2024,1,Iowa,Michigan State,41.66,-91.55,42.73,-84.48,369,2023–24,Between pre-expansion members
+2024,2,Iowa,Minnesota,41.66,-91.55,44.98,-93.23,244,2023–24,Between pre-expansion members
+2024,2,Iowa,Nebraska,41.66,-91.55,40.82,-96.7,274,2023–24,Between pre-expansion members
+2024,1,Iowa,Northwestern,41.66,-91.55,42.06,-87.68,201,2023–24,Between pre-expansion members
+2024,2,Iowa,Ohio State,41.66,-91.55,40.0,-83.02,460,2023–24,Between pre-expansion members
+2024,1,Iowa,Penn State,41.66,-91.55,40.8,-77.86,713,2023–24,Between pre-expansion members
+2024,1,Iowa,Purdue,41.66,-91.55,40.43,-86.92,256,2023–24,Between pre-expansion members
+2024,1,Iowa,Rutgers,41.66,-91.55,40.52,-74.46,892,2023–24,Between pre-expansion members
+2024,2,Iowa,Wisconsin,41.66,-91.55,43.07,-89.41,146,2023–24,Between pre-expansion members
+2024,1,Maryland,Michigan,38.99,-76.94,42.27,-83.74,422,2023–24,Between pre-expansion members
+2024,1,Maryland,Michigan State,38.99,-76.94,42.73,-84.48,471,2023–24,Between pre-expansion members
+2024,1,Maryland,Minnesota,38.99,-76.94,44.98,-93.23,931,2023–24,Between pre-expansion members
+2024,1,Maryland,Nebraska,38.99,-76.94,40.82,-96.7,1053,2023–24,Between pre-expansion members
+2024,1,Maryland,Northwestern,38.99,-76.94,42.06,-87.68,602,2023–24,Between pre-expansion members
+2024,2,Maryland,Ohio State,38.99,-76.94,40.0,-83.02,332,2023–24,Between pre-expansion members
+2024,2,Maryland,Penn State,38.99,-76.94,40.8,-77.86,134,2023–24,Between pre-expansion members
+2024,1,Maryland,Purdue,38.99,-76.94,40.43,-86.92,539,2023–24,Between pre-expansion members
+2024,2,Maryland,Rutgers,38.99,-76.94,40.52,-74.46,169,2023–24,Between pre-expansion members
+2024,1,Maryland,Wisconsin,38.99,-76.94,43.07,-89.41,708,2023–24,Between pre-expansion members
+2024,2,Michigan State,Minnesota,42.73,-84.48,44.98,-93.23,463,2023–24,Between pre-expansion members
+2024,1,Michigan State,Nebraska,42.73,-84.48,40.82,-96.7,643,2023–24,Between pre-expansion members
+2024,1,Michigan State,Northwestern,42.73,-84.48,42.06,-87.68,170,2023–24,Between pre-expansion members
+2024,2,Michigan State,Ohio State,42.73,-84.48,40.0,-83.02,203,2023–24,Between pre-expansion members
+2024,1,Michigan State,Penn State,42.73,-84.48,40.8,-77.86,366,2023–24,Between pre-expansion members
+2024,2,Michigan State,Purdue,42.73,-84.48,40.43,-86.92,203,2023–24,Between pre-expansion members
+2024,2,Michigan State,Rutgers,42.73,-84.48,40.52,-74.46,539,2023–24,Between pre-expansion members
+2024,1,Michigan State,Wisconsin,42.73,-84.48,43.07,-89.41,251,2023–24,Between pre-expansion members
+2024,2,Michigan,Michigan State,42.27,-83.74,42.73,-84.48,49,2023–24,Between pre-expansion members
+2024,1,Michigan,Minnesota,42.27,-83.74,44.98,-93.23,510,2023–24,Between pre-expansion members
+2024,2,Michigan,Nebraska,42.27,-83.74,40.82,-96.7,677,2023–24,Between pre-expansion members
+2024,1,Michigan,Northwestern,42.27,-83.74,42.06,-87.68,202,2023–24,Between pre-expansion members
+2024,2,Michigan,Ohio State,42.27,-83.74,40.0,-83.02,161,2023–24,Between pre-expansion members
+2024,1,Michigan,Penn State,42.27,-83.74,40.8,-77.86,321,2023–24,Between pre-expansion members
+2024,1,Michigan,Purdue,42.27,-83.74,40.43,-86.92,208,2023–24,Between pre-expansion members
+2024,2,Michigan,Rutgers,42.27,-83.74,40.52,-74.46,496,2023–24,Between pre-expansion members
+2024,1,Michigan,Wisconsin,42.27,-83.74,43.07,-89.41,293,2023–24,Between pre-expansion members
+2024,2,Minnesota,Nebraska,44.98,-93.23,40.82,-96.7,337,2023–24,Between pre-expansion members
+2024,1,Minnesota,Northwestern,44.98,-93.23,42.06,-87.68,343,2023–24,Between pre-expansion members
+2024,1,Minnesota,Ohio State,44.98,-93.23,40.0,-83.02,623,2023–24,Between pre-expansion members
+2024,2,Minnesota,Penn State,44.98,-93.23,40.8,-77.86,828,2023–24,Between pre-expansion members
+2024,1,Minnesota,Purdue,44.98,-93.23,40.43,-86.92,449,2023–24,Between pre-expansion members
+2024,1,Minnesota,Rutgers,44.98,-93.23,40.52,-74.46,998,2023–24,Between pre-expansion members
+2024,2,Minnesota,Wisconsin,44.98,-93.23,43.07,-89.41,231,2023–24,Between pre-expansion members
+2024,1,Nebraska,Northwestern,40.82,-96.7,42.06,-87.68,475,2023–24,Between pre-expansion members
+2024,1,Nebraska,Ohio State,40.82,-96.7,40.0,-83.02,721,2023–24,Between pre-expansion members
+2024,1,Nebraska,Penn State,40.82,-96.7,40.8,-77.86,983,2023–24,Between pre-expansion members
+2024,2,Nebraska,Purdue,40.82,-96.7,40.43,-86.92,513,2023–24,Between pre-expansion members
+2024,1,Nebraska,Rutgers,40.82,-96.7,40.52,-74.46,1163,2023–24,Between pre-expansion members
+2024,1,Nebraska,Wisconsin,40.82,-96.7,43.07,-89.41,405,2023–24,Between pre-expansion members
+2024,1,Northwestern,Ohio State,42.06,-87.68,40.0,-83.02,281,2023–24,Between pre-expansion members
+2024,2,Northwestern,Penn State,42.06,-87.68,40.8,-77.86,516,2023–24,Between pre-expansion members
+2024,1,Northwestern,Purdue,42.06,-87.68,40.43,-86.92,119,2023–24,Between pre-expansion members
+2024,2,Northwestern,Rutgers,42.06,-87.68,40.52,-74.46,694,2023–24,Between pre-expansion members
+2024,2,Northwestern,Wisconsin,42.06,-87.68,43.07,-89.41,112,2023–24,Between pre-expansion members
+2024,2,Ohio State,Penn State,40.0,-83.02,40.8,-77.86,277,2023–24,Between pre-expansion members
+2024,1,Ohio State,Purdue,40.0,-83.02,40.43,-86.92,208,2023–24,Between pre-expansion members
+2024,1,Ohio State,Rutgers,40.0,-83.02,40.52,-74.46,453,2023–24,Between pre-expansion members
+2024,1,Ohio State,Wisconsin,40.0,-83.02,43.07,-89.41,393,2023–24,Between pre-expansion members
+2024,2,Penn State,Purdue,40.8,-77.86,40.43,-86.92,476,2023–24,Between pre-expansion members
+2024,1,Penn State,Rutgers,40.8,-77.86,40.52,-74.46,179,2023–24,Between pre-expansion members
+2024,1,Penn State,Wisconsin,40.8,-77.86,43.07,-89.41,613,2023–24,Between pre-expansion members
+2024,1,Purdue,Rutgers,40.43,-86.92,40.52,-74.46,654,2023–24,Between pre-expansion members
+2024,2,Purdue,Wisconsin,40.43,-86.92,43.07,-89.41,223,2023–24,Between pre-expansion members
+2024,2,Rutgers,Wisconsin,40.52,-74.46,43.07,-89.41,789,2023–24,Between pre-expansion members
+2026,1,Illinois,Indiana,40.1,-88.23,39.17,-86.52,111,2025–26,Between pre-expansion members
+2026,1,Illinois,Iowa,40.1,-88.23,41.66,-91.55,204,2025–26,Between pre-expansion members
+2026,1,Illinois,Maryland,40.1,-88.23,38.99,-76.94,606,2025–26,Between pre-expansion members
+2026,1,Illinois,Michigan,40.1,-88.23,42.27,-83.74,277,2025–26,Between pre-expansion members
+2026,1,Illinois,Michigan State,40.1,-88.23,42.73,-84.48,266,2025–26,Between pre-expansion members
+2026,1,Illinois,Minnesota,40.1,-88.23,44.98,-93.23,422,2025–26,Between pre-expansion members
+2026,1,Illinois,Nebraska,40.1,-88.23,40.82,-96.7,448,2025–26,Between pre-expansion members
+2026,2,Illinois,Northwestern,40.1,-88.23,42.06,-87.68,138,2025–26,Between pre-expansion members
+2026,1,Illinois,Ohio State,40.1,-88.23,40.0,-83.02,276,2025–26,Between pre-expansion members
+2026,1,Illinois,Oregon,40.1,-88.23,44.05,-123.07,1794,2025–26,Involves a West Coast school
+2026,1,Illinois,Penn State,40.1,-88.23,40.8,-77.86,547,2025–26,Between pre-expansion members
+2026,1,Illinois,Purdue,40.1,-88.23,40.43,-86.92,73,2025–26,Between pre-expansion members
+2026,1,Illinois,Rutgers,40.1,-88.23,40.52,-74.46,725,2025–26,Between pre-expansion members
+2026,1,Illinois,UCLA,40.1,-88.23,34.07,-118.44,1708,2025–26,Involves a West Coast school
+2026,1,Illinois,USC,40.1,-88.23,34.02,-118.29,1701,2025–26,Involves a West Coast school
+2026,1,Illinois,Washington,40.1,-88.23,47.65,-122.3,1759,2025–26,Involves a West Coast school
+2026,1,Illinois,Wisconsin,40.1,-88.23,43.07,-89.41,214,2025–26,Between pre-expansion members
+2026,1,Indiana,Iowa,39.17,-86.52,41.66,-91.55,316,2025–26,Between pre-expansion members
+2026,1,Indiana,Maryland,39.17,-86.52,38.99,-76.94,514,2025–26,Between pre-expansion members
+2026,1,Indiana,Michigan,39.17,-86.52,42.27,-83.74,259,2025–26,Between pre-expansion members
+2026,1,Indiana,Michigan State,39.17,-86.52,42.73,-84.48,268,2025–26,Between pre-expansion members
+2026,1,Indiana,Minnesota,39.17,-86.52,44.98,-93.23,528,2025–26,Between pre-expansion members
+2026,1,Indiana,Nebraska,39.17,-86.52,40.82,-96.7,550,2025–26,Between pre-expansion members
+2026,1,Indiana,Northwestern,39.17,-86.52,42.06,-87.68,209,2025–26,Between pre-expansion members
+2026,1,Indiana,Ohio State,39.17,-86.52,40.0,-83.02,195,2025–26,Between pre-expansion members
+2026,1,Indiana,Oregon,39.17,-86.52,44.05,-123.07,1902,2025–26,Involves a West Coast school
+2026,1,Indiana,Penn State,39.17,-86.52,40.8,-77.86,472,2025–26,Between pre-expansion members
+2026,2,Indiana,Purdue,39.17,-86.52,40.43,-86.92,90,2025–26,Between pre-expansion members
+2026,1,Indiana,Rutgers,39.17,-86.52,40.52,-74.46,646,2025–26,Between pre-expansion members
+2026,1,Indiana,UCLA,39.17,-86.52,34.07,-118.44,1795,2025–26,Involves a West Coast school
+2026,1,Indiana,USC,39.17,-86.52,34.02,-118.29,1788,2025–26,Involves a West Coast school
+2026,1,Indiana,Washington,39.17,-86.52,47.65,-122.3,1870,2025–26,Involves a West Coast school
+2026,1,Indiana,Wisconsin,39.17,-86.52,43.07,-89.41,309,2025–26,Between pre-expansion members
+2026,1,Iowa,Maryland,41.66,-91.55,38.99,-76.94,790,2025–26,Between pre-expansion members
+2026,1,Iowa,Michigan,41.66,-91.55,42.27,-83.74,403,2025–26,Between pre-expansion members
+2026,1,Iowa,Michigan State,41.66,-91.55,42.73,-84.48,369,2025–26,Between pre-expansion members
+2026,1,Iowa,Minnesota,41.66,-91.55,44.98,-93.23,244,2025–26,Between pre-expansion members
+2026,2,Iowa,Nebraska,41.66,-91.55,40.82,-96.7,274,2025–26,Between pre-expansion members
+2026,1,Iowa,Northwestern,41.66,-91.55,42.06,-87.68,201,2025–26,Between pre-expansion members
+2026,1,Iowa,Ohio State,41.66,-91.55,40.0,-83.02,460,2025–26,Between pre-expansion members
+2026,1,Iowa,Oregon,41.66,-91.55,44.05,-123.07,1595,2025–26,Involves a West Coast school
+2026,1,Iowa,Penn State,41.66,-91.55,40.8,-77.86,713,2025–26,Between pre-expansion members
+2026,1,Iowa,Purdue,41.66,-91.55,40.43,-86.92,256,2025–26,Between pre-expansion members
+2026,1,Iowa,Rutgers,41.66,-91.55,40.52,-74.46,892,2025–26,Between pre-expansion members
+2026,1,Iowa,UCLA,41.66,-91.55,34.07,-118.44,1550,2025–26,Involves a West Coast school
+2026,1,Iowa,USC,41.66,-91.55,34.02,-118.29,1544,2025–26,Involves a West Coast school
+2026,1,Iowa,Washington,41.66,-91.55,47.65,-122.3,1556,2025–26,Involves a West Coast school
+2026,1,Iowa,Wisconsin,41.66,-91.55,43.07,-89.41,146,2025–26,Between pre-expansion members
+2026,1,Maryland,Michigan,38.99,-76.94,42.27,-83.74,422,2025–26,Between pre-expansion members
+2026,1,Maryland,Michigan State,38.99,-76.94,42.73,-84.48,471,2025–26,Between pre-expansion members
+2026,1,Maryland,Minnesota,38.99,-76.94,44.98,-93.23,931,2025–26,Between pre-expansion members
+2026,1,Maryland,Nebraska,38.99,-76.94,40.82,-96.7,1053,2025–26,Between pre-expansion members
+2026,1,Maryland,Northwestern,38.99,-76.94,42.06,-87.68,602,2025–26,Between pre-expansion members
+2026,2,Maryland,Ohio State,38.99,-76.94,40.0,-83.02,332,2025–26,Between pre-expansion members
+2026,1,Maryland,Oregon,38.99,-76.94,44.05,-123.07,2380,2025–26,Involves a West Coast school
+2026,1,Maryland,Penn State,38.99,-76.94,40.8,-77.86,134,2025–26,Between pre-expansion members
+2026,1,Maryland,Purdue,38.99,-76.94,40.43,-86.92,539,2025–26,Between pre-expansion members
+2026,1,Maryland,Rutgers,38.99,-76.94,40.52,-74.46,169,2025–26,Between pre-expansion members
+2026,1,Maryland,UCLA,38.99,-76.94,34.07,-118.44,2309,2025–26,Involves a West Coast school
+2026,1,Maryland,USC,38.99,-76.94,34.02,-118.29,2302,2025–26,Involves a West Coast school
+2026,1,Maryland,Washington,38.99,-76.94,47.65,-122.3,2322,2025–26,Involves a West Coast school
+2026,1,Maryland,Wisconsin,38.99,-76.94,43.07,-89.41,708,2025–26,Between pre-expansion members
+2026,1,Michigan State,Minnesota,42.73,-84.48,44.98,-93.23,463,2025–26,Between pre-expansion members
+2026,1,Michigan State,Nebraska,42.73,-84.48,40.82,-96.7,643,2025–26,Between pre-expansion members
+2026,1,Michigan State,Northwestern,42.73,-84.48,42.06,-87.68,170,2025–26,Between pre-expansion members
+2026,1,Michigan State,Ohio State,42.73,-84.48,40.0,-83.02,203,2025–26,Between pre-expansion members
+2026,1,Michigan State,Oregon,42.73,-84.48,44.05,-123.07,1922,2025–26,Involves a West Coast school
+2026,1,Michigan State,Penn State,42.73,-84.48,40.8,-77.86,366,2025–26,Between pre-expansion members
+2026,1,Michigan State,Purdue,42.73,-84.48,40.43,-86.92,203,2025–26,Between pre-expansion members
+2026,1,Michigan State,Rutgers,42.73,-84.48,40.52,-74.46,539,2025–26,Between pre-expansion members
+2026,1,Michigan State,UCLA,42.73,-84.48,34.07,-118.44,1919,2025–26,Involves a West Coast school
+2026,1,Michigan State,USC,42.73,-84.48,34.02,-118.29,1913,2025–26,Involves a West Coast school
+2026,1,Michigan State,Washington,42.73,-84.48,47.65,-122.3,1854,2025–26,Involves a West Coast school
+2026,1,Michigan State,Wisconsin,42.73,-84.48,43.07,-89.41,251,2025–26,Between pre-expansion members
+2026,2,Michigan,Michigan State,42.27,-83.74,42.73,-84.48,49,2025–26,Between pre-expansion members
+2026,1,Michigan,Minnesota,42.27,-83.74,44.98,-93.23,510,2025–26,Between pre-expansion members
+2026,1,Michigan,Nebraska,42.27,-83.74,40.82,-96.7,677,2025–26,Between pre-expansion members
+2026,1,Michigan,Northwestern,42.27,-83.74,42.06,-87.68,202,2025–26,Between pre-expansion members
+2026,1,Michigan,Ohio State,42.27,-83.74,40.0,-83.02,161,2025–26,Between pre-expansion members
+2026,1,Michigan,Oregon,42.27,-83.74,44.05,-123.07,1967,2025–26,Involves a West Coast school
+2026,1,Michigan,Penn State,42.27,-83.74,40.8,-77.86,321,2025–26,Between pre-expansion members
+2026,1,Michigan,Purdue,42.27,-83.74,40.43,-86.92,208,2025–26,Between pre-expansion members
+2026,1,Michigan,Rutgers,42.27,-83.74,40.52,-74.46,496,2025–26,Between pre-expansion members
+2026,1,Michigan,UCLA,42.27,-83.74,34.07,-118.44,1953,2025–26,Involves a West Coast school
+2026,1,Michigan,USC,42.27,-83.74,34.02,-118.29,1947,2025–26,Involves a West Coast school
+2026,1,Michigan,Washington,42.27,-83.74,47.65,-122.3,1901,2025–26,Involves a West Coast school
+2026,1,Michigan,Wisconsin,42.27,-83.74,43.07,-89.41,293,2025–26,Between pre-expansion members
+2026,1,Minnesota,Nebraska,44.98,-93.23,40.82,-96.7,337,2025–26,Between pre-expansion members
+2026,1,Minnesota,Northwestern,44.98,-93.23,42.06,-87.68,343,2025–26,Between pre-expansion members
+2026,1,Minnesota,Ohio State,44.98,-93.23,40.0,-83.02,623,2025–26,Between pre-expansion members
+2026,1,Minnesota,Oregon,44.98,-93.23,44.05,-123.07,1463,2025–26,Involves a West Coast school
+2026,1,Minnesota,Penn State,44.98,-93.23,40.8,-77.86,828,2025–26,Between pre-expansion members
+2026,1,Minnesota,Purdue,44.98,-93.23,40.43,-86.92,449,2025–26,Between pre-expansion members
+2026,1,Minnesota,Rutgers,44.98,-93.23,40.52,-74.46,998,2025–26,Between pre-expansion members
+2026,1,Minnesota,UCLA,44.98,-93.23,34.07,-118.44,1531,2025–26,Involves a West Coast school
+2026,1,Minnesota,USC,44.98,-93.23,34.02,-118.29,1527,2025–26,Involves a West Coast school
+2026,1,Minnesota,Washington,44.98,-93.23,47.65,-122.3,1391,2025–26,Involves a West Coast school
+2026,2,Minnesota,Wisconsin,44.98,-93.23,43.07,-89.41,231,2025–26,Between pre-expansion members
+2026,1,Nebraska,Northwestern,40.82,-96.7,42.06,-87.68,475,2025–26,Between pre-expansion members
+2026,1,Nebraska,Ohio State,40.82,-96.7,40.0,-83.02,721,2025–26,Between pre-expansion members
+2026,1,Nebraska,Oregon,40.82,-96.7,44.05,-123.07,1357,2025–26,Involves a West Coast school
+2026,1,Nebraska,Penn State,40.82,-96.7,40.8,-77.86,983,2025–26,Between pre-expansion members
+2026,1,Nebraska,Purdue,40.82,-96.7,40.43,-86.92,513,2025–26,Between pre-expansion members
+2026,1,Nebraska,Rutgers,40.82,-96.7,40.52,-74.46,1163,2025–26,Between pre-expansion members
+2026,1,Nebraska,UCLA,40.82,-96.7,34.07,-118.44,1276,2025–26,Involves a West Coast school
+2026,1,Nebraska,USC,40.82,-96.7,34.02,-118.29,1270,2025–26,Involves a West Coast school
+2026,1,Nebraska,Washington,40.82,-96.7,47.65,-122.3,1345,2025–26,Involves a West Coast school
+2026,1,Nebraska,Wisconsin,40.82,-96.7,43.07,-89.41,405,2025–26,Between pre-expansion members
+2026,1,Northwestern,Ohio State,42.06,-87.68,40.0,-83.02,281,2025–26,Between pre-expansion members
+2026,1,Northwestern,Oregon,42.06,-87.68,44.05,-123.07,1778,2025–26,Involves a West Coast school
+2026,1,Northwestern,Penn State,42.06,-87.68,40.8,-77.86,516,2025–26,Between pre-expansion members
+2026,1,Northwestern,Purdue,42.06,-87.68,40.43,-86.92,119,2025–26,Between pre-expansion members
+2026,1,Northwestern,Rutgers,42.06,-87.68,40.52,-74.46,694,2025–26,Between pre-expansion members
+2026,1,Northwestern,UCLA,42.06,-87.68,34.07,-118.44,1751,2025–26,Involves a West Coast school
+2026,1,Northwestern,USC,42.06,-87.68,34.02,-118.29,1745,2025–26,Involves a West Coast school
+2026,1,Northwestern,Washington,42.06,-87.68,47.65,-122.3,1724,2025–26,Involves a West Coast school
+2026,1,Northwestern,Wisconsin,42.06,-87.68,43.07,-89.41,112,2025–26,Between pre-expansion members
+2026,1,Ohio State,Oregon,40.0,-83.02,44.05,-123.07,2054,2025–26,Involves a West Coast school
+2026,1,Ohio State,Penn State,40.0,-83.02,40.8,-77.86,277,2025–26,Between pre-expansion members
+2026,1,Ohio State,Purdue,40.0,-83.02,40.43,-86.92,208,2025–26,Between pre-expansion members
+2026,1,Ohio State,Rutgers,40.0,-83.02,40.52,-74.46,453,2025–26,Between pre-expansion members
+2026,1,Ohio State,UCLA,40.0,-83.02,34.07,-118.44,1982,2025–26,Involves a West Coast school
+2026,1,Ohio State,USC,40.0,-83.02,34.02,-118.29,1976,2025–26,Involves a West Coast school
+2026,1,Ohio State,Washington,40.0,-83.02,47.65,-122.3,2005,2025–26,Involves a West Coast school
+2026,1,Ohio State,Wisconsin,40.0,-83.02,43.07,-89.41,393,2025–26,Between pre-expansion members
+2026,1,Oregon,Penn State,44.05,-123.07,40.8,-77.86,2288,2025–26,Involves a West Coast school
+2026,1,Oregon,Purdue,44.05,-123.07,40.43,-86.92,1851,2025–26,Involves a West Coast school
+2026,1,Oregon,Rutgers,44.05,-123.07,40.52,-74.46,2461,2025–26,Involves a West Coast school
+2026,1,Oregon,UCLA,44.05,-123.07,34.07,-118.44,733,2025–26,Involves a West Coast school
+2026,1,Oregon,USC,44.05,-123.07,34.02,-118.29,739,2025–26,Involves a West Coast school
+2026,2,Oregon,Washington,44.05,-123.07,47.65,-122.3,251,2025–26,Involves a West Coast school
+2026,1,Oregon,Wisconsin,44.05,-123.07,43.07,-89.41,1675,2025–26,Involves a West Coast school
+2026,1,Penn State,Purdue,40.8,-77.86,40.43,-86.92,476,2025–26,Between pre-expansion members
+2026,2,Penn State,Rutgers,40.8,-77.86,40.52,-74.46,179,2025–26,Between pre-expansion members
+2026,1,Penn State,UCLA,40.8,-77.86,34.07,-118.44,2254,2025–26,Involves a West Coast school
+2026,1,Penn State,USC,40.8,-77.86,34.02,-118.29,2247,2025–26,Involves a West Coast school
+2026,1,Penn State,Washington,40.8,-77.86,47.65,-122.3,2219,2025–26,Involves a West Coast school
+2026,1,Penn State,Wisconsin,40.8,-77.86,43.07,-89.41,613,2025–26,Between pre-expansion members
+2026,1,Purdue,Rutgers,40.43,-86.92,40.52,-74.46,654,2025–26,Between pre-expansion members
+2026,1,Purdue,UCLA,40.43,-86.92,34.07,-118.44,1778,2025–26,Involves a West Coast school
+2026,1,Purdue,USC,40.43,-86.92,34.02,-118.29,1772,2025–26,Involves a West Coast school
+2026,1,Purdue,Washington,40.43,-86.92,47.65,-122.3,1809,2025–26,Involves a West Coast school
+2026,1,Purdue,Wisconsin,40.43,-86.92,43.07,-89.41,223,2025–26,Between pre-expansion members
+2026,1,Rutgers,UCLA,40.52,-74.46,34.07,-118.44,2432,2025–26,Involves a West Coast school
+2026,1,Rutgers,USC,40.52,-74.46,34.02,-118.29,2426,2025–26,Involves a West Coast school
+2026,1,Rutgers,Washington,40.52,-74.46,47.65,-122.3,2385,2025–26,Involves a West Coast school
+2026,1,Rutgers,Wisconsin,40.52,-74.46,43.07,-89.41,789,2025–26,Between pre-expansion members
+2026,2,UCLA,USC,34.07,-118.44,34.02,-118.29,9,2025–26,Involves a West Coast school
+2026,1,UCLA,Washington,34.07,-118.44,47.65,-122.3,959,2025–26,Involves a West Coast school
+2026,1,UCLA,Wisconsin,34.07,-118.44,43.07,-89.41,1676,2025–26,Involves a West Coast school
+2026,1,USC,Washington,34.02,-118.29,47.65,-122.3,964,2025–26,Involves a West Coast school
+2026,1,USC,Wisconsin,34.02,-118.29,43.07,-89.41,1671,2025–26,Involves a West Coast school
+2026,1,Washington,Wisconsin,47.65,-122.3,43.07,-89.41,1615,2025–26,Involves a West Coast school
