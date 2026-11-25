@@ -1,0 +1,2786 @@
+season,date,home_location,away_location,attendance,venue_full_name
+2014,2014-03-27T23:00Z,Indiana,Northwestern,3065.0,Simon Skjodt Assembly Hall
+2014,2014-03-24T23:00Z,Michigan,Duquesne,1158.0,Crisler Center
+2014,2014-03-23T22:00Z,Minnesota,SMU,587.0,Williams Arena
+2014,2014-03-23T19:00Z,Northwestern,IUPUI,565.0,Welsh-Ryan Arena
+2014,2014-03-22T23:00Z,Indiana,Marquette,2469.0,Simon Skjodt Assembly Hall
+2014,2014-03-21T23:00Z,Michigan,Stony Brook,1175.0,Crisler Center
+2014,2014-03-21T00:00Z,Northwestern,Ball State,405.0,Welsh-Ryan Arena
+2014,2014-03-20T00:00Z,Minnesota,Green Bay,950.0,Williams Arena
+2014,2014-03-02T23:00Z,Michigan State,Indiana,9837.0,Breslin Center
+2014,2014-03-02T21:00Z,Illinois,Iowa,2201.0,State Farm Center
+2014,2014-03-02T19:00Z,Purdue,Nebraska,9306.0,Mackey Arena
+2014,2014-03-02T19:00Z,Wisconsin,Northwestern,4191.0,Kohl Center
+2014,2014-03-02T19:00Z,Minnesota,Ohio State,3403.0,Williams Arena
+2014,2014-03-01T20:30Z,Penn State,Michigan,6494.0,Bryce Jordan Center
+2014,2014-02-28T02:00Z,Northwestern,Michigan State,705.0,Welsh-Ryan Arena
+2014,2014-02-28T01:00Z,Nebraska,Illinois,7480.0,Pinnacle Bank Arena
+2014,2014-02-28T01:00Z,Minnesota,Indiana,2613.0,Williams Arena
+2014,2014-02-28T00:00Z,Iowa,Ohio State,3492.0,Carver-Hawkeye Arena
+2014,2014-02-25T00:00Z,Nebraska,Penn State,7253.0,Pinnacle Bank Arena
+2014,2014-02-25T00:00Z,Michigan State,Minnesota,5703.0,Breslin Center
+2014,2014-02-23T19:00Z,Purdue,Wisconsin,8267.0,Mackey Arena
+2014,2014-02-23T17:00Z,Ohio State,Northwestern,6670.0,Value City Arena
+2014,2014-02-22T20:30Z,Indiana,Illinois,3481.0,Simon Skjodt Assembly Hall
+2014,2014-02-22T18:30Z,Michigan,Iowa,2332.0,Crisler Center
+2014,2014-02-21T02:00Z,Wisconsin,Michigan State,3848.0,Kohl Center
+2014,2014-02-21T01:00Z,Minnesota,Purdue,2690.0,Williams Arena
+2014,2014-02-21T00:00Z,Penn State,Northwestern,3960.0,Bryce Jordan Center
+2014,2014-02-21T00:00Z,Ohio State,Nebraska,4612.0,Value City Arena
+2014,2014-02-20T00:00Z,Indiana,Michigan,2254.0,Simon Skjodt Assembly Hall
+2014,2014-02-16T19:00Z,Purdue,Iowa,8813.0,Mackey Arena
+2014,2014-02-16T19:00Z,Illinois,Michigan,3018.0,State Farm Center
+2014,2014-02-16T18:00Z,Penn State,Wisconsin,12585.0,Bryce Jordan Center
+2014,2014-02-16T18:00Z,Nebraska,Indiana,8165.0,Pinnacle Bank Arena
+2014,2014-02-15T22:30Z,Michigan State,Ohio State,10626.0,Breslin Center
+2014,2014-02-15T20:30Z,Northwestern,Minnesota,1782.0,Welsh-Ryan Arena
+2014,2014-02-14T02:00Z,Iowa,Illinois,3636.0,Carver-Hawkeye Arena
+2014,2014-02-14T00:00Z,Indiana,Penn State,2115.0,Simon Skjodt Assembly Hall
+2014,2014-02-14T00:00Z,Michigan,Nebraska,1728.0,Crisler Center
+2014,2014-02-13T01:00Z,Wisconsin,Minnesota,3659.0,Kohl Center
+2014,2014-02-11T00:00Z,Iowa,Northwestern,3684.0,Carver-Hawkeye Arena
+2014,2014-02-09T20:00Z,Minnesota,Illinois,4306.0,Williams Arena
+2014,2014-02-09T19:00Z,Ohio State,Penn State,6591.0,Value City Arena
+2014,2014-02-09T17:00Z,Michigan,Purdue,2428.0,Crisler Center
+2014,2014-02-08T20:00Z,Nebraska,Michigan State,7915.0,Pinnacle Bank Arena
+2014,2014-02-08T18:00Z,Indiana,Wisconsin,3570.0,Simon Skjodt Assembly Hall
+2014,2014-02-07T01:00Z,Northwestern,Michigan,742.0,Welsh-Ryan Arena
+2014,2014-02-07T00:00Z,Purdue,Ohio State,7504.0,Mackey Arena
+2014,2014-02-06T23:00Z,Penn State,Iowa,4033.0,Bryce Jordan Center
+2014,2014-02-06T01:00Z,Wisconsin,Nebraska,3307.0,Kohl Center
+2014,2014-02-06T01:00Z,Illinois,Michigan State,1317.0,State Farm Center
+2014,2014-02-02T20:00Z,Wisconsin,Ohio State,6070.0,Kohl Center
+2014,2014-02-02T19:00Z,Northwestern,Penn State,1698.0,Welsh-Ryan Arena
+2014,2014-02-02T19:00Z,Illinois,Indiana,1914.0,State Farm Center
+2014,2014-02-02T18:30Z,Michigan State,Purdue,13172.0,Breslin Center
+2014,2014-02-01T20:00Z,Iowa,Nebraska,8021.0,Carver-Hawkeye Arena
+2014,2014-02-01T17:00Z,Michigan,Minnesota,1508.0,Crisler Center
+2014,2014-01-31T00:00Z,Michigan State,Wisconsin,5354.0,Breslin Center
+2014,2014-01-31T00:00Z,Indiana,Northwestern,3162.0,Simon Skjodt Assembly Hall
+2014,2014-01-31T00:00Z,Ohio State,Illinois,4256.0,Value City Arena
+2014,2014-01-30T23:00Z,Purdue,Penn State,7785.0,Mackey Arena
+2014,2014-01-30T01:00Z,Nebraska,Michigan,6297.0,Pinnacle Bank Arena
+2014,2014-01-30T01:00Z,Minnesota,Iowa,3124.0,Williams Arena
+2014,2014-01-28T00:00Z,Illinois,Purdue,1554.0,State Farm Center
+2014,2014-01-26T22:00Z,Northwestern,Nebraska,1287.0,Welsh-Ryan Arena
+2014,2014-01-26T18:00Z,Penn State,Minnesota,6292.0,Bryce Jordan Center
+2014,2014-01-26T18:00Z,Wisconsin,Michigan,7406.0,Kohl Center
+2014,2014-01-26T17:30Z,Ohio State,Michigan State,6020.0,Value City Arena
+2014,2014-01-26T00:00Z,Iowa,Indiana,7180.0,Carver-Hawkeye Arena
+2014,2014-01-24T02:00Z,Minnesota,Wisconsin,2759.0,Williams Arena
+2014,2014-01-24T00:00Z,Purdue,Northwestern,7455.0,Mackey Arena
+2014,2014-01-24T00:00Z,Michigan,Ohio State,1646.0,Crisler Center
+2014,2014-01-24T00:00Z,Michigan State,Illinois,5360.0,Breslin Center
+2014,2014-01-23T00:00Z,Penn State,Indiana,4828.0,Bryce Jordan Center
+2014,2014-01-19T22:00Z,Michigan State,Penn State,9232.0,Breslin Center
+2014,2014-01-19T22:00Z,Nebraska,Purdue,6196.0,Pinnacle Bank Arena
+2014,2014-01-19T20:00Z,Ohio State,Iowa,7567.0,Value City Arena
+2014,2014-01-19T19:00Z,Indiana,Minnesota,4532.0,Simon Skjodt Assembly Hall
+2014,2014-01-18T20:00Z,Northwestern,Wisconsin,1516.0,Welsh-Ryan Arena
+2014,2014-01-18T17:00Z,Michigan,Illinois,2013.0,Crisler Center
+2014,2014-01-18T00:00Z,Purdue,Indiana,8698.0,Mackey Arena
+2014,2014-01-17T02:00Z,Nebraska,Minnesota,4922.0,Pinnacle Bank Arena
+2014,2014-01-17T01:00Z,Iowa,Michigan State,4176.0,Carver-Hawkeye Arena
+2014,2014-01-17T00:00Z,Penn State,Ohio State,3964.0,Bryce Jordan Center
+2014,2014-01-16T02:45Z,Northwestern,Illinois,4125.0,Welsh-Ryan Arena
+2014,2014-01-16T01:00Z,Wisconsin,Indiana,3217.0,Kohl Center
+2014,2014-01-16T00:00Z,Purdue,Michigan,7536.0,Mackey Arena
+2014,2014-01-12T21:30Z,Michigan,Michigan State,4510.0,Crisler Center
+2014,2014-01-12T20:00Z,Penn State,Purdue,4853.0,Bryce Jordan Center
+2014,2014-01-12T20:00Z,Minnesota,Northwestern,4482.0,Williams Arena
+2014,2014-01-12T19:00Z,Illinois,Nebraska,3306.0,State Farm Center
+2014,2014-01-12T18:00Z,Wisconsin,Iowa,5245.0,Kohl Center
+2014,2014-01-11T21:30Z,Indiana,Ohio State,4139.0,Simon Skjodt Assembly Hall
+2014,2014-01-10T02:00Z,Illinois,Penn State,1317.0,State Farm Center
+2014,2014-01-10T01:00Z,Northwestern,Purdue,491.0,Welsh-Ryan Arena
+2014,2014-01-10T00:00Z,Michigan State,Nebraska,5024.0,Breslin Center
+2014,2014-01-10T00:00Z,Michigan,Wisconsin,1248.0,Crisler Center
+2014,2014-01-09T01:00Z,Iowa,Minnesota,3460.0,Carver-Hawkeye Arena
+2014,2014-01-05T22:00Z,Ohio State,Michigan,6350.0,Value City Arena
+2014,2014-01-05T20:00Z,Iowa,Penn State,6230.0,Carver-Hawkeye Arena
+2014,2014-01-04T20:00Z,Minnesota,Michigan State,3442.0,Williams Arena
+2014,2014-01-04T01:00Z,Illinois,Wisconsin,1872.0,State Farm Center
+2014,2014-01-03T02:00Z,Nebraska,Northwestern,6089.0,Pinnacle Bank Arena
+2014,2014-01-03T00:00Z,Ohio State,Purdue,4961.0,Value City Arena
+2014,2014-01-03T00:00Z,Indiana,Iowa,2888.0,Simon Skjodt Assembly Hall
+2014,2013-12-31T00:00Z,Wisconsin,Green Bay,4931.0,Kohl Center
+2014,2013-12-29T20:00Z,Nebraska,Oral Roberts,5811.0,Pinnacle Bank Arena
+2014,2013-12-29T20:00Z,Minnesota,Oakland,2578.0,Williams Arena
+2014,2013-12-29T19:00Z,Penn State,Hartford,4629.0,Bryce Jordan Center
+2014,2013-12-29T19:00Z,Michigan State,Colgate,8079.0,Breslin Center
+2014,2013-12-29T17:00Z,Ohio State,North Carolina Central,6837.0,Value City Arena
+2014,2013-12-28T20:00Z,Iowa,North Dakota,4209.0,Carver-Hawkeye Arena
+2014,2013-12-28T19:00Z,Purdue,Central Michigan,8144.0,Mackey Arena
+2014,2013-12-28T19:00Z,Michigan,Alcorn State,2168.0,Crisler Center
+2014,2013-12-22T20:00Z,Minnesota,Auburn,3139.0,Williams Arena
+2014,2013-12-22T17:00Z,Purdue,Bowling Green,7794.0,Mackey Arena
+2014,2013-12-21T23:00Z,Wisconsin,UIC,3744.0,Kohl Center
+2014,2013-12-21T22:00Z,Iowa,Drake,5598.0,Carver-Hawkeye Arena
+2014,2013-12-21T20:30Z,Nebraska,South Dakota,5358.0,Pinnacle Bank Arena
+2014,2013-12-21T20:00Z,Illinois,UT Martin,1514.0,State Farm Center
+2014,2013-12-21T18:00Z,Northwestern,IUPUI,761.0,Welsh-Ryan Arena
+2014,2013-12-21T00:00Z,Michigan,Southern,1307.0,Crisler Center
+2014,2013-12-20T18:00Z,Minnesota,UCLA,5065.0,Williams Arena
+2014,2013-12-18T00:00Z,Ohio State,UT Martin,4164.0,Value City Arena
+2014,2013-12-16T17:00Z,Northwestern,Oral Roberts,5271.0,Welsh-Ryan Arena
+2014,2013-12-15T19:00Z,Penn State,Texas A&M,4777.0,Bryce Jordan Center
+2014,2013-12-15T19:00Z,Michigan State,Oakland,6513.0,Breslin Center
+2014,2013-12-15T00:00Z,Michigan,Notre Dame,3330.0,Crisler Center
+2014,2013-12-14T17:00Z,Nebraska,Creighton,5233.0,Pinnacle Bank Arena
+2014,2013-12-14T00:00Z,Ohio State,Army,4183.0,Value City Arena
+2014,2013-12-12T00:00Z,Michigan,Eastern Michigan,1863.0,Crisler Center
+2014,2013-12-12T00:00Z,Indiana,Milwaukee,1891.0,Simon Skjodt Assembly Hall
+2014,2013-12-11T01:00Z,Wisconsin,Gonzaga,3043.0,Kohl Center
+2014,2013-12-10T01:00Z,Illinois,Seton Hall,1358.0,State Farm Center
+2014,2013-12-08T20:00Z,Nebraska,Utah State,4494.0,Pinnacle Bank Arena
+2014,2013-12-08T20:00Z,Minnesota,North Dakota,3568.0,Williams Arena
+2014,2013-12-08T19:00Z,Purdue,Purdue Fort Wayne,7476.0,Mackey Arena
+2014,2013-12-08T17:00Z,Ohio State,Gonzaga,6409.0,Value City Arena
+2014,2013-12-07T20:00Z,Iowa,Idaho State,3168.0,Carver-Hawkeye Arena
+2014,2013-12-06T02:00Z,Minnesota,Miami,2158.0,Williams Arena
+2014,2013-12-06T01:00Z,Wisconsin,Boston College,3028.0,Kohl Center
+2014,2013-12-06T00:30Z,Northwestern,NC State,392.0,Welsh-Ryan Arena
+2014,2013-12-06T00:00Z,Iowa,Syracuse,3323.0,Carver-Hawkeye Arena
+2014,2013-12-05T00:30Z,Penn State,Notre Dame,5805.0,Bryce Jordan Center
+2014,2013-12-05T00:00Z,Indiana,Virginia Tech,2210.0,Simon Skjodt Assembly Hall
+2014,2013-12-01T21:30Z,Michigan State,Purdue Fort Wayne,6012.0,Breslin Center
+2014,2013-12-01T20:00Z,Northwestern,DePaul,1201.0,Welsh-Ryan Arena
+2014,2013-12-01T19:00Z,Indiana,South Carolina Upstate,2432.0,Simon Skjodt Assembly Hall
+2014,2013-11-30T23:00Z,Nebraska,Washington State,5933.0,Pinnacle Bank Arena
+2014,2013-11-28T01:00Z,Nebraska,UMass Lowell,5019.0,Pinnacle Bank Arena
+2014,2013-11-28T00:30Z,Northwestern,Lafayette,482.0,Welsh-Ryan Arena
+2014,2013-11-28T00:00Z,Ohio State,Lehigh,4323.0,Value City Arena
+2014,2013-11-27T01:00Z,Minnesota,Loyola Chicago,2368.0,Williams Arena
+2014,2013-11-26T00:00Z,Indiana,Saint Louis,1810.0,Simon Skjodt Assembly Hall
+2014,2013-11-24T20:00Z,Nebraska,Southern,5454.0,Pinnacle Bank Arena
+2014,2013-11-24T20:00Z,Minnesota,Navy,2769.0,Williams Arena
+2014,2013-11-24T01:30Z,Ohio State,Marist,4499.0,Value City Arena
+2014,2013-11-24T00:30Z,Michigan State,Rice,5850.0,Breslin Center
+2014,2013-11-23T19:00Z,Indiana,Butler,2505.0,Simon Skjodt Assembly Hall
+2014,2013-11-23T01:00Z,Ohio State,Old Dominion,5335.0,Value City Arena
+2014,2013-11-22T22:30Z,Purdue,Belmont,7531.0,Mackey Arena
+2014,2013-11-22T01:05Z,Nebraska,Arkansas-Pine Bluff,4599.0,Pinnacle Bank Arena
+2014,2013-11-22T01:00Z,Illinois,Southern Illinois,1459.0,State Farm Center
+2014,2013-11-21T01:00Z,Minnesota,Kansas,3455.0,Williams Arena
+2014,2013-11-21T00:30Z,Northwestern,Hofstra,331.0,Welsh-Ryan Arena
+2014,2013-11-21T00:00Z,Penn State,Bucknell,3646.0,Bryce Jordan Center
+2014,2013-11-21T00:00Z,Michigan State,Detroit Mercy,5323.0,Breslin Center
+2014,2013-11-21T00:00Z,Michigan,Pittsburgh,1339.0,Crisler Center
+2014,2013-11-19T00:00Z,Indiana,Central Arkansas,1711.0,Simon Skjodt Assembly Hall
+2014,2013-11-17T22:00Z,Northwestern,UNLV,573.0,Welsh-Ryan Arena
+2014,2013-11-17T20:00Z,Wisconsin,Northern Illinois,3689.0,Kohl Center
+2014,2013-11-17T19:00Z,Michigan State,Dayton,6399.0,Breslin Center
+2014,2013-11-17T19:00Z,Iowa,Stony Brook,3470.0,Carver-Hawkeye Arena
+2014,2013-11-17T19:00Z,Illinois,Alcorn State,2909.0,State Farm Center
+2014,2013-11-17T17:00Z,Penn State,UConn,8194.0,Bryce Jordan Center
+2014,2013-11-15T01:00Z,Illinois,Mississippi Valley State,1272.0,State Farm Center
+2014,2013-11-15T00:00Z,Michigan State,Canisius,4693.0,Breslin Center
+2014,2013-11-15T00:00Z,Ohio State,VCU,4254.0,Value City Arena
+2014,2013-11-14T01:00Z,Minnesota,Charlotte,2107.0,Williams Arena
+2014,2013-11-14T01:00Z,Iowa,Arkansas-Pine Bluff,2810.0,Carver-Hawkeye Arena
+2014,2013-11-14T00:30Z,Northwestern,Chicago State,375.0,Welsh-Ryan Arena
+2014,2013-11-14T00:00Z,Michigan,Xavier,1190.0,Crisler Center
+2014,2013-11-13T01:00Z,Illinois,Valparaiso,1265.0,State Farm Center
+2014,2013-11-12T01:00Z,Nebraska,Alabama,4924.0,Pinnacle Bank Arena
+2014,2013-11-10T23:00Z,Northwestern,UIC,392.0,Welsh-Ryan Arena
+2014,2013-11-10T20:00Z,Wisconsin,Drake,3361.0,Kohl Center
+2014,2013-11-10T19:00Z,Penn State,Fordham,3834.0,Bryce Jordan Center
+2014,2013-11-10T19:00Z,Iowa,Dayton,3370.0,Carver-Hawkeye Arena
+2014,2013-11-10T19:00Z,Purdue,Ball State,8091.0,Mackey Arena
+2014,2013-11-10T19:00Z,Ohio State,Florida Atlantic,4542.0,Value City Arena
+2014,2013-11-10T01:00Z,Indiana,Oakland,2485.0,Simon Skjodt Assembly Hall
+2014,2013-11-09T00:00Z,Penn State,St. Francis (PA),3908.0,Bryce Jordan Center
+2014,2013-11-09T00:00Z,Iowa,UC Riverside,3162.0,Carver-Hawkeye Arena
+2014,2013-11-08T18:00Z,Nebraska,UCLA,9750.0,Bob Devaney Sports Center
+2015,2015-04-01T23:00Z,Michigan,UCLA,2209.0,Crisler Center
+2015,2015-03-26T23:00Z,Michigan,Missouri,1383.0,Crisler Center
+2015,2015-03-18T23:00Z,Michigan,Cleveland State,1028.0,Crisler Center
+2015,2015-03-01T22:00Z,Nebraska,Ohio State,8418.0,Pinnacle Bank Arena
+2015,2015-03-01T20:00Z,Iowa,Minnesota,9726.0,Carver-Hawkeye Arena
+2015,2015-03-01T19:00Z,Rutgers,Indiana,3374.0,Jersey Mike’s Arena
+2015,2015-03-01T19:00Z,Penn State,Wisconsin,9270.0,Bryce Jordan Center
+2015,2015-03-01T18:00Z,Northwestern,Maryland,1743.0,Welsh-Ryan Arena
+2015,2015-02-28T19:00Z,Purdue,Michigan State,7030.0,Mackey Arena
+2015,2015-02-28T17:00Z,Illinois,Michigan,2989.0,State Farm Center
+2015,2015-02-27T01:00Z,Iowa,Wisconsin,4536.0,Carver-Hawkeye Arena
+2015,2015-02-27T01:00Z,Northwestern,Rutgers,903.0,Welsh-Ryan Arena
+2015,2015-02-27T00:00Z,Maryland,Indiana,5601.0,XFINITY Center
+2015,2015-02-27T00:00Z,Penn State,Ohio State,3529.0,Bryce Jordan Center
+2015,2015-02-26T01:00Z,Illinois,Michigan State,1815.0,State Farm Center
+2015,2015-02-25T02:00Z,Nebraska,Minnesota,5290.0,Pinnacle Bank Arena
+2015,2015-02-25T00:00Z,Michigan,Purdue,1534.0,Crisler Center
+2015,2015-02-24T00:00Z,Maryland,Penn State,6307.0,XFINITY Center
+2015,2015-02-22T19:00Z,Michigan State,Rutgers,8110.0,Breslin Center
+2015,2015-02-22T00:00Z,Ohio State,Iowa,6471.0,Value City Arena
+2015,2015-02-21T19:00Z,Purdue,Illinois,6348.0,Mackey Arena
+2015,2015-02-21T19:00Z,Minnesota,Michigan,6053.0,Williams Arena
+2015,2015-02-21T17:00Z,Indiana,Nebraska,2490.0,Simon Skjodt Assembly Hall
+2015,2015-02-20T02:00Z,Wisconsin,Maryland,3026.0,Kohl Center
+2015,2015-02-19T01:00Z,Northwestern,Nebraska,779.0,Welsh-Ryan Arena
+2015,2015-02-19T00:00Z,Michigan,Indiana,1806.0,Crisler Center
+2015,2015-02-18T02:00Z,Minnesota,Iowa,3265.0,Williams Arena
+2015,2015-02-18T00:00Z,Rutgers,Illinois,2329.0,Jersey Mike’s Arena
+2015,2015-02-18T00:00Z,Ohio State,Purdue,4185.0,Value City Arena
+2015,2015-02-17T00:00Z,Michigan State,Maryland,5562.0,Breslin Center
+2015,2015-02-15T23:00Z,Iowa,Indiana,8748.0,Carver-Hawkeye Arena
+2015,2015-02-15T20:00Z,Nebraska,Wisconsin,8622.0,Pinnacle Bank Arena
+2015,2015-02-15T19:00Z,Penn State,Minnesota,4462.0,Bryce Jordan Center
+2015,2015-02-14T21:00Z,Illinois,Ohio State,2708.0,State Farm Center
+2015,2015-02-14T19:00Z,Michigan,Northwestern,2129.0,Crisler Center
+2015,2015-02-14T17:00Z,Rutgers,Purdue,2713.0,Jersey Mike’s Arena
+2015,2015-02-13T02:00Z,Nebraska,Iowa,5260.0,Pinnacle Bank Arena
+2015,2015-02-12T01:00Z,Minnesota,Wisconsin,3609.0,Williams Arena
+2015,2015-02-12T00:00Z,Indiana,Illinois,2236.0,Simon Skjodt Assembly Hall
+2015,2015-02-12T00:00Z,Penn State,Michigan State,3319.0,Bryce Jordan Center
+2015,2015-02-12T00:00Z,Purdue,Northwestern,5929.0,Mackey Arena
+2015,2015-02-11T02:00Z,Maryland,Rutgers,3636.0,XFINITY Center
+2015,2015-02-11T00:00Z,Ohio State,Michigan,4668.0,Value City Arena
+2015,2015-02-08T21:00Z,Maryland,Nebraska,10937.0,XFINITY Center
+2015,2015-02-08T20:00Z,Wisconsin,Iowa,11428.0,Kohl Center
+2015,2015-02-08T20:00Z,Minnesota,Michigan State,6570.0,Williams Arena
+2015,2015-02-08T19:00Z,Michigan,Rutgers,3478.0,Crisler Center
+2015,2015-02-08T19:00Z,Purdue,Penn State,6861.0,Mackey Arena
+2015,2015-02-08T19:00Z,Northwestern,Illinois,2011.0,Welsh-Ryan Arena
+2015,2015-02-08T19:00Z,Ohio State,Indiana,7639.0,Value City Arena
+2015,2015-02-06T02:00Z,Illinois,Minnesota,1693.0,State Farm Center
+2015,2015-02-06T01:00Z,Iowa,Ohio State,4572.0,Carver-Hawkeye Arena
+2015,2015-02-06T00:00Z,Penn State,Maryland,3809.0,Bryce Jordan Center
+2015,2015-02-06T00:00Z,Rutgers,Nebraska,2436.0,Jersey Mike’s Arena
+2015,2015-02-06T00:00Z,Indiana,Northwestern,2094.0,Simon Skjodt Assembly Hall
+2015,2015-02-06T00:00Z,Michigan State,Michigan,5315.0,Breslin Center
+2015,2015-02-03T01:30Z,Indiana,Purdue,2468.0,Simon Skjodt Assembly Hall
+2015,2015-02-02T23:30Z,Ohio State,Michigan State,4234.0,Value City Arena
+2015,2015-02-01T21:00Z,Maryland,Iowa,5373.0,XFINITY Center
+2015,2015-02-01T20:00Z,Nebraska,Michigan,5386.0,Pinnacle Bank Arena
+2015,2015-02-01T20:00Z,Northwestern,Minnesota,918.0,Welsh-Ryan Arena
+2015,2015-02-01T20:00Z,Illinois,Wisconsin,1797.0,State Farm Center
+2015,2015-02-01T17:00Z,Rutgers,Penn State,2931.0,Jersey Mike’s Arena
+2015,2015-01-30T02:00Z,Wisconsin,Ohio State,3296.0,Kohl Center
+2015,2015-01-30T01:00Z,Nebraska,Illinois,7378.0,Pinnacle Bank Arena
+2015,2015-01-30T01:00Z,Northwestern,Iowa,987.0,Welsh-Ryan Arena
+2015,2015-01-30T00:00Z,Michigan,Maryland,1358.0,Crisler Center
+2015,2015-01-30T00:00Z,Purdue,Rutgers,5780.0,Mackey Arena
+2015,2015-01-29T01:00Z,Minnesota,Penn State,2738.0,Williams Arena
+2015,2015-01-29T00:00Z,Michigan State,Indiana,4800.0,Breslin Center
+2015,2015-01-27T02:00Z,Iowa,Nebraska,4489.0,Carver-Hawkeye Arena
+2015,2015-01-27T00:00Z,Michigan,Illinois,1780.0,Crisler Center
+2015,2015-01-25T22:15Z,Rutgers,Minnesota,2811.0,Jersey Mike’s Arena
+2015,2015-01-25T20:00Z,Indiana,Maryland,3670.0,Simon Skjodt Assembly Hall
+2015,2015-01-25T19:00Z,Penn State,Northwestern,3786.0,Bryce Jordan Center
+2015,2015-01-25T19:00Z,Purdue,Ohio State,6801.0,Mackey Arena
+2015,2015-01-25T19:00Z,Michigan State,Wisconsin,7560.0,Breslin Center
+2015,2015-01-23T02:00Z,Iowa,Michigan,3584.0,Carver-Hawkeye Arena
+2015,2015-01-23T01:00Z,Wisconsin,Nebraska,3023.0,Kohl Center
+2015,2015-01-23T01:00Z,Minnesota,Purdue,3714.0,Williams Arena
+2015,2015-01-23T01:00Z,Illinois,Northwestern,1725.0,State Farm Center
+2015,2015-01-23T00:00Z,Maryland,Michigan State,5012.0,XFINITY Center
+2015,2015-01-23T00:00Z,Penn State,Indiana,3290.0,Bryce Jordan Center
+2015,2015-01-20T00:00Z,Nebraska,Purdue,5095.0,Pinnacle Bank Arena
+2015,2015-01-18T20:00Z,Michigan State,Iowa,8923.0,Breslin Center
+2015,2015-01-18T20:00Z,Minnesota,Indiana,5424.0,Williams Arena
+2015,2015-01-18T20:00Z,Wisconsin,Rutgers,4114.0,Kohl Center
+2015,2015-01-18T19:00Z,Maryland,Illinois,6191.0,XFINITY Center
+2015,2015-01-18T19:00Z,Ohio State,Penn State,6346.0,Value City Arena
+2015,2015-01-17T23:00Z,Northwestern,Michigan,2112.0,Welsh-Ryan Arena
+2015,2015-01-16T02:00Z,Rutgers,Maryland,2116.0,Jersey Mike’s Arena
+2015,2015-01-16T00:00Z,Nebraska,Penn State,5395.0,Pinnacle Bank Arena
+2015,2015-01-16T00:00Z,Ohio State,Minnesota,4509.0,Value City Arena
+2015,2015-01-16T00:00Z,Michigan State,Illinois,4419.0,Breslin Center
+2015,2015-01-16T00:00Z,Purdue,Wisconsin,5916.0,Mackey Arena
+2015,2015-01-15T01:00Z,Iowa,Northwestern,4027.0,Carver-Hawkeye Arena
+2015,2015-01-11T20:00Z,Minnesota,Maryland,5468.0,Williams Arena
+2015,2015-01-11T20:00Z,Illinois,Nebraska,3263.0,State Farm Center
+2015,2015-01-11T20:00Z,Northwestern,Michigan State,1152.0,Welsh-Ryan Arena
+2015,2015-01-11T19:00Z,Iowa,Purdue,7359.0,Carver-Hawkeye Arena
+2015,2015-01-11T19:00Z,Michigan,Ohio State,3351.0,Crisler Center
+2015,2015-01-11T19:00Z,Indiana,Wisconsin,3155.0,Simon Skjodt Assembly Hall
+2015,2015-01-10T17:00Z,Penn State,Rutgers,3705.0,Bryce Jordan Center
+2015,2015-01-09T01:30Z,Michigan State,Nebraska,4652.0,Breslin Center
+2015,2015-01-09T01:00Z,Illinois,Iowa,1650.0,State Farm Center
+2015,2015-01-09T00:00Z,Indiana,Ohio State,2189.0,Simon Skjodt Assembly Hall
+2015,2015-01-08T23:30Z,Maryland,Purdue,4272.0,XFINITY Center
+2015,2015-01-08T00:00Z,Rutgers,Michigan,2554.0,Jersey Mike’s Arena
+2015,2015-01-07T02:00Z,Wisconsin,Penn State,2822.0,Kohl Center
+2015,2015-01-04T21:00Z,Ohio State,Northwestern,5402.0,Value City Arena
+2015,2015-01-04T20:00Z,Wisconsin,Minnesota,3814.0,Kohl Center
+2015,2015-01-04T19:00Z,Michigan,Michigan State,4520.0,Crisler Center
+2015,2015-01-04T19:00Z,Purdue,Indiana,6990.0,Mackey Arena
+2015,2015-01-04T19:00Z,Penn State,Illinois,3933.0,Bryce Jordan Center
+2015,2015-01-04T17:00Z,Rutgers,Iowa,2542.0,Jersey Mike’s Arena
+2015,2015-01-03T21:00Z,Nebraska,Maryland,7505.0,Pinnacle Bank Arena
+2015,2015-01-01T19:00Z,Ohio State,Rutgers,4557.0,Value City Arena
+2015,2015-01-01T19:00Z,Purdue,Minnesota,6361.0,Mackey Arena
+2015,2015-01-01T19:00Z,Northwestern,Wisconsin,1163.0,Welsh-Ryan Arena
+2015,2015-01-01T18:00Z,Michigan,Penn State,3034.0,Crisler Center
+2015,2015-01-01T00:00Z,Indiana,Michigan State,2714.0,Simon Skjodt Assembly Hall
+2015,2014-12-30T02:00Z,Minnesota,Nebraska,3300.0,Williams Arena
+2015,2014-12-30T00:00Z,Maryland,Ohio State,5671.0,XFINITY Center
+2015,2014-12-28T21:00Z,Wisconsin,Michigan,3528.0,Kohl Center
+2015,2014-12-28T20:00Z,Iowa,Penn State,5411.0,Carver-Hawkeye Arena
+2015,2014-12-28T20:00Z,Illinois,Purdue,2548.0,State Farm Center
+2015,2014-12-28T19:00Z,Indiana,Rutgers,3925.0,Simon Skjodt Assembly Hall
+2015,2014-12-28T19:00Z,Michigan State,Northwestern,8128.0,Breslin Center
+2015,2014-12-23T01:00Z,Illinois,Murray State,1892.0,State Farm Center
+2015,2014-12-22T19:00Z,Ohio State,West Virginia,5048.0,Value City Arena
+2015,2014-12-22T17:00Z,Michigan,Eastern Michigan,3946.0,Crisler Center
+2015,2014-12-21T20:30Z,Minnesota,Central Michigan,2659.0,Williams Arena
+2015,2014-12-21T19:30Z,Purdue,Wright State,5966.0,Mackey Arena
+2015,2014-12-21T19:00Z,Penn State,South Florida,3429.0,Bryce Jordan Center
+2015,2014-12-20T23:00Z,Wisconsin,Oral Roberts,3476.0,Kohl Center
+2015,2014-12-20T21:00Z,Nebraska,High Point,5244.0,Pinnacle Bank Arena
+2015,2014-12-20T20:30Z,Minnesota,Liberty,2858.0,Williams Arena
+2015,2014-12-20T19:30Z,Purdue,Denver,6009.0,Mackey Arena
+2015,2014-12-20T00:00Z,Michigan,Canisius,1985.0,Crisler Center
+2015,2014-12-19T17:00Z,Purdue,UC Irvine,7283.0,Mackey Arena
+2015,2014-12-17T00:00Z,Michigan State,Alcorn State,5243.0,Breslin Center
+2015,2014-12-15T18:00Z,Northwestern,Gonzaga,5047.0,Welsh-Ryan Arena
+2015,2014-12-14T20:00Z,Rutgers,Tennessee,4345.0,Jersey Mike’s Arena
+2015,2014-12-14T19:30Z,Penn State,Rider,9991.0,Bryce Jordan Center
+2015,2014-12-14T19:00Z,Ohio State,Western Michigan,4298.0,Value City Arena
+2015,2014-12-13T20:00Z,Nebraska,Cal State Bakersfield,4957.0,Pinnacle Bank Arena
+2015,2014-12-13T00:00Z,Maryland,American University,3498.0,XFINITY Center
+2015,2014-12-12T01:10Z,Iowa,Iowa State,4902.0,Carver-Hawkeye Arena
+2015,2014-12-12T00:00Z,Ohio State,Arkansas State,3719.0,Value City Arena
+2015,2014-12-12T00:00Z,Purdue,Kansas,5760.0,Mackey Arena
+2015,2014-12-11T00:00Z,Indiana,Purdue Fort Wayne,2261.0,Simon Skjodt Assembly Hall
+2015,2014-12-09T23:30Z,Michigan,Princeton,1193.0,Crisler Center
+2015,2014-12-08T00:00Z,Minnesota,Butler,3477.0,Williams Arena
+2015,2014-12-07T20:00Z,Iowa,Colorado,6061.0,Carver-Hawkeye Arena
+2015,2014-12-07T20:00Z,Northwestern,Loyola Chicago,612.0,Welsh-Ryan Arena
+2015,2014-12-07T19:00Z,Maryland,Towson,3887.0,XFINITY Center
+2015,2014-12-07T19:00Z,Penn State,Wagner,3657.0,Bryce Jordan Center
+2015,2014-12-07T19:00Z,Ohio State,Winthrop,4384.0,Value City Arena
+2015,2014-12-07T19:00Z,Indiana,IUPUI,2503.0,Simon Skjodt Assembly Hall
+2015,2014-12-06T19:00Z,Wisconsin,Marquette,3412.0,Kohl Center
+2015,2014-12-05T00:00Z,Rutgers,North Carolina,2028.0,Jersey Mike’s Arena
+2015,2014-12-05T00:00Z,Michigan State,Georgia Tech,6636.0,Breslin Center
+2015,2014-12-04T01:00Z,Illinois,Virginia,1253.0,State Farm Center
+2015,2014-12-04T00:30Z,Nebraska,Duke,7571.0,Pinnacle Bank Arena
+2015,2014-12-04T00:00Z,Michigan,Wake Forest,1225.0,Crisler Center
+2015,2014-12-04T00:00Z,Ohio State,Pittsburgh,3777.0,Value City Arena
+2015,2014-12-04T00:00Z,Purdue,Florida State,5725.0,Mackey Arena
+2015,2014-11-30T20:00Z,Nebraska,Northern Colorado,4975.0,Pinnacle Bank Arena
+2015,2014-11-30T19:00Z,Michigan State,Miami (OH),4007.0,Breslin Center
+2015,2014-11-30T19:00Z,Indiana,Indiana State,3287.0,Simon Skjodt Assembly Hall
+2015,2014-11-30T18:00Z,Rutgers,Davidson,1513.0,Jersey Mike’s Arena
+2015,2014-11-28T19:00Z,Rutgers,Colgate,1428.0,Jersey Mike’s Arena
+2015,2014-11-27T00:30Z,Michigan State,Oakland,5396.0,Breslin Center
+2015,2014-11-26T19:00Z,Indiana,East Tennessee State,2179.0,Simon Skjodt Assembly Hall
+2015,2014-11-26T18:00Z,Northwestern,UIC,414.0,Welsh-Ryan Arena
+2015,2014-11-26T01:00Z,Iowa,Northern Iowa,3711.0,Carver-Hawkeye Arena
+2015,2014-11-26T01:00Z,Minnesota,Southern,2235.0,Williams Arena
+2015,2014-11-25T00:00Z,Maryland,Loyola Maryland,2194.0,XFINITY Center
+2015,2014-11-23T20:00Z,Illinois,Southern,1642.0,State Farm Center
+2015,2014-11-23T19:00Z,Michigan State,IUPUI,5200.0,Breslin Center
+2015,2014-11-23T19:00Z,Nebraska,Utah,3321.0,Pinnacle Bank Arena
+2015,2014-11-23T19:00Z,Purdue,Toledo,5969.0,Mackey Arena
+2015,2014-11-23T19:00Z,Michigan,Western Michigan,2110.0,Crisler Center
+2015,2014-11-23T19:00Z,Ohio State,VCU,4201.0,Value City Arena
+2015,2014-11-23T19:00Z,Indiana,Incarnate Word,2140.0,Simon Skjodt Assembly Hall
+2015,2014-11-23T00:00Z,Penn State,Seton Hall,3114.0,Bryce Jordan Center
+2015,2014-11-22T01:30Z,Iowa,Pepperdine,3578.0,Carver-Hawkeye Arena
+2015,2014-11-22T01:00Z,Northwestern,Kent State,452.0,Welsh-Ryan Arena
+2015,2014-11-22T00:00Z,Indiana,Morehead State,2713.0,Simon Skjodt Assembly Hall
+2015,2014-11-21T01:00Z,Illinois,Memphis,1250.0,State Farm Center
+2015,2014-11-21T01:00Z,Wisconsin,Vanderbilt,3168.0,Kohl Center
+2015,2014-11-20T00:00Z,Michigan State,Notre Dame,8644.0,Breslin Center
+2015,2014-11-20T00:00Z,Ohio State,Georgia,3844.0,Value City Arena
+2015,2014-11-19T22:30Z,Purdue,Green Bay,5730.0,Mackey Arena
+2015,2014-11-19T18:00Z,Minnesota,Cleveland State,2447.0,Williams Arena
+2015,2014-11-19T01:00Z,Illinois,Robert Morris,1171.0,State Farm Center
+2015,2014-11-19T00:00Z,Rutgers,Northeastern,1213.0,Jersey Mike’s Arena
+2015,2014-11-19T00:00Z,Indiana,Valparaiso,1985.0,Simon Skjodt Assembly Hall
+2015,2014-11-16T23:00Z,Nebraska,Alcorn State,4770.0,Pinnacle Bank Arena
+2015,2014-11-16T22:00Z,Wisconsin,Illinois State,3239.0,Kohl Center
+2015,2014-11-16T20:00Z,Iowa,Robert Morris,4030.0,Carver-Hawkeye Arena
+2015,2014-11-16T20:00Z,Northwestern,Hampton,546.0,Welsh-Ryan Arena
+2015,2014-11-16T19:00Z,Maryland,Wagner,3353.0,XFINITY Center
+2015,2014-11-16T19:00Z,Michigan State,Eastern Michigan,5311.0,Breslin Center
+2015,2014-11-16T19:00Z,Ohio State,St. Francis (PA),3968.0,Value City Arena
+2015,2014-11-16T19:00Z,Michigan,Bucknell,1913.0,Crisler Center
+2015,2014-11-15T19:00Z,Indiana,Gardner-Webb,2472.0,Simon Skjodt Assembly Hall
+2015,2014-11-15T01:00Z,Minnesota,SE Louisiana,3879.0,Williams Arena
+2015,2014-11-15T00:00Z,Iowa,South Carolina Upstate,5291.0,Carver-Hawkeye Arena
+2015,2014-11-15T00:00Z,Rutgers,Saint Joseph's,1805.0,Jersey Mike’s Arena
+2015,2014-11-15T00:00Z,Michigan,Detroit Mercy,2062.0,Crisler Center
+2015,2014-11-14T21:00Z,Illinois,Purdue Fort Wayne,1283.0,State Farm Center
+2015,2014-11-14T17:00Z,Penn State,Towson,3123.0,Bryce Jordan Center
+2015,2014-11-14T16:00Z,Maryland,Mount St. Mary's,4177.0,XFINITY Center
+2016,2016-03-28T23:00Z,Michigan,Temple,1457.0,Crisler Center
+2016,2016-03-22T23:00Z,Michigan,San Diego,1000.0,Crisler Center
+2016,2016-03-21T22:30Z,Maryland,Washington,4396.0,XFINITY Center
+2016,2016-03-20T19:00Z,Minnesota,South Dakota,3224.0,Williams Arena
+2016,2016-03-20T18:00Z,Rutgers,Virginia,597.0,Jersey Mike’s Arena
+2016,2016-03-19T18:00Z,Michigan,Bucknell,938.0,Crisler Center
+2016,2016-03-18T00:00Z,Northwestern,San Diego,416.0,Welsh-Ryan Arena
+2016,2016-03-18T00:00Z,Iowa,Ball State,2039.0,Carver-Hawkeye Arena
+2016,2016-03-18T00:00Z,Nebraska,Northern Iowa,2942.0,Pinnacle Bank Arena
+2016,2016-03-17T23:00Z,Rutgers,Georgetown,453.0,Jersey Mike’s Arena
+2016,2016-03-17T00:00Z,Minnesota,Milwaukee,1663.0,Williams Arena
+2016,2016-03-16T23:00Z,Michigan,Wright State,658.0,Crisler Center
+2016,2016-02-28T22:00Z,Maryland,Minnesota,11428.0,XFINITY Center
+2016,2016-02-28T21:00Z,Nebraska,Northwestern,6596.0,Pinnacle Bank Arena
+2016,2016-02-28T19:00Z,Purdue,Wisconsin,7146.0,Mackey Arena
+2016,2016-02-28T19:00Z,Rutgers,Michigan,3505.0,Jersey Mike’s Arena
+2016,2016-02-27T23:00Z,Iowa,Illinois,4610.0,Carver-Hawkeye Arena
+2016,2016-02-27T21:00Z,Indiana,Penn State,5246.0,Simon Skjodt Assembly Hall
+2016,2016-02-27T19:00Z,Michigan State,Ohio State,8631.0,Breslin Center
+2016,2016-02-25T23:30Z,Maryland,Wisconsin,4147.0,XFINITY Center
+2016,2016-02-25T23:30Z,Purdue,Rutgers,5821.0,Mackey Arena
+2016,2016-02-25T01:00Z,Minnesota,Ohio State,6434.0,Williams Arena
+2016,2016-02-25T01:00Z,Illinois,Michigan State,1395.0,State Farm Center
+2016,2016-02-25T01:00Z,Nebraska,Indiana,5376.0,Pinnacle Bank Arena
+2016,2016-02-25T00:00Z,Penn State,Iowa,2812.0,Bryce Jordan Center
+2016,2016-02-23T23:30Z,Northwestern,Michigan,1140.0,Welsh-Ryan Arena
+2016,2016-02-21T20:00Z,Rutgers,Maryland,3755.0,Jersey Mike’s Arena
+2016,2016-02-21T20:00Z,Nebraska,Purdue,5671.0,Pinnacle Bank Arena
+2016,2016-02-21T20:00Z,Iowa,Indiana,9838.0,Carver-Hawkeye Arena
+2016,2016-02-21T19:00Z,Ohio State,Illinois,8247.0,Value City Arena
+2016,2016-02-21T18:00Z,Michigan State,Minnesota,9436.0,Breslin Center
+2016,2016-02-20T19:00Z,Wisconsin,Northwestern,3942.0,Kohl Center
+2016,2016-02-20T17:00Z,Michigan,Penn State,2920.0,Crisler Center
+2016,2016-02-19T01:00Z,Iowa,Purdue,3659.0,Carver-Hawkeye Arena
+2016,2016-02-19T00:00Z,Rutgers,Michigan State,2156.0,Jersey Mike’s Arena
+2016,2016-02-19T00:00Z,Indiana,Minnesota,2530.0,Simon Skjodt Assembly Hall
+2016,2016-02-18T23:00Z,Ohio State,Nebraska,5243.0,Value City Arena
+2016,2016-02-18T01:00Z,Northwestern,Penn State,796.0,Welsh-Ryan Arena
+2016,2016-02-18T01:00Z,Wisconsin,Illinois,3448.0,Kohl Center
+2016,2016-02-18T00:00Z,Maryland,Michigan,5100.0,XFINITY Center
+2016,2016-02-16T01:00Z,Minnesota,Iowa,6167.0,Williams Arena
+2016,2016-02-14T21:00Z,Northwestern,Maryland,1792.0,Welsh-Ryan Arena
+2016,2016-02-14T21:00Z,Nebraska,Michigan State,8338.0,Pinnacle Bank Arena
+2016,2016-02-14T19:00Z,Purdue,Michigan,6427.0,Mackey Arena
+2016,2016-02-14T19:00Z,Indiana,Wisconsin,3362.0,Simon Skjodt Assembly Hall
+2016,2016-02-13T23:00Z,Illinois,Rutgers,2450.0,State Farm Center
+2016,2016-02-12T01:30Z,Iowa,Ohio State,3667.0,Carver-Hawkeye Arena
+2016,2016-02-12T01:00Z,Minnesota,Nebraska,3945.0,Williams Arena
+2016,2016-02-12T00:00Z,Maryland,Purdue,3646.0,XFINITY Center
+2016,2016-02-12T00:00Z,Michigan,Wisconsin,1777.0,Crisler Center
+2016,2016-02-11T23:30Z,Michigan State,Penn State,5588.0,Breslin Center
+2016,2016-02-11T01:00Z,Illinois,Indiana,1622.0,State Farm Center
+2016,2016-02-11T00:00Z,Rutgers,Northwestern,3177.0,Jersey Mike’s Arena
+2016,2016-02-09T02:00Z,Ohio State,Maryland,4911.0,Value City Arena
+2016,2016-02-09T00:00Z,Wisconsin,Purdue,3149.0,Kohl Center
+2016,2016-02-07T20:00Z,Iowa,Michigan State,6255.0,Carver-Hawkeye Arena
+2016,2016-02-07T20:00Z,Northwestern,Minnesota,1223.0,Welsh-Ryan Arena
+2016,2016-02-07T19:00Z,Penn State,Rutgers,3677.0,Bryce Jordan Center
+2016,2016-02-07T19:00Z,Indiana,Nebraska,3370.0,Simon Skjodt Assembly Hall
+2016,2016-02-07T19:00Z,Michigan,Illinois,2509.0,Crisler Center
+2016,2016-02-06T00:00Z,Maryland,Michigan State,5738.0,XFINITY Center
+2016,2016-02-05T01:00Z,Minnesota,Rutgers,2754.0,Williams Arena
+2016,2016-02-05T01:00Z,Illinois,Northwestern,1331.0,State Farm Center
+2016,2016-02-05T00:00Z,Ohio State,Wisconsin,4267.0,Value City Arena
+2016,2016-02-05T00:00Z,Indiana,Iowa,2421.0,Simon Skjodt Assembly Hall
+2016,2016-02-04T00:00Z,Michigan State,Michigan,8003.0,Breslin Center
+2016,2016-02-03T01:00Z,Nebraska,Penn State,4486.0,Pinnacle Bank Arena
+2016,2016-02-02T23:00Z,Purdue,Maryland,6024.0,Mackey Arena
+2016,2016-02-02T00:00Z,Illinois,Ohio State,1517.0,State Farm Center
+2016,2016-01-31T21:00Z,Wisconsin,Michigan State,9436.0,Kohl Center
+2016,2016-01-31T20:00Z,Northwestern,Iowa,2016.0,Welsh-Ryan Arena
+2016,2016-01-31T17:30Z,Michigan,Minnesota,2778.0,Crisler Center
+2016,2016-01-30T19:00Z,Maryland,Indiana,6230.0,XFINITY Center
+2016,2016-01-30T19:00Z,Penn State,Purdue,3769.0,Bryce Jordan Center
+2016,2016-01-30T19:00Z,Rutgers,Nebraska,2815.0,Jersey Mike’s Arena
+2016,2016-01-29T01:00Z,Iowa,Michigan,3780.0,Carver-Hawkeye Arena
+2016,2016-01-29T00:00Z,Ohio State,Northwestern,4606.0,Value City Arena
+2016,2016-01-28T01:00Z,Nebraska,Wisconsin,5349.0,Pinnacle Bank Arena
+2016,2016-01-28T00:00Z,Michigan State,Purdue,5272.0,Breslin Center
+2016,2016-01-28T00:00Z,Indiana,Rutgers,2496.0,Simon Skjodt Assembly Hall
+2016,2016-01-27T01:00Z,Minnesota,Illinois,2618.0,Williams Arena
+2016,2016-01-24T22:00Z,Northwestern,Indiana,1642.0,Welsh-Ryan Arena
+2016,2016-01-24T20:00Z,Rutgers,Ohio State,1510.0,Jersey Mike’s Arena
+2016,2016-01-24T20:00Z,Purdue,Iowa,7865.0,Mackey Arena
+2016,2016-01-24T19:00Z,Michigan,Nebraska,3082.0,Crisler Center
+2016,2016-01-23T17:00Z,Wisconsin,Minnesota,4002.0,Kohl Center
+2016,2016-01-21T23:00Z,Michigan,Ohio State,2093.0,Crisler Center
+2016,2016-01-21T01:00Z,Wisconsin,Maryland,2954.0,Kohl Center
+2016,2016-01-21T01:00Z,Minnesota,Northwestern,2549.0,Williams Arena
+2016,2016-01-21T01:00Z,Iowa,Penn State,3873.0,Carver-Hawkeye Arena
+2016,2016-01-21T00:00Z,Purdue,Nebraska,6041.0,Mackey Arena
+2016,2016-01-21T00:00Z,Indiana,Illinois,2202.0,Simon Skjodt Assembly Hall
+2016,2016-01-19T23:00Z,Michigan State,Rutgers,4911.0,Breslin Center
+2016,2016-01-17T20:00Z,Minnesota,Indiana,4337.0,Williams Arena
+2016,2016-01-17T20:00Z,Illinois,Wisconsin,1857.0,State Farm Center
+2016,2016-01-17T19:00Z,Ohio State,Purdue,7418.0,Value City Arena
+2016,2016-01-17T17:00Z,Maryland,Northwestern,6037.0,XFINITY Center
+2016,2016-01-16T23:30Z,Nebraska,Rutgers,5626.0,Pinnacle Bank Arena
+2016,2016-01-16T21:30Z,Michigan State,Iowa,9017.0,Breslin Center
+2016,2016-01-15T01:00Z,Northwestern,Ohio State,852.0,Welsh-Ryan Arena
+2016,2016-01-15T00:00Z,Purdue,Minnesota,5788.0,Mackey Arena
+2016,2016-01-14T23:00Z,Michigan,Maryland,1752.0,Crisler Center
+2016,2016-01-14T01:00Z,Wisconsin,Iowa,3235.0,Kohl Center
+2016,2016-01-14T00:00Z,Indiana,Michigan State,2507.0,Simon Skjodt Assembly Hall
+2016,2016-01-14T00:00Z,Penn State,Nebraska,2745.0,Bryce Jordan Center
+2016,2016-01-14T00:00Z,Rutgers,Illinois,1829.0,Jersey Mike’s Arena
+2016,2016-01-10T21:00Z,Wisconsin,Penn State,3470.0,Kohl Center
+2016,2016-01-10T20:00Z,Iowa,Maryland,7776.0,Carver-Hawkeye Arena
+2016,2016-01-10T20:00Z,Minnesota,Michigan,3243.0,Williams Arena
+2016,2016-01-10T20:00Z,Nebraska,Illinois,6222.0,Pinnacle Bank Arena
+2016,2016-01-10T19:00Z,Ohio State,Rutgers,6081.0,Value City Arena
+2016,2016-01-10T19:00Z,Michigan State,Northwestern,6272.0,Breslin Center
+2016,2016-01-10T19:00Z,Purdue,Indiana,8519.0,Mackey Arena
+2016,2016-01-08T01:00Z,Northwestern,Purdue,714.0,Welsh-Ryan Arena
+2016,2016-01-08T00:00Z,Ohio State,Indiana,4420.0,Value City Arena
+2016,2016-01-08T00:00Z,Maryland,Nebraska,4112.0,XFINITY Center
+2016,2016-01-08T00:00Z,Penn State,Michigan State,2885.0,Bryce Jordan Center
+2016,2016-01-08T00:00Z,Rutgers,Wisconsin,1873.0,Jersey Mike’s Arena
+2016,2016-01-08T00:00Z,Michigan,Iowa,1889.0,Crisler Center
+2016,2016-01-05T01:00Z,Iowa,Rutgers,4959.0,Carver-Hawkeye Arena
+2016,2016-01-03T20:00Z,Minnesota,Penn State,3792.0,Williams Arena
+2016,2016-01-03T19:30Z,Northwestern,Nebraska,1249.0,Welsh-Ryan Arena
+2016,2016-01-03T19:00Z,Michigan State,Wisconsin,6590.0,Breslin Center
+2016,2016-01-03T19:00Z,Purdue,Illinois,6374.0,Mackey Arena
+2016,2016-01-03T17:30Z,Indiana,Michigan,3602.0,Simon Skjodt Assembly Hall
+2016,2016-01-02T17:00Z,Maryland,Ohio State,10119.0,XFINITY Center
+2016,2015-12-31T20:00Z,Illinois,Maryland,1716.0,State Farm Center
+2016,2015-12-31T20:00Z,Wisconsin,Indiana,4410.0,Kohl Center
+2016,2015-12-31T19:00Z,Penn State,Northwestern,2956.0,Bryce Jordan Center
+2016,2015-12-31T19:00Z,Nebraska,Iowa,7329.0,Pinnacle Bank Arena
+2016,2015-12-31T18:00Z,Rutgers,Minnesota,2057.0,Jersey Mike’s Arena
+2016,2015-12-31T18:00Z,Michigan,Purdue,3159.0,Crisler Center
+2016,2015-12-31T17:00Z,Ohio State,Michigan State,5631.0,Value City Arena
+2016,2015-12-29T01:00Z,Minnesota,NJIT,2772.0,Williams Arena
+2016,2015-12-29T00:00Z,Indiana,Yale,3642.0,Simon Skjodt Assembly Hall
+2016,2015-12-28T20:00Z,Illinois,George Washington,1514.0,State Farm Center
+2016,2015-12-23T21:00Z,Minnesota,North Dakota,2800.0,Williams Arena
+2016,2015-12-23T01:00Z,Illinois,South Dakota,1573.0,State Farm Center
+2016,2015-12-22T23:00Z,Iowa,Drake,5430.0,Carver-Hawkeye Arena
+2016,2015-12-22T19:00Z,Northwestern,Kansas City,625.0,Welsh-Ryan Arena
+2016,2015-12-22T01:00Z,Nebraska,Arkansas State,4991.0,Pinnacle Bank Arena
+2016,2015-12-22T00:00Z,Ohio State,Virginia,4778.0,Value City Arena
+2016,2015-12-22T00:00Z,Michigan State,Detroit Mercy,6540.0,Breslin Center
+2016,2015-12-22T00:00Z,Purdue,Maine,5803.0,Mackey Arena
+2016,2015-12-20T17:00Z,Penn State,Sacred Heart,3081.0,Bryce Jordan Center
+2016,2015-12-19T23:00Z,Northwestern,DePaul,1744.0,Welsh-Ryan Arena
+2016,2015-12-19T23:00Z,Iowa,Bradley,4051.0,Carver-Hawkeye Arena
+2016,2015-12-19T22:00Z,Nebraska,Northern Arizona,4775.0,Pinnacle Bank Arena
+2016,2015-12-19T19:30Z,Michigan,Miami (OH),2396.0,Crisler Center
+2016,2015-12-19T19:00Z,Rutgers,LSU,2254.0,Jersey Mike’s Arena
+2016,2015-12-19T00:00Z,Ohio State,Princeton,4639.0,Value City Arena
+2016,2015-12-17T01:00Z,Wisconsin,Northern Illinois,3124.0,Kohl Center
+2016,2015-12-16T18:00Z,Minnesota,New Mexico,4613.0,Williams Arena
+2016,2015-12-15T17:00Z,Northwestern,Alcorn State,5246.0,Welsh-Ryan Arena
+2016,2015-12-13T21:00Z,Rutgers,Savannah State,1645.0,Jersey Mike’s Arena
+2016,2015-12-13T20:00Z,Wisconsin,Green Bay,5688.0,Kohl Center
+2016,2015-12-13T19:00Z,Ohio State,North Carolina A&T,4577.0,Value City Arena
+2016,2015-12-13T19:00Z,Michigan,UCLA,2834.0,Crisler Center
+2016,2015-12-13T19:00Z,Purdue,Ball State,5958.0,Mackey Arena
+2016,2015-12-12T20:00Z,Illinois,Central Michigan,1557.0,State Farm Center
+2016,2015-12-12T20:00Z,Minnesota,Memphis,3226.0,Williams Arena
+2016,2015-12-12T00:00Z,Maryland,Southern,3660.0,XFINITY Center
+2016,2015-12-12T00:00Z,Indiana,Samford,3088.0,Simon Skjodt Assembly Hall
+2016,2015-12-11T01:00Z,Wisconsin,Florida,3019.0,Kohl Center
+2016,2015-12-11T00:00Z,Purdue,Incarnate Word,5480.0,Mackey Arena
+2016,2015-12-10T00:00Z,Rutgers,Iona,1599.0,Jersey Mike’s Arena
+2016,2015-12-09T01:00Z,Illinois,Southern Illinois,1317.0,State Farm Center
+2016,2015-12-09T01:00Z,Nebraska,Evansville,4614.0,Pinnacle Bank Arena
+2016,2015-12-09T00:00Z,Maryland,Loyola Maryland,3368.0,XFINITY Center
+2016,2015-12-09T00:00Z,Penn State,Youngstown State,2627.0,Bryce Jordan Center
+2016,2015-12-07T01:00Z,Minnesota,Towson,2271.0,Williams Arena
+2016,2015-12-06T20:00Z,Northwestern,Milwaukee,812.0,Welsh-Ryan Arena
+2016,2015-12-06T20:00Z,Illinois,Lehigh,1800.0,State Farm Center
+2016,2015-12-06T20:00Z,Nebraska,Creighton,6056.0,Pinnacle Bank Arena
+2016,2015-12-06T19:00Z,Michigan State,Loyola Chicago,5706.0,Breslin Center
+2016,2015-12-06T19:00Z,Rutgers,Arkansas,1810.0,Jersey Mike’s Arena
+2016,2015-12-06T19:00Z,Iowa,Robert Morris,3620.0,Carver-Hawkeye Arena
+2016,2015-12-06T19:00Z,Purdue,Dayton,5830.0,Mackey Arena
+2016,2015-12-05T19:00Z,Maryland,Central Connecticut,3713.0,XFINITY Center
+2016,2015-12-04T01:00Z,Penn State,Virginia Tech,2897.0,Bryce Jordan Center
+2016,2015-12-04T01:00Z,Nebraska,NC State,5151.0,Pinnacle Bank Arena
+2016,2015-12-04T00:00Z,Michigan State,Louisville,5721.0,Breslin Center
+2016,2015-12-04T00:00Z,Michigan,Pittsburgh,1737.0,Crisler Center
+2016,2015-12-03T23:00Z,Purdue,Boston College,5805.0,Mackey Arena
+2016,2015-12-03T00:00Z,Maryland,Syracuse,3964.0,XFINITY Center
+2016,2015-12-03T00:00Z,Indiana,Georgia Tech,2222.0,Simon Skjodt Assembly Hall
+2016,2015-11-29T19:00Z,Michigan,Oral Roberts,1809.0,Crisler Center
+2016,2015-11-28T00:00Z,Michigan,Hartford,2004.0,Crisler Center
+2016,2015-11-25T01:00Z,Illinois,Tennessee State,952.0,Parkland Gymnasium
+2016,2015-11-24T01:00Z,Nebraska,Southern,4748.0,Pinnacle Bank Arena
+2016,2015-11-24T00:00Z,Michigan,South Carolina Upstate,1589.0,Crisler Center
+2016,2015-11-22T20:00Z,Northwestern,Western Michigan,652.0,Welsh-Ryan Arena
+2016,2015-11-22T19:00Z,Ohio State,Wagner,3803.0,St. John Arena
+2016,2015-11-22T19:00Z,Rutgers,Temple,1725.0,Jersey Mike’s Arena
+2016,2015-11-22T19:00Z,Penn State,Central Connecticut,2856.0,Bryce Jordan Center
+2016,2015-11-21T20:00Z,Illinois,UT Martin,907.0,Parkland Gymnasium
+2016,2015-11-21T20:00Z,Nebraska,North Carolina Central,4984.0,Pinnacle Bank Arena
+2016,2015-11-21T17:00Z,Michigan State,Idaho State,4984.0,Breslin Center
+2016,2015-11-21T01:00Z,Minnesota,Maine,2761.0,Williams Arena
+2016,2015-11-20T16:00Z,Maryland,Detroit Mercy,5551.0,XFINITY Center
+2016,2015-11-20T01:00Z,Northwestern,Idaho State,420.0,Welsh-Ryan Arena
+2016,2015-11-20T01:00Z,Iowa,Western Illinois,3543.0,Carver-Hawkeye Arena
+2016,2015-11-20T00:00Z,Ohio State,Belmont,3826.0,Value City Arena
+2016,2015-11-20T00:00Z,Rutgers,St. John's,2226.0,Jersey Mike’s Arena
+2016,2015-11-20T00:00Z,Michigan,Xavier,2613.0,Crisler Center
+2016,2015-11-20T00:00Z,Purdue,UIC,5572.0,Mackey Arena
+2016,2015-11-19T01:00Z,Wisconsin,Drake,2974.0,Kohl Center
+2016,2015-11-19T00:30Z,Michigan State,Georgia,5117.0,Breslin Center
+2016,2015-11-19T00:00Z,Maryland,High Point,3574.0,XFINITY Center
+2016,2015-11-18T00:00Z,Indiana,Chattanooga,1960.0,Simon Skjodt Assembly Hall
+2016,2015-11-17T00:00Z,Purdue,Jacksonville State,5594.0,Mackey Arena
+2016,2015-11-16T22:30Z,Ohio State,UConn,11435.0,Value City Arena
+2016,2015-11-16T00:00Z,Northwestern,Howard,623.0,Welsh-Ryan Arena
+2016,2015-11-15T20:00Z,Illinois,Ohio,983.0,Parkland Gymnasium
+2016,2015-11-15T19:00Z,Michigan State,Western Michigan,6270.0,Breslin Center
+2016,2015-11-15T19:00Z,Iowa,UT Martin,3555.0,Carver-Hawkeye Arena
+2016,2015-11-15T19:00Z,Penn State,Fordham,3024.0,Bryce Jordan Center
+2016,2015-11-14T20:00Z,Wisconsin,Louisiana Tech,3517.0,Kohl Center
+2016,2015-11-14T19:00Z,Maryland,UMass Lowell,3956.0,XFINITY Center
+2016,2015-11-14T17:30Z,Nebraska,Arkansas-Pine Bluff,4953.0,Pinnacle Bank Arena
+2016,2015-11-14T17:00Z,Michigan,Binghamton,1906.0,Crisler Center
+2016,2015-11-14T01:00Z,Illinois,Chicago State,1001.0,Parkland Gymnasium
+2016,2015-11-14T00:00Z,Iowa,North Dakota,4358.0,Carver-Hawkeye Arena
+2016,2015-11-13T23:30Z,Minnesota,Wofford,4327.0,Williams Arena
+2016,2015-11-13T23:00Z,Penn State,Holy Cross,2941.0,Bryce Jordan Center
+2016,2015-11-13T17:00Z,Indiana,Tennessee State,1874.0,Simon Skjodt Assembly Hall
+2017,2017-03-29T23:00Z,Michigan,Villanova,1467.0,Crisler Center
+2017,2017-03-26T19:00Z,Iowa,Washington State,5146.0,Carver-Hawkeye Arena
+2017,2017-03-26T18:00Z,Indiana,Villanova,4770.0,Simon Skjodt Assembly Hall
+2017,2017-03-25T18:00Z,Michigan,Virginia Tech,1017.0,Crisler Center
+2017,2017-03-24T00:00Z,Iowa,Colorado,3735.0,Carver-Hawkeye Arena
+2017,2017-03-23T23:00Z,Indiana,SMU,3003.0,Simon Skjodt Assembly Hall
+2017,2017-03-23T23:00Z,Penn State,Virginia Tech,1310.0,Bryce Jordan Center
+2017,2017-03-23T22:00Z,Michigan,St. John's,685.0,Crisler Center
+2017,2017-03-19T18:00Z,Penn State,Fordham,1147.0,Bryce Jordan Center
+2017,2017-03-19T18:00Z,Indiana,Saint Louis,2526.0,Simon Skjodt Assembly Hall
+2017,2017-03-18T20:00Z,Iowa,South Dakota,2294.0,Carver-Hawkeye Arena
+2017,2017-03-18T18:00Z,Michigan,Wright State,721.0,Crisler Center
+2017,2017-03-17T23:00Z,Penn State,Ohio,1027.0,Bryce Jordan Center
+2017,2017-03-17T00:00Z,Iowa,Missouri State,3226.0,Carver-Hawkeye Arena
+2017,2017-03-16T23:00Z,Indiana,Ball State,2028.0,Simon Skjodt Assembly Hall
+2017,2017-03-16T23:00Z,Michigan,Kent State,788.0,Crisler Center
+2017,2017-02-26T21:00Z,Purdue,Northwestern,6407.0,Mackey Arena
+2017,2017-02-26T20:00Z,Rutgers,Ohio State,3061.0,Jersey Mike’s Arena
+2017,2017-02-26T20:00Z,Iowa,Wisconsin,5603.0,Carver-Hawkeye Arena
+2017,2017-02-26T19:00Z,Penn State,Michigan,8213.0,Bryce Jordan Center
+2017,2017-02-26T19:00Z,Nebraska,Michigan State,4630.0,Pinnacle Bank Arena
+2017,2017-02-26T17:00Z,Maryland,Minnesota,10107.0,XFINITY Center
+2017,2017-02-24T02:00Z,Minnesota,Purdue,2832.0,Williams Arena
+2017,2017-02-24T00:00Z,Michigan,Nebraska,2276.0,Crisler Center
+2017,2017-02-24T00:00Z,Northwestern,Rutgers,1020.0,Welsh-Ryan Arena
+2017,2017-02-23T01:00Z,Wisconsin,Illinois,3255.0,Kohl Center
+2017,2017-02-23T00:00Z,Indiana,Iowa,2976.0,Simon Skjodt Assembly Hall
+2017,2017-02-21T00:00Z,Ohio State,Maryland,6505.0,Value City Arena
+2017,2017-02-19T20:00Z,Nebraska,Indiana,4981.0,Pinnacle Bank Arena
+2017,2017-02-19T20:00Z,Northwestern,Illinois,2233.0,Welsh-Ryan Arena
+2017,2017-02-19T19:00Z,Michigan,Michigan State,12707.0,Crisler Center
+2017,2017-02-19T17:00Z,Purdue,Iowa,7151.0,Mackey Arena
+2017,2017-02-18T17:00Z,Wisconsin,Rutgers,6680.0,Kohl Center
+2017,2017-02-17T01:00Z,Nebraska,Ohio State,4278.0,Pinnacle Bank Arena
+2017,2017-02-17T01:00Z,Iowa,Northwestern,4167.0,Carver-Hawkeye Arena
+2017,2017-02-17T00:00Z,Michigan State,Minnesota,5387.0,Breslin Center
+2017,2017-02-16T23:00Z,Indiana,Michigan,2499.0,Simon Skjodt Assembly Hall
+2017,2017-02-16T00:00Z,Maryland,Wisconsin,5302.0,XFINITY Center
+2017,2017-02-16T00:00Z,Rutgers,Purdue,1819.0,Jersey Mike’s Arena
+2017,2017-02-15T01:00Z,Illinois,Penn State,1288.0,State Farm Center
+2017,2017-02-14T00:00Z,Minnesota,Northwestern,3764.0,Williams Arena
+2017,2017-02-12T19:00Z,Michigan State,Maryland,10646.0,Breslin Center
+2017,2017-02-12T19:00Z,Michigan,Wisconsin,3545.0,Crisler Center
+2017,2017-02-12T17:00Z,Ohio State,Iowa,6679.0,Value City Arena
+2017,2017-02-11T20:00Z,Minnesota,Rutgers,4726.0,Williams Arena
+2017,2017-02-11T19:00Z,Penn State,Purdue,3875.0,Bryce Jordan Center
+2017,2017-02-11T17:00Z,Indiana,Northwestern,3517.0,Simon Skjodt Assembly Hall
+2017,2017-02-10T01:00Z,Wisconsin,Nebraska,4073.0,Kohl Center
+2017,2017-02-10T00:00Z,Maryland,Illinois,4160.0,XFINITY Center
+2017,2017-02-10T00:00Z,Iowa,Michigan State,4384.0,Carver-Hawkeye Arena
+2017,2017-02-09T00:00Z,Penn State,Minnesota,2542.0,Bryce Jordan Center
+2017,2017-02-09T00:00Z,Rutgers,Indiana,1637.0,Jersey Mike’s Arena
+2017,2017-02-08T23:00Z,Purdue,Michigan,5910.0,Mackey Arena
+2017,2017-02-05T20:00Z,Northwestern,Penn State,1289.0,Welsh-Ryan Arena
+2017,2017-02-05T20:00Z,Illinois,Purdue,1889.0,State Farm Center
+2017,2017-02-05T19:00Z,Michigan,Iowa,3327.0,Crisler Center
+2017,2017-02-05T17:00Z,Indiana,Maryland,4038.0,Simon Skjodt Assembly Hall
+2017,2017-02-04T23:00Z,Nebraska,Minnesota,4793.0,Pinnacle Bank Arena
+2017,2017-02-04T19:00Z,Wisconsin,Ohio State,4454.0,Kohl Center
+2017,2017-02-03T01:00Z,Purdue,Maryland,5671.0,Mackey Arena
+2017,2017-02-03T01:00Z,Iowa,Rutgers,3884.0,Carver-Hawkeye Arena
+2017,2017-02-02T23:00Z,Michigan State,Indiana,6438.0,Breslin Center
+2017,2017-02-02T01:00Z,Northwestern,Wisconsin,924.0,Welsh-Ryan Arena
+2017,2017-02-02T01:00Z,Illinois,Michigan,1156.0,State Farm Center
+2017,2017-02-02T00:00Z,Ohio State,Penn State,4541.0,Value City Arena
+2017,2017-01-31T01:00Z,Minnesota,Michigan State,3490.0,Williams Arena
+2017,2017-01-29T20:00Z,Wisconsin,Indiana,4430.0,Kohl Center
+2017,2017-01-29T19:00Z,Maryland,Iowa,7988.0,XFINITY Center
+2017,2017-01-29T19:00Z,Rutgers,Northwestern,2576.0,Jersey Mike’s Arena
+2017,2017-01-29T19:00Z,Penn State,Illinois,3570.0,Bryce Jordan Center
+2017,2017-01-29T17:00Z,Ohio State,Nebraska,6457.0,Value City Arena
+2017,2017-01-27T01:00Z,Illinois,Maryland,1126.0,State Farm Center
+2017,2017-01-27T01:00Z,Minnesota,Ohio State,2896.0,Williams Arena
+2017,2017-01-26T23:00Z,Purdue,Nebraska,5594.0,Mackey Arena
+2017,2017-01-26T01:00Z,Wisconsin,Michigan State,3085.0,Kohl Center
+2017,2017-01-26T00:00Z,Michigan,Northwestern,2097.0,Crisler Center
+2017,2017-01-24T00:00Z,Indiana,Penn State,2404.0,Simon Skjodt Assembly Hall
+2017,2017-01-22T22:00Z,Ohio State,Illinois,5694.0,Value City Arena
+2017,2017-01-22T22:00Z,Michigan State,Purdue,9808.0,Breslin Center
+2017,2017-01-22T20:00Z,Maryland,Rutgers,6236.0,XFINITY Center
+2017,2017-01-22T20:00Z,Nebraska,Michigan,4763.0,Pinnacle Bank Arena
+2017,2017-01-21T20:00Z,Iowa,Minnesota,7191.0,Carver-Hawkeye Arena
+2017,2017-01-20T01:00Z,Indiana,Purdue,3129.0,Simon Skjodt Assembly Hall
+2017,2017-01-20T00:00Z,Ohio State,Wisconsin,4466.0,Value City Arena
+2017,2017-01-20T00:00Z,Penn State,Nebraska,2645.0,Bryce Jordan Center
+2017,2017-01-19T23:00Z,Maryland,Michigan,4666.0,XFINITY Center
+2017,2017-01-19T01:00Z,Minnesota,Illinois,3009.0,Williams Arena
+2017,2017-01-18T02:00Z,Northwestern,Michigan State,783.0,Welsh-Ryan Arena
+2017,2017-01-18T00:00Z,Rutgers,Iowa,1517.0,Jersey Mike’s Arena
+2017,2017-01-17T00:00Z,Penn State,Wisconsin,2616.0,Bryce Jordan Center
+2017,2017-01-15T21:30Z,Michigan,Minnesota,2781.0,Crisler Center
+2017,2017-01-15T20:30Z,Purdue,Ohio State,6803.0,Mackey Arena
+2017,2017-01-15T20:00Z,Illinois,Nebraska,2675.0,State Farm Center
+2017,2017-01-14T21:00Z,Iowa,Maryland,7043.0,Carver-Hawkeye Arena
+2017,2017-01-14T20:00Z,Northwestern,Indiana,2482.0,Welsh-Ryan Arena
+2017,2017-01-14T17:00Z,Rutgers,Michigan State,2646.0,Jersey Mike’s Arena
+2017,2017-01-12T01:00Z,Wisconsin,Purdue,3437.0,Kohl Center
+2017,2017-01-12T01:00Z,Iowa,Illinois,3834.0,Carver-Hawkeye Arena
+2017,2017-01-11T23:30Z,Maryland,Penn State,4680.0,XFINITY Center
+2017,2017-01-11T01:00Z,Michigan State,Ohio State,5538.0,Breslin Center
+2017,2017-01-11T01:00Z,Nebraska,Rutgers,4193.0,Pinnacle Bank Arena
+2017,2017-01-10T23:00Z,Michigan,Indiana,1850.0,Crisler Center
+2017,2017-01-08T00:00Z,Michigan State,Nebraska,6155.0,Breslin Center
+2017,2017-01-07T23:00Z,Minnesota,Wisconsin,4471.0,Williams Arena
+2017,2017-01-07T21:00Z,Illinois,Rutgers,1482.0,State Farm Center
+2017,2017-01-07T19:00Z,Maryland,Northwestern,5214.0,XFINITY Center
+2017,2017-01-07T19:00Z,Purdue,Penn State,5883.0,Mackey Arena
+2017,2017-01-07T17:00Z,Ohio State,Michigan,6636.0,Value City Arena
+2017,2017-01-05T01:00Z,Nebraska,Maryland,4299.0,Pinnacle Bank Arena
+2017,2017-01-05T00:00Z,Rutgers,Wisconsin,1496.0,Jersey Mike’s Arena
+2017,2017-01-05T00:00Z,Indiana,Minnesota,2409.0,Simon Skjodt Assembly Hall
+2017,2017-01-04T23:00Z,Purdue,Michigan State,5776.0,Mackey Arena
+2017,2017-01-04T02:00Z,Northwestern,Ohio State,971.0,Welsh-Ryan Arena
+2017,2017-01-04T00:00Z,Penn State,Iowa,2258.0,Bryce Jordan Center
+2017,2017-01-01T23:00Z,Minnesota,Maryland,4884.0,Williams Arena
+2017,2017-01-01T20:00Z,Wisconsin,Michigan,4361.0,Kohl Center
+2017,2017-01-01T20:00Z,Michigan State,Illinois,5757.0,Breslin Center
+2017,2016-12-31T20:00Z,Indiana,Ohio State,4281.0,Simon Skjodt Assembly Hall
+2017,2016-12-31T20:00Z,Northwestern,Purdue,1205.0,Welsh-Ryan Arena
+2017,2016-12-31T20:00Z,Iowa,Nebraska,6750.0,Carver-Hawkeye Arena
+2017,2016-12-31T17:00Z,Rutgers,Penn State,2011.0,Jersey Mike’s Arena
+2017,2016-12-29T23:00Z,Maryland,UConn,17950.0,XFINITY Center
+2017,2016-12-29T01:00Z,Nebraska,Northwestern,4669.0,Pinnacle Bank Arena
+2017,2016-12-29T00:00Z,Ohio State,Minnesota,7105.0,Value City Arena
+2017,2016-12-29T00:00Z,Penn State,Indiana,2736.0,Bryce Jordan Center
+2017,2016-12-28T21:00Z,Illinois,Iowa,1584.0,State Farm Center
+2017,2016-12-28T19:00Z,Michigan,Rutgers,3957.0,Crisler Center
+2017,2016-12-23T01:00Z,Minnesota,Kent State,2389.0,Williams Arena
+2017,2016-12-22T20:30Z,Michigan,American University,2085.0,Crisler Center
+2017,2016-12-22T20:00Z,Northwestern,UT Martin,709.0,Welsh-Ryan Arena
+2017,2016-12-22T02:00Z,Nebraska,UConn,7553.0,Pinnacle Bank Arena
+2017,2016-12-22T00:00Z,Ohio State,Winthrop,4347.0,Value City Arena
+2017,2016-12-21T17:00Z,Purdue,IUPUI,6611.0,Mackey Arena
+2017,2016-12-21T00:00Z,Michigan State,Notre Dame,7924.0,Breslin Center
+2017,2016-12-21T00:00Z,Penn State,Iona,2409.0,Bryce Jordan Center
+2017,2016-12-20T23:00Z,Iowa,Kent State,3563.0,Carver-Hawkeye Arena
+2017,2016-12-18T19:00Z,Penn State,American University,2515.0,Bryce Jordan Center
+2017,2016-12-18T17:00Z,Michigan State,Northeastern,4018.0,Breslin Center
+2017,2016-12-17T22:00Z,Indiana,Oakland,2665.0,Simon Skjodt Assembly Hall
+2017,2016-12-17T21:00Z,Purdue,Eastern Michigan,5611.0,Mackey Arena
+2017,2016-12-17T20:00Z,Illinois,Florida Gulf Coast,1051.0,State Farm Center
+2017,2016-12-17T19:00Z,Rutgers,Temple,2422.0,Jersey Mike’s Arena
+2017,2016-12-17T17:00Z,Michigan,Vermont,2187.0,Crisler Center
+2017,2016-12-17T00:00Z,Ohio State,Alabama State,4469.0,Value City Arena
+2017,2016-12-14T18:00Z,Minnesota,Belmont,3342.0,Williams Arena
+2017,2016-12-14T00:00Z,Rutgers,Seton Hall,1626.0,Jersey Mike’s Arena
+2017,2016-12-13T23:30Z,Michigan,Ohio,1802.0,Crisler Center
+2017,2016-12-13T17:00Z,Northwestern,UIC,5447.0,Welsh-Ryan Arena
+2017,2016-12-11T19:00Z,Ohio State,Canisius,4598.0,Value City Arena
+2017,2016-12-11T19:00Z,Indiana,Valparaiso,2611.0,Simon Skjodt Assembly Hall
+2017,2016-12-11T19:00Z,Wisconsin,Marquette,4974.0,Kohl Center
+2017,2016-12-11T18:00Z,Purdue,North Carolina Central,5428.0,Mackey Arena
+2017,2016-12-10T19:00Z,Penn State,Pittsburgh,2522.0,Bryce Jordan Center
+2017,2016-12-10T01:00Z,Iowa,Robert Morris,3378.0,Carver-Hawkeye Arena
+2017,2016-12-10T01:00Z,Nebraska,San José State,4205.0,Pinnacle Bank Arena
+2017,2016-12-09T02:00Z,Minnesota,Army,2003.0,Williams Arena
+2017,2016-12-09T01:00Z,Wisconsin,Mississippi Valley State,2916.0,Kohl Center
+2017,2016-12-09T00:00Z,Indiana,Northern Kentucky,2207.0,Simon Skjodt Assembly Hall
+2017,2016-12-08T01:00Z,Iowa,Iowa State,4579.0,Carver-Hawkeye Arena
+2017,2016-12-08T00:00Z,Ohio State,Southern,3973.0,Value City Arena
+2017,2016-12-07T01:00Z,Wisconsin,Idaho State,2852.0,Kohl Center
+2017,2016-12-07T01:00Z,Nebraska,Drake,4200.0,Pinnacle Bank Arena
+2017,2016-12-07T00:00Z,Maryland,Towson,1343.0,XFINITY Center
+2017,2016-12-07T00:00Z,Purdue,Central Michigan,5354.0,Mackey Arena
+2017,2016-12-06T00:00Z,Rutgers,James Madison,1320.0,Jersey Mike’s Arena
+2017,2016-12-04T21:00Z,Nebraska,California,5573.0,Pinnacle Bank Arena
+2017,2016-12-04T20:00Z,Iowa,Northern Iowa,4666.0,Carver-Hawkeye Arena
+2017,2016-12-04T19:00Z,Maryland,UMBC,2607.0,XFINITY Center
+2017,2016-12-04T19:00Z,Ohio State,Cincinnati,5850.0,Value City Arena
+2017,2016-12-04T19:00Z,Purdue,Colgate,5610.0,Mackey Arena
+2017,2016-12-04T19:00Z,Northwestern,Chicago State,886.0,Welsh-Ryan Arena
+2017,2016-12-03T20:00Z,Minnesota,Detroit Mercy,2256.0,Williams Arena
+2017,2016-12-03T19:00Z,Rutgers,Bucknell,1674.0,Jersey Mike’s Arena
+2017,2016-12-03T18:00Z,Penn State,Marshall,2606.0,Bryce Jordan Center
+2017,2016-12-03T01:00Z,Illinois,Purdue Fort Wayne,1173.0,State Farm Center
+2017,2016-12-03T00:00Z,Michigan State,Oakland,4638.0,Breslin Center
+2017,2016-12-02T02:00Z,Northwestern,Virginia,694.0,Welsh-Ryan Arena
+2017,2016-12-02T01:00Z,Wisconsin,North Carolina,2972.0,Kohl Center
+2017,2016-12-02T00:00Z,Ohio State,Miami,4165.0,Value City Arena
+2017,2016-12-02T00:00Z,Rutgers,Duke,2704.0,Jersey Mike’s Arena
+2017,2016-12-01T02:00Z,Iowa,Notre Dame,3809.0,Carver-Hawkeye Arena
+2017,2016-12-01T01:00Z,Illinois,Wake Forest,1243.0,State Farm Center
+2017,2016-12-01T00:00Z,Minnesota,Florida State,2213.0,Williams Arena
+2017,2016-11-27T20:00Z,Northwestern,Evansville,853.0,Welsh-Ryan Arena
+2017,2016-11-27T19:00Z,Rutgers,Bryant,1691.0,Jersey Mike’s Arena
+2017,2016-11-26T01:00Z,Northwestern,Florida,857.0,Welsh-Ryan Arena
+2017,2016-11-23T19:00Z,Indiana,UMass Lowell,2670.0,Simon Skjodt Assembly Hall
+2017,2016-11-23T01:00Z,Nebraska,Omaha,4419.0,Pinnacle Bank Arena
+2017,2016-11-23T01:00Z,Illinois,Mercer,1051.0,State Farm Center
+2017,2016-11-22T00:00Z,Michigan,Western Michigan,2051.0,Crisler Center
+2017,2016-11-20T22:00Z,Penn State,Tennessee,3754.0,Bryce Jordan Center
+2017,2016-11-20T20:00Z,Wisconsin,Butler,3458.0,Kohl Center
+2017,2016-11-20T20:00Z,Minnesota,Seton Hall,3022.0,Williams Arena
+2017,2016-11-20T20:00Z,Iowa,South Dakota State,3826.0,Carver-Hawkeye Arena
+2017,2016-11-20T19:00Z,Purdue,Southern Illinois,5679.0,Mackey Arena
+2017,2016-11-20T18:00Z,Illinois,South Carolina Upstate,1133.0,State Farm Center
+2017,2016-11-19T17:00Z,Ohio State,LIU Brooklyn,4296.0,Value City Arena
+2017,2016-11-19T16:30Z,Iowa,UMass,3435.0,Carver-Hawkeye Arena
+2017,2016-11-19T00:00Z,Michigan,Howard,3708.0,Crisler Center
+2017,2016-11-18T22:00Z,Minnesota,Georgetown,3011.0,Williams Arena
+2017,2016-11-18T16:00Z,Maryland,Mount St. Mary's,4108.0,XFINITY Center
+2017,2016-11-18T01:00Z,Nebraska,Colorado State,4229.0,Pinnacle Bank Arena
+2017,2016-11-18T00:00Z,Purdue,South Carolina Upstate,5611.0,Mackey Arena
+2017,2016-11-17T18:00Z,Illinois,Memphis,2358.0,State Farm Center
+2017,2016-11-17T01:00Z,Wisconsin,Dayton,2944.0,Kohl Center
+2017,2016-11-17T01:00Z,Northwestern,Missouri State,651.0,Welsh-Ryan Arena
+2017,2016-11-17T00:00Z,Ohio State,Cleveland State,4023.0,Value City Arena
+2017,2016-11-17T00:00Z,Penn State,Akron,2410.0,Bryce Jordan Center
+2017,2016-11-16T23:30Z,Maryland,Maryland-Eastern Shore,1505.0,XFINITY Center
+2017,2016-11-16T00:00Z,Michigan State,Southern,4027.0,Breslin Center
+2017,2016-11-15T01:00Z,Nebraska,Missouri,4207.0,Pinnacle Bank Arena
+2017,2016-11-14T23:00Z,Ohio State,South Carolina,6683.0,Value City Arena
+2017,2016-11-13T22:00Z,Wisconsin,St. Francis (PA),3013.0,Kohl Center
+2017,2016-11-13T20:00Z,Michigan,Niagara,1997.0,Crisler Center
+2017,2016-11-13T19:00Z,Indiana,Vanderbilt,3029.0,Simon Skjodt Assembly Hall
+2017,2016-11-13T19:00Z,Northwestern,Oral Roberts,765.0,Welsh-Ryan Arena
+2017,2016-11-13T19:00Z,Michigan State,Wyoming,4138.0,Breslin Center
+2017,2016-11-13T18:00Z,Maryland,UMass Lowell,3958.0,XFINITY Center
+2017,2016-11-13T18:00Z,Illinois,Arkansas-Pine Bluff,1180.0,State Farm Center
+2017,2016-11-13T18:00Z,Penn State,Saint Peter's,2606.0,Bryce Jordan Center
+2017,2016-11-13T18:00Z,Iowa,Hampton,3522.0,Carver-Hawkeye Arena
+2017,2016-11-12T20:00Z,Minnesota,Harvard,3056.0,Williams Arena
+2017,2016-11-12T19:00Z,Nebraska,UT Rio Grande Valley,4405.0,Pinnacle Bank Arena
+2017,2016-11-12T00:00Z,Indiana,Presbyterian,2422.0,Simon Skjodt Assembly Hall
+2017,2016-11-12T00:00Z,Iowa,Oral Roberts,4254.0,Carver-Hawkeye Arena
+2017,2016-11-12T00:00Z,Michigan State,Davidson,3640.0,Breslin Center
+2017,2016-11-11T23:30Z,Michigan,Oakland,2386.0,Crisler Center
+2017,2016-11-11T21:30Z,Northwestern,Hampton,747.0,Welsh-Ryan Arena
+2017,2016-11-11T19:00Z,Rutgers,Chattanooga,1547.0,Jersey Mike’s Arena
+2017,2016-11-11T17:00Z,Ohio State,Duquesne,3434.0,Value City Arena
+2017,2016-11-11T17:00Z,Illinois,Marshall,969.0,State Farm Center
+2018,2018-03-31T19:00Z,Indiana,Virginia Tech,13007.0,Simon Skjodt Assembly Hall
+2018,2018-03-28T23:00Z,Indiana,TCU,7815.0,Simon Skjodt Assembly Hall
+2018,2018-03-25T18:00Z,Indiana,UC Davis,6001.0,Simon Skjodt Assembly Hall
+2018,2018-03-22T23:00Z,Indiana,Purdue,5564.0,Simon Skjodt Assembly Hall
+2018,2018-03-19T23:00Z,Michigan State,Toledo,2144.0,Breslin Center
+2018,2018-03-18T18:00Z,Indiana,Milwaukee,2913.0,Simon Skjodt Assembly Hall
+2018,2018-03-15T23:00Z,Indiana,UT Martin,2324.0,Simon Skjodt Assembly Hall
+2018,2018-03-15T23:00Z,Penn State,Radford,473.0,Bryce Jordan Center
+2018,2018-03-15T23:00Z,Michigan State,Cincinnati,1705.0,Breslin Center
+2018,2018-02-25T20:00Z,Northwestern,Rutgers,957.0,Welsh-Ryan Arena
+2018,2018-02-25T20:00Z,Illinois,Minnesota,1638.0,State Farm Center
+2018,2018-02-25T17:00Z,Maryland,Nebraska,10239.0,XFINITY Center
+2018,2018-02-25T17:00Z,Penn State,Ohio State,7517.0,Bryce Jordan Center
+2018,2018-02-24T19:00Z,Purdue,Michigan State,6800.0,Mackey Arena
+2018,2018-02-24T17:00Z,Iowa,Indiana,6921.0,Carver-Hawkeye Arena
+2018,2018-02-23T01:00Z,Nebraska,Penn State,5757.0,Pinnacle Bank Arena
+2018,2018-02-22T23:00Z,Michigan,Maryland,2964.0,Crisler Center
+2018,2018-02-22T00:00Z,Ohio State,Northwestern,4774.0,Value City Arena
+2018,2018-02-22T00:00Z,Michigan State,Wisconsin,5355.0,Breslin Center
+2018,2018-02-22T00:00Z,Rutgers,Iowa,1852.0,Jersey Mike’s Arena
+2018,2018-02-22T00:00Z,Purdue,Illinois,5655.0,Mackey Arena
+2018,2018-02-21T01:00Z,Minnesota,Indiana,3477.0,Williams Arena
+2018,2018-02-18T20:00Z,Iowa,Wisconsin,7495.0,Carver-Hawkeye Arena
+2018,2018-02-18T20:00Z,Northwestern,Illinois,856.0,Beardsley Gymnasium
+2018,2018-02-18T18:00Z,Minnesota,Maryland,4625.0,Williams Arena
+2018,2018-02-18T18:00Z,Ohio State,Purdue,8081.0,Value City Arena
+2018,2018-02-17T17:00Z,Indiana,Nebraska,5258.0,Simon Skjodt Assembly Hall
+2018,2018-02-15T23:00Z,Maryland,Purdue,4521.0,XFINITY Center
+2018,2018-02-15T01:00Z,Minnesota,Michigan,2415.0,Williams Arena
+2018,2018-02-15T01:00Z,Wisconsin,Rutgers,3073.0,Kohl Center
+2018,2018-02-15T00:00Z,Penn State,Northwestern,2409.0,Bryce Jordan Center
+2018,2018-02-15T00:00Z,Michigan State,Nebraska,4972.0,Breslin Center
+2018,2018-02-14T01:00Z,Illinois,Ohio State,1149.0,State Farm Center
+2018,2018-02-13T00:00Z,Purdue,Indiana,7054.0,Mackey Arena
+2018,2018-02-11T21:00Z,Minnesota,Penn State,3794.0,Williams Arena
+2018,2018-02-11T20:00Z,Nebraska,Wisconsin,6823.0,Pinnacle Bank Arena
+2018,2018-02-11T20:00Z,Northwestern,Iowa,1363.0,Beardsley Gymnasium
+2018,2018-02-11T17:00Z,Rutgers,Maryland,3545.0,Jersey Mike’s Arena
+2018,2018-02-11T17:00Z,Michigan State,Michigan,12434.0,Breslin Center
+2018,2018-02-09T01:00Z,Iowa,Penn State,5878.0,Carver-Hawkeye Arena
+2018,2018-02-09T00:00Z,Michigan State,Maryland,4988.0,Breslin Center
+2018,2018-02-09T00:00Z,Ohio State,Rutgers,4505.0,Value City Arena
+2018,2018-02-09T00:00Z,Michigan,Northwestern,2264.0,Crisler Center
+2018,2018-02-09T00:00Z,Purdue,Minnesota,5827.0,Mackey Arena
+2018,2018-02-09T00:00Z,Indiana,Illinois,2852.0,Simon Skjodt Assembly Hall
+2018,2018-02-04T20:00Z,Nebraska,Maryland,6185.0,Pinnacle Bank Arena
+2018,2018-02-04T20:00Z,Iowa,Minnesota,6561.0,Carver-Hawkeye Arena
+2018,2018-02-04T19:00Z,Rutgers,Michigan,2470.0,Jersey Mike’s Arena
+2018,2018-02-04T19:00Z,Penn State,Michigan State,3521.0,Bryce Jordan Center
+2018,2018-02-04T19:00Z,Illinois,Purdue,1902.0,State Farm Center
+2018,2018-02-04T17:00Z,Indiana,Northwestern,3786.0,Simon Skjodt Assembly Hall
+2018,2018-02-03T18:00Z,Wisconsin,Ohio State,6623.0,Kohl Center
+2018,2018-02-02T01:00Z,Michigan,Purdue,2281.0,Crisler Center
+2018,2018-02-02T01:00Z,Nebraska,Illinois,4618.0,Pinnacle Bank Arena
+2018,2018-02-02T00:00Z,Maryland,Rutgers,4427.0,XFINITY Center
+2018,2018-02-01T23:00Z,Michigan State,Iowa,5047.0,Breslin Center
+2018,2018-02-01T01:00Z,Wisconsin,Minnesota,3583.0,Kohl Center
+2018,2018-02-01T00:00Z,Ohio State,Penn State,5449.0,Value City Arena
+2018,2018-01-28T21:00Z,Illinois,Wisconsin,3237.0,State Farm Center
+2018,2018-01-28T20:00Z,Northwestern,Michigan,1258.0,Beardsley Gymnasium
+2018,2018-01-28T20:00Z,Iowa,Nebraska,8823.0,Carver-Hawkeye Arena
+2018,2018-01-28T17:00Z,Purdue,Penn State,6970.0,Mackey Arena
+2018,2018-01-27T18:00Z,Indiana,Rutgers,3340.0,Simon Skjodt Assembly Hall
+2018,2018-01-27T17:00Z,Ohio State,Michigan State,6850.0,Value City Arena
+2018,2018-01-26T01:00Z,Iowa,Ohio State,6012.0,Carver-Hawkeye Arena
+2018,2018-01-26T01:00Z,Northwestern,Maryland,704.0,Beardsley Gymnasium
+2018,2018-01-25T01:00Z,Nebraska,Purdue,4167.0,Pinnacle Bank Arena
+2018,2018-01-25T00:00Z,Indiana,Wisconsin,2574.0,Simon Skjodt Assembly Hall
+2018,2018-01-24T00:00Z,Michigan,Michigan State,3147.0,Crisler Center
+2018,2018-01-24T00:00Z,Penn State,Illinois,2326.0,Bryce Jordan Center
+2018,2018-01-23T00:00Z,Maryland,Ohio State,7944.0,XFINITY Center
+2018,2018-01-21T23:00Z,Rutgers,Nebraska,1887.0,Jersey Mike’s Arena
+2018,2018-01-21T22:30Z,Wisconsin,Northwestern,5110.0,Kohl Center
+2018,2018-01-21T21:00Z,Minnesota,Iowa,4182.0,Williams Arena
+2018,2018-01-20T23:00Z,Michigan,Illinois,3265.0,Crisler Center
+2018,2018-01-20T21:00Z,Michigan State,Indiana,11950.0,Breslin Center
+2018,2018-01-19T01:00Z,Minnesota,Wisconsin,3588.0,Williams Arena
+2018,2018-01-19T00:00Z,Penn State,Rutgers,2531.0,Bryce Jordan Center
+2018,2018-01-19T00:00Z,Purdue,Northwestern,5795.0,Mackey Arena
+2018,2018-01-17T02:00Z,Illinois,Michigan State,1114.0,State Farm Center
+2018,2018-01-17T01:00Z,Nebraska,Iowa,3667.0,Pinnacle Bank Arena
+2018,2018-01-17T00:00Z,Ohio State,Michigan,4774.0,Value City Arena
+2018,2018-01-17T00:00Z,Maryland,Indiana,3947.0,XFINITY Center
+2018,2018-01-14T19:00Z,Wisconsin,Penn State,3729.0,Kohl Center
+2018,2018-01-14T01:00Z,Nebraska,Michigan,4279.0,Pinnacle Bank Arena
+2018,2018-01-13T21:00Z,Iowa,Purdue,7477.0,Carver-Hawkeye Arena
+2018,2018-01-13T19:00Z,Rutgers,Minnesota,2168.0,Jersey Mike’s Arena
+2018,2018-01-13T17:00Z,Indiana,Ohio State,2983.0,Simon Skjodt Assembly Hall
+2018,2018-01-12T01:00Z,Maryland,Michigan State,4052.0,XFINITY Center
+2018,2018-01-12T01:00Z,Northwestern,Wisconsin,652.0,Beardsley Gymnasium
+2018,2018-01-11T01:00Z,Illinois,Nebraska,1039.0,State Farm Center
+2018,2018-01-11T00:00Z,Purdue,Rutgers,5774.0,Mackey Arena
+2018,2018-01-11T00:00Z,Michigan,Indiana,2018.0,Crisler Center
+2018,2018-01-11T00:00Z,Penn State,Minnesota,2326.0,Bryce Jordan Center
+2018,2018-01-07T21:00Z,Minnesota,Michigan State,3422.0,Williams Arena
+2018,2018-01-07T20:00Z,Wisconsin,Maryland,3882.0,Kohl Center
+2018,2018-01-07T20:00Z,Northwestern,Nebraska,850.0,Beardsley Gymnasium
+2018,2018-01-07T19:00Z,Illinois,Iowa,1646.0,State Farm Center
+2018,2018-01-07T17:00Z,Michigan,Ohio State,8313.0,Crisler Center
+2018,2018-01-06T21:30Z,Rutgers,Penn State,2246.0,Jersey Mike’s Arena
+2018,2018-01-06T19:00Z,Indiana,Purdue,4768.0,Simon Skjodt Assembly Hall
+2018,2018-01-05T01:00Z,Wisconsin,Michigan,2978.0,Kohl Center
+2018,2018-01-05T00:00Z,Ohio State,Minnesota,4519.0,Value City Arena
+2018,2018-01-04T23:00Z,Maryland,Iowa,3841.0,XFINITY Center
+2018,2018-01-04T00:00Z,Michigan State,Northwestern,6079.0,Breslin Center
+2018,2018-01-04T00:00Z,Penn State,Indiana,2252.0,Bryce Jordan Center
+2018,2018-01-04T00:00Z,Rutgers,Illinois,1289.0,Jersey Mike’s Arena
+2018,2017-12-31T21:00Z,Iowa,Michigan,6928.0,Carver-Hawkeye Arena
+2018,2017-12-31T21:00Z,Michigan State,Rutgers,6251.0,Breslin Center
+2018,2017-12-31T20:00Z,Minnesota,Nebraska,3284.0,Williams Arena
+2018,2017-12-31T20:00Z,Illinois,Northwestern,1412.0,State Farm Center
+2018,2017-12-31T19:00Z,Ohio State,Indiana,6364.0,Value City Arena
+2018,2017-12-31T19:00Z,Penn State,Maryland,2612.0,Bryce Jordan Center
+2018,2017-12-31T19:00Z,Purdue,Wisconsin,6218.0,Mackey Arena
+2018,2017-12-29T01:00Z,Nebraska,Ohio State,4383.0,Pinnacle Bank Arena
+2018,2017-12-29T01:00Z,Wisconsin,Iowa,3865.0,Kohl Center
+2018,2017-12-29T01:00Z,Northwestern,Minnesota,703.0,Beardsley Gymnasium
+2018,2017-12-29T00:00Z,Indiana,Michigan State,4303.0,Simon Skjodt Assembly Hall
+2018,2017-12-28T23:00Z,Maryland,Illinois,7346.0,XFINITY Center
+2018,2017-12-28T23:00Z,Michigan,Penn State,4907.0,Crisler Center
+2018,2017-12-28T19:00Z,Rutgers,Purdue,1827.0,Jersey Mike’s Arena
+2018,2017-12-22T22:00Z,Northwestern,Eastern Illinois,650.0,Beardsley Gymnasium
+2018,2017-12-22T19:00Z,Nebraska,Washington State,4404.0,Pinnacle Bank Arena
+2018,2017-12-22T19:00Z,Minnesota,UC Riverside,2106.0,Williams Arena
+2018,2017-12-22T01:00Z,Iowa,Drake,4847.0,Carver-Hawkeye Arena
+2018,2017-12-21T20:30Z,Michigan,Delaware State,2098.0,Crisler Center
+2018,2017-12-20T18:30Z,Purdue,Saint Mary's,6510.0,Mackey Arena
+2018,2017-12-20T01:00Z,Nebraska,Florida Atlantic,3635.0,Pinnacle Bank Arena
+2018,2017-12-19T17:00Z,Northwestern,Green Bay,4142.0,Beardsley Gymnasium
+2018,2017-12-19T02:00Z,Michigan State,Quinnipiac,4220.0,Breslin Center
+2018,2017-12-18T23:30Z,Purdue,UT Martin,5387.0,Mackey Arena
+2018,2017-12-16T23:00Z,Rutgers,Houston,1220.0,Jersey Mike’s Arena
+2018,2017-12-16T20:00Z,Illinois,Austin Peay,1085.0,State Farm Center
+2018,2017-12-16T19:00Z,Michigan,Purdue Fort Wayne,2402.0,Crisler Center
+2018,2017-12-16T00:00Z,Ohio State,Dartmouth,5086.0,Value City Arena
+2018,2017-12-15T01:00Z,Wisconsin,Milwaukee,3233.0,Kohl Center
+2018,2017-12-14T01:00Z,Northwestern,DePaul,636.0,Beardsley Gymnasium
+2018,2017-12-13T23:00Z,Rutgers,Princeton,1247.0,Jersey Mike’s Arena
+2018,2017-12-13T18:00Z,Minnesota,Cal Poly,4126.0,Williams Arena
+2018,2017-12-13T00:00Z,Michigan,North Florida,1789.0,Crisler Center
+2018,2017-12-11T23:00Z,Maryland,Loyola Maryland,3486.0,XFINITY Center
+2018,2017-12-10T23:00Z,Wisconsin,Savannah State,3344.0,Kohl Center
+2018,2017-12-10T20:00Z,Illinois,Detroit Mercy,1151.0,State Farm Center
+2018,2017-12-10T19:00Z,Michigan,Kent State,2164.0,Crisler Center
+2018,2017-12-10T19:00Z,Rutgers,Fairleigh Dickinson,1508.0,Jersey Mike’s Arena
+2018,2017-12-10T19:00Z,Purdue,Ohio,5654.0,Mackey Arena
+2018,2017-12-10T18:00Z,Northwestern,Stony Brook,654.0,Beardsley Gymnasium
+2018,2017-12-09T20:00Z,Iowa,Arkansas-Pine Bluff,3806.0,Carver-Hawkeye Arena
+2018,2017-12-09T19:00Z,Michigan State,Rhode Island,5743.0,Breslin Center
+2018,2017-12-09T00:00Z,Maryland,George Washington,4125.0,XFINITY Center
+2018,2017-12-09T00:00Z,Purdue,Valparaiso,5534.0,Mackey Arena
+2018,2017-12-08T19:00Z,Rutgers,Seton Hall,1235.0,Jersey Mike’s Arena
+2018,2017-12-08T01:00Z,Illinois,Indiana State,1044.0,State Farm Center
+2018,2017-12-08T00:00Z,Michigan,Marquette,1962.0,Crisler Center
+2018,2017-12-07T01:00Z,Wisconsin,UT Rio Grande Valley,2809.0,Kohl Center
+2018,2017-12-06T23:30Z,Maryland,Mount St. Mary's,3490.0,XFINITY Center
+2018,2017-12-06T00:00Z,Indiana,North Texas,2303.0,Simon Skjodt Assembly Hall
+2018,2017-12-05T00:00Z,Purdue,Ball State,6068.0,Mackey Arena
+2018,2017-12-04T23:00Z,Rutgers,Virginia,1368.0,Jersey Mike’s Arena
+2018,2017-12-03T20:00Z,Northwestern,Milwaukee,662.0,Beardsley Gymnasium
+2018,2017-12-03T20:00Z,Iowa,Samford,3785.0,Carver-Hawkeye Arena
+2018,2017-12-03T19:00Z,Penn State,Manhattan,3021.0,Bryce Jordan Center
+2018,2017-12-03T19:00Z,Minnesota,Eastern Michigan,2694.0,Williams Arena
+2018,2017-12-03T19:00Z,Indiana,Auburn,2966.0,Simon Skjodt Assembly Hall
+2018,2017-12-03T18:00Z,Ohio State,Maine,5879.0,Value City Arena
+2018,2017-12-03T17:30Z,Michigan State,Western Michigan,6313.0,Breslin Center
+2018,2017-12-02T20:00Z,Nebraska,Arkansas-Pine Bluff,3781.0,Pinnacle Bank Arena
+2018,2017-12-02T19:00Z,Rutgers,Siena,2139.0,Jersey Mike’s Arena
+2018,2017-12-02T17:00Z,Wisconsin,La Salle,3771.0,Kohl Center
+2018,2017-12-01T01:00Z,Indiana,Louisville,2853.0,Simon Skjodt Assembly Hall
+2018,2017-12-01T01:00Z,Nebraska,Clemson,3579.0,Pinnacle Bank Arena
+2018,2017-12-01T01:00Z,Illinois,Virginia Tech,1339.0,State Farm Center
+2018,2017-12-01T00:00Z,Penn State,Wake Forest,2329.0,Bryce Jordan Center
+2018,2017-11-30T23:00Z,Rutgers,NC State,1215.0,Jersey Mike’s Arena
+2018,2017-11-30T01:00Z,Iowa,Florida State,4202.0,Carver-Hawkeye Arena
+2018,2017-11-29T23:00Z,Michigan,Notre Dame,3100.0,Crisler Center
+2018,2017-11-23T02:00Z,Minnesota,Xavier,2000.0,Williams Arena
+2018,2017-11-23T00:00Z,Michigan,Oakland,2679.0,Crisler Center
+2018,2017-11-22T19:00Z,Northwestern,Santa Clara,628.0,Beardsley Gymnasium
+2018,2017-11-22T01:00Z,Illinois,Western Illinois,1080.0,State Farm Center
+2018,2017-11-21T23:00Z,Maryland,Howard,3517.0,XFINITY Center
+2018,2017-11-21T01:00Z,Wisconsin,Southern,2808.0,Kohl Center
+2018,2017-11-21T00:00Z,Indiana,Chattanooga,2492.0,Simon Skjodt Assembly Hall
+2018,2017-11-20T23:00Z,Penn State,Central Connecticut,2052.0,Bryce Jordan Center
+2018,2017-11-20T01:00Z,Nebraska,Creighton,4324.0,Pinnacle Bank Arena
+2018,2017-11-20T01:00Z,Minnesota,Boston College,2454.0,Williams Arena
+2018,2017-11-19T23:30Z,Rutgers,Wake Forest,1535.0,Jersey Mike’s Arena
+2018,2017-11-19T20:00Z,Iowa,Western Michigan,3578.0,Carver-Hawkeye Arena
+2018,2017-11-19T17:00Z,Michigan State,Charleston,4425.0,Breslin Center
+2018,2017-11-19T16:00Z,Ohio State,Washington,4335.0,Value City Arena
+2018,2017-11-18T20:00Z,Illinois,Bradley,1135.0,State Farm Center
+2018,2017-11-18T18:00Z,Purdue,Lamar,5579.0,Mackey Arena
+2018,2017-11-18T00:00Z,Ohio State,Quinnipiac,3793.0,Value City Arena
+2018,2017-11-18T00:00Z,Indiana,Western Kentucky,3063.0,Simon Skjodt Assembly Hall
+2018,2017-11-17T02:00Z,Nebraska,Arkansas,3459.0,Pinnacle Bank Arena
+2018,2017-11-17T01:00Z,Northwestern,Oakland,572.0,Beardsley Gymnasium
+2018,2017-11-17T01:00Z,Minnesota,VCU,2147.0,Williams Arena
+2018,2017-11-16T16:00Z,Maryland,Niagara,9425.0,XFINITY Center
+2018,2017-11-16T01:00Z,Wisconsin,Green Bay,3495.0,Kohl Center
+2018,2017-11-16T01:00Z,Iowa,Northern Illinois,3504.0,Carver-Hawkeye Arena
+2018,2017-11-16T01:00Z,Illinois,Chicago State,1056.0,State Farm Center
+2018,2017-11-16T00:00Z,Ohio State,Idaho,3960.0,Value City Arena
+2018,2017-11-16T00:00Z,Purdue,Miami (OH),5610.0,Mackey Arena
+2018,2017-11-15T01:00Z,Nebraska,Kansas City,3503.0,Pinnacle Bank Arena
+2018,2017-11-15T00:00Z,Indiana,Southern,2194.0,Simon Skjodt Assembly Hall
+2018,2017-11-14T00:00Z,Maryland,South Carolina,8677.0,XFINITY Center
+2018,2017-11-14T00:00Z,Michigan State,Oakland,4362.0,Breslin Center
+2018,2017-11-12T21:00Z,Ohio State,Louisville,9711.0,Nationwide Arena
+2018,2017-11-12T19:00Z,Michigan,Liberty,2138.0,Crisler Center
+2018,2017-11-12T18:00Z,Penn State,Drexel,2504.0,Bryce Jordan Center
+2018,2017-11-12T17:00Z,Wisconsin,Charlotte,3235.0,Kohl Center
+2018,2017-11-11T23:00Z,Minnesota,Lehigh,2642.0,Williams Arena
+2018,2017-11-11T21:00Z,Nebraska,SIU Edwardsville,3523.0,Pinnacle Bank Arena
+2018,2017-11-11T21:00Z,Michigan State,Robert Morris,5038.0,Breslin Center
+2018,2017-11-11T19:00Z,Indiana,Arkansas State,2790.0,Simon Skjodt Assembly Hall
+2018,2017-11-11T00:00Z,Maryland,Albany,4021.0,XFINITY Center
+2018,2017-11-11T00:00Z,Michigan,George Mason,3442.0,Crisler Center
+2018,2017-11-11T00:00Z,Penn State,Siena,8512.0,Bryce Jordan Center
+2018,2017-11-10T23:00Z,Ohio State,Stanford,5854.0,St. John Arena
+2018,2017-11-10T23:00Z,Iowa,Quinnipiac,3758.0,Carver-Hawkeye Arena
+2018,2017-11-10T19:00Z,Illinois,Purdue Fort Wayne,1148.0,State Farm Center
+2019,2019-03-30T23:00Z,Northwestern,Ohio,1031.0,Welsh-Ryan Arena
+2019,2019-03-25T23:00Z,Maryland,UCLA,3941.0,XFINITY Center
+2019,2019-03-24T18:00Z,Iowa,Missouri,12376.0,Carver-Hawkeye Arena
+2019,2019-03-22T23:30Z,Minnesota,Northern Iowa,2549.0,Williams Arena
+2019,2019-03-22T00:00Z,Northwestern,Dayton,325.0,Welsh-Ryan Arena
+2019,2019-03-20T23:00Z,Ohio State,Morehead State,1114.0,Value City Arena
+2019,2019-03-03T21:00Z,Iowa,Northwestern,12051.0,Carver-Hawkeye Arena
+2019,2019-03-03T21:00Z,Minnesota,Michigan State,7707.0,Williams Arena
+2019,2019-03-03T19:00Z,Ohio State,Rutgers,5030.0,Value City Arena
+2019,2019-03-03T19:00Z,Michigan,Wisconsin,3786.0,Crisler Center
+2019,2019-03-03T17:00Z,Indiana,Purdue,5857.0,Simon Skjodt Assembly Hall
+2019,2019-03-02T20:00Z,Penn State,Nebraska,2545.0,Bryce Jordan Center
+2019,2019-03-02T19:00Z,Maryland,Illinois,8638.0,XFINITY Center
+2019,2019-03-01T01:30Z,Wisconsin,Ohio State,3529.0,Kohl Center
+2019,2019-02-28T23:30Z,Rutgers,Minnesota,2852.0,Jersey Mike’s Arena
+2019,2019-02-28T00:00Z,Michigan State,Penn State,2356.0,Breslin Center
+2019,2019-02-27T01:00Z,Northwestern,Indiana,531.0,Welsh-Ryan Arena
+2019,2019-02-26T01:30Z,Nebraska,Iowa,5071.0,Pinnacle Bank Arena
+2019,2019-02-26T00:00Z,Rutgers,Wisconsin,2154.0,Jersey Mike’s Arena
+2019,2019-02-25T23:30Z,Purdue,Maryland,6009.0,Mackey Arena
+2019,2019-02-24T21:00Z,Illinois,Penn State,1532.0,State Farm Center
+2019,2019-02-22T01:00Z,Indiana,Iowa,3812.0,Simon Skjodt Assembly Hall
+2019,2019-02-22T01:00Z,Northwestern,Nebraska,446.0,Welsh-Ryan Arena
+2019,2019-02-22T00:00Z,Maryland,Minnesota,5116.0,XFINITY Center
+2019,2019-02-22T00:00Z,Penn State,Purdue,2049.0,Bryce Jordan Center
+2019,2019-02-22T00:00Z,Michigan,Rutgers,2508.0,Crisler Center
+2019,2019-02-21T23:00Z,Michigan State,Ohio State,4857.0,Breslin Center
+2019,2019-02-21T01:00Z,Wisconsin,Illinois,3866.0,Kohl Center
+2019,2019-02-19T00:00Z,Indiana,Rutgers,3324.0,Simon Skjodt Assembly Hall
+2019,2019-02-17T23:00Z,Purdue,Northwestern,7265.0,Mackey Arena
+2019,2019-02-17T21:00Z,Nebraska,Michigan State,5588.0,Pinnacle Bank Arena
+2019,2019-02-17T20:00Z,Illinois,Michigan,1609.0,State Farm Center
+2019,2019-02-17T19:00Z,Ohio State,Wisconsin,5931.0,Value City Arena
+2019,2019-02-17T19:00Z,Minnesota,Penn State,5869.0,Williams Arena
+2019,2019-02-17T18:00Z,Iowa,Maryland,10716.0,Carver-Hawkeye Arena
+2019,2019-02-15T01:00Z,Maryland,Nebraska,4467.0,XFINITY Center
+2019,2019-02-15T01:00Z,Iowa,Illinois,6877.0,Carver-Hawkeye Arena
+2019,2019-02-15T01:00Z,Wisconsin,Michigan State,3356.0,Kohl Center
+2019,2019-02-15T01:00Z,Northwestern,Penn State,490.0,Welsh-Ryan Arena
+2019,2019-02-15T00:00Z,Rutgers,Ohio State,1849.0,Jersey Mike’s Arena
+2019,2019-02-15T00:00Z,Michigan,Indiana,2328.0,Crisler Center
+2019,2019-02-14T23:00Z,Purdue,Minnesota,6126.0,Mackey Arena
+2019,2019-02-12T00:00Z,Michigan State,Indiana,3542.0,Breslin Center
+2019,2019-02-10T21:00Z,Ohio State,Iowa,5344.0,Value City Arena
+2019,2019-02-10T20:00Z,Nebraska,Purdue,4298.0,Pinnacle Bank Arena
+2019,2019-02-10T20:00Z,Illinois,Wisconsin,1844.0,State Farm Center
+2019,2019-02-10T19:00Z,Rutgers,Maryland,4573.0,Jersey Mike’s Arena
+2019,2019-02-10T19:00Z,Minnesota,Northwestern,5475.0,Williams Arena
+2019,2019-02-10T19:00Z,Penn State,Michigan,5024.0,Bryce Jordan Center
+2019,2019-02-08T02:00Z,Iowa,Michigan State,6287.0,Carver-Hawkeye Arena
+2019,2019-02-08T00:00Z,Michigan,Nebraska,2572.0,Crisler Center
+2019,2019-02-08T00:00Z,Purdue,Illinois,6024.0,Mackey Arena
+2019,2019-02-07T23:30Z,Maryland,Northwestern,4933.0,XFINITY Center
+2019,2019-02-07T00:00Z,Ohio State,Penn State,4264.0,Value City Arena
+2019,2019-02-07T00:00Z,Indiana,Minnesota,3398.0,Simon Skjodt Assembly Hall
+2019,2019-02-05T00:30Z,Illinois,Maryland,1088.0,State Farm Center
+2019,2019-02-03T21:30Z,Northwestern,Ohio State,1283.0,Welsh-Ryan Arena
+2019,2019-02-03T21:00Z,Minnesota,Rutgers,4888.0,Williams Arena
+2019,2019-02-03T20:00Z,Wisconsin,Michigan,6670.0,Kohl Center
+2019,2019-02-03T20:00Z,Nebraska,Indiana,3893.0,Pinnacle Bank Arena
+2019,2019-02-03T19:00Z,Penn State,Iowa,2815.0,Bryce Jordan Center
+2019,2019-02-03T19:00Z,Michigan State,Purdue,7450.0,Breslin Center
+2019,2019-02-01T17:00Z,Michigan,Iowa,2160.0,Crisler Center
+2019,2019-02-01T01:00Z,Purdue,Nebraska,5901.0,Mackey Arena
+2019,2019-02-01T01:00Z,Northwestern,Minnesota,606.0,Welsh-Ryan Arena
+2019,2019-02-01T00:00Z,Maryland,Wisconsin,4594.0,XFINITY Center
+2019,2019-02-01T00:00Z,Rutgers,Indiana,1776.0,Jersey Mike’s Arena
+2019,2019-02-01T00:00Z,Ohio State,Illinois,3804.0,Value City Arena
+2019,2019-01-29T00:30Z,Minnesota,Ohio State,3740.0,Williams Arena
+2019,2019-01-27T20:00Z,Iowa,Purdue,9319.0,Carver-Hawkeye Arena
+2019,2019-01-27T20:00Z,Wisconsin,Nebraska,6074.0,Kohl Center
+2019,2019-01-27T20:00Z,Illinois,Northwestern,1532.0,State Farm Center
+2019,2019-01-27T19:00Z,Penn State,Rutgers,2463.0,Bryce Jordan Center
+2019,2019-01-27T19:00Z,Michigan,Michigan State,12707.0,Crisler Center
+2019,2019-01-27T17:00Z,Indiana,Maryland,4555.0,Simon Skjodt Assembly Hall
+2019,2019-01-25T01:00Z,Ohio State,Maryland,3962.0,Value City Arena
+2019,2019-01-25T01:00Z,Wisconsin,Penn State,3074.0,Kohl Center
+2019,2019-01-25T01:00Z,Nebraska,Northwestern,3660.0,Pinnacle Bank Arena
+2019,2019-01-25T01:00Z,Minnesota,Purdue,5572.0,Williams Arena
+2019,2019-01-25T00:00Z,Michigan State,Illinois,4745.0,Breslin Center
+2019,2019-01-24T23:00Z,Indiana,Michigan,3411.0,Simon Skjodt Assembly Hall
+2019,2019-01-24T01:00Z,Iowa,Rutgers,6035.0,Carver-Hawkeye Arena
+2019,2019-01-20T23:00Z,Nebraska,Minnesota,4072.0,Pinnacle Bank Arena
+2019,2019-01-20T21:30Z,Northwestern,Wisconsin,1524.0,Welsh-Ryan Arena
+2019,2019-01-20T20:00Z,Illinois,Iowa,3019.0,State Farm Center
+2019,2019-01-20T20:00Z,Michigan,Ohio State,5422.0,Crisler Center
+2019,2019-01-20T19:00Z,Maryland,Penn State,7684.0,XFINITY Center
+2019,2019-01-20T19:00Z,Rutgers,Michigan State,2539.0,Jersey Mike’s Arena
+2019,2019-01-20T19:00Z,Purdue,Indiana,8657.0,Mackey Arena
+2019,2019-01-18T01:00Z,Iowa,Michigan,6287.0,Carver-Hawkeye Arena
+2019,2019-01-18T01:00Z,Wisconsin,Minnesota,3137.0,Kohl Center
+2019,2019-01-18T01:00Z,Illinois,Nebraska,1349.0,State Farm Center
+2019,2019-01-18T00:00Z,Penn State,Ohio State,2090.0,Bryce Jordan Center
+2019,2019-01-17T23:00Z,Michigan State,Maryland,5651.0,Breslin Center
+2019,2019-01-17T00:00Z,Rutgers,Purdue,1419.0,Jersey Mike’s Arena
+2019,2019-01-17T00:00Z,Indiana,Northwestern,3352.0,Simon Skjodt Assembly Hall
+2019,2019-01-15T00:00Z,Ohio State,Michigan State,4695.0,Value City Arena
+2019,2019-01-15T00:00Z,Minnesota,Iowa,5439.0,Williams Arena
+2019,2019-01-13T22:00Z,Northwestern,Purdue,1349.0,Welsh-Ryan Arena
+2019,2019-01-13T20:00Z,Wisconsin,Indiana,6092.0,Kohl Center
+2019,2019-01-13T20:00Z,Nebraska,Rutgers,4222.0,Pinnacle Bank Arena
+2019,2019-01-12T21:30Z,Maryland,Michigan,6218.0,XFINITY Center
+2019,2019-01-12T19:00Z,Penn State,Illinois,2472.0,Bryce Jordan Center
+2019,2019-01-11T01:00Z,Purdue,Iowa,5843.0,Mackey Arena
+2019,2019-01-10T23:00Z,Ohio State,Indiana,3557.0,Value City Arena
+2019,2019-01-10T01:00Z,Illinois,Rutgers,1150.0,State Farm Center
+2019,2019-01-10T00:00Z,Michigan State,Minnesota,5018.0,Breslin Center
+2019,2019-01-09T01:00Z,Nebraska,Maryland,3796.0,Pinnacle Bank Arena
+2019,2019-01-09T00:00Z,Michigan,Northwestern,2229.0,Crisler Center
+2019,2019-01-08T01:00Z,Iowa,Wisconsin,3428.0,Carver-Hawkeye Arena
+2019,2019-01-06T21:00Z,Minnesota,Illinois,6622.0,Williams Arena
+2019,2019-01-06T21:00Z,Rutgers,Penn State,1868.0,Jersey Mike’s Arena
+2019,2019-01-06T19:00Z,Indiana,Michigan State,6380.0,Simon Skjodt Assembly Hall
+2019,2019-01-05T23:00Z,Purdue,Michigan,6446.0,Mackey Arena
+2019,2019-01-05T21:00Z,Maryland,Ohio State,6731.0,XFINITY Center
+2019,2019-01-05T00:00Z,Rutgers,Brown,1449.0,Jersey Mike’s Arena
+2019,2019-01-04T01:00Z,Northwestern,Michigan State,1071.0,Welsh-Ryan Arena
+2019,2019-01-04T01:00Z,Iowa,Nebraska,4391.0,Carver-Hawkeye Arena
+2019,2019-01-04T00:00Z,Penn State,Wisconsin,2093.0,Bryce Jordan Center
+2019,2019-01-01T00:00Z,Indiana,Penn State,4481.0,Simon Skjodt Assembly Hall
+2019,2018-12-31T20:00Z,Wisconsin,Purdue,3982.0,Kohl Center
+2019,2018-12-31T20:00Z,Northwestern,Illinois,1129.0,Welsh-Ryan Arena
+2019,2018-12-31T19:00Z,Michigan,Minnesota,4506.0,Crisler Center
+2019,2018-12-31T18:00Z,Ohio State,Nebraska,5530.0,Value City Arena
+2019,2018-12-31T17:00Z,Maryland,Rutgers,5892.0,XFINITY Center
+2019,2018-12-30T18:00Z,Michigan State,Iowa,9520.0,Breslin Center
+2019,2018-12-29T02:00Z,Minnesota,Wisconsin,7918.0,Williams Arena
+2019,2018-12-29T01:00Z,Illinois,Indiana,1622.0,State Farm Center
+2019,2018-12-29T00:00Z,Penn State,Maryland,2259.0,Bryce Jordan Center
+2019,2018-12-29T00:00Z,Nebraska,Michigan,4450.0,Pinnacle Bank Arena
+2019,2018-12-28T21:00Z,Purdue,Ohio State,6313.0,Mackey Arena
+2019,2018-12-28T21:00Z,Rutgers,Northwestern,1952.0,Jersey Mike’s Arena
+2019,2018-12-22T21:00Z,Minnesota,Rhode Island,5224.0,Williams Arena
+2019,2018-12-22T01:00Z,Wisconsin,Evansville,3980.0,Kohl Center
+2019,2018-12-21T18:00Z,Illinois,Missouri,1288.0,State Farm Center
+2019,2018-12-21T17:00Z,Michigan,Southern,1928.0,Crisler Center
+2019,2018-12-21T17:00Z,Purdue,Bradley,5491.0,Mackey Arena
+2019,2018-12-21T00:00Z,Michigan State,Florida Atlantic,4393.0,Breslin Center
+2019,2018-12-19T16:30Z,Purdue,Albany,7038.0,Mackey Arena
+2019,2018-12-17T17:00Z,Northwestern,Chicago State,5799.0,Welsh-Ryan Arena
+2019,2018-12-16T20:00Z,Iowa,Northern Iowa,6860.0,Carver-Hawkeye Arena
+2019,2018-12-16T20:00Z,Purdue,South Carolina,10086.0,Mackey Arena
+2019,2018-12-16T19:00Z,Penn State,American University,2257.0,Bryce Jordan Center
+2019,2018-12-16T18:00Z,Ohio State,Florida,4585.0,St. John Arena
+2019,2018-12-16T00:00Z,Illinois,SIU Edwardsville,1335.0,State Farm Center
+2019,2018-12-15T22:30Z,Nebraska,Denver,3703.0,Pinnacle Bank Arena
+2019,2018-12-15T21:00Z,Rutgers,LSU,1726.0,Jersey Mike’s Arena
+2019,2018-12-15T16:00Z,Michigan,Morgan State,2646.0,Crisler Center
+2019,2018-12-13T01:00Z,Minnesota,Coppin State,3583.0,Williams Arena
+2019,2018-12-13T01:00Z,Wisconsin,Chicago State,2943.0,Kohl Center
+2019,2018-12-12T01:00Z,Illinois,Murray State,986.0,State Farm Center
+2019,2018-12-10T16:00Z,Maryland,Loyola Maryland,9736.0,XFINITY Center
+2019,2018-12-09T20:00Z,Michigan State,Oregon,6462.0,Breslin Center
+2019,2018-12-09T19:00Z,Northwestern,Marquette,1467.0,Welsh-Ryan Arena
+2019,2018-12-09T19:00Z,Penn State,St. Bonaventure,2152.0,Bryce Jordan Center
+2019,2018-12-09T17:00Z,Indiana,Missouri State,3463.0,Simon Skjodt Assembly Hall
+2019,2018-12-08T20:00Z,Iowa,IUPUI,3571.0,Carver-Hawkeye Arena
+2019,2018-12-08T18:00Z,Nebraska,San José State,3601.0,Pinnacle Bank Arena
+2019,2018-12-08T17:00Z,Maryland,James Madison,4357.0,XFINITY Center
+2019,2018-12-07T00:00Z,Michigan,LIU Brooklyn,2060.0,Crisler Center
+2019,2018-12-06T01:00Z,Iowa,Iowa State,6289.0,Carver-Hawkeye Arena
+2019,2018-12-06T01:00Z,Nebraska,Kansas,3688.0,Pinnacle Bank Arena
+2019,2018-12-06T01:00Z,Illinois,Indiana State,981.0,State Farm Center
+2019,2018-12-06T00:00Z,Indiana,Butler,3652.0,Simon Skjodt Assembly Hall
+2019,2018-12-06T00:00Z,Penn State,Duquesne,1989.0,Bryce Jordan Center
+2019,2018-12-05T18:00Z,Minnesota,Incarnate Word,7835.0,Williams Arena
+2019,2018-12-05T01:00Z,Wisconsin,Marshall,2837.0,Kohl Center
+2019,2018-12-02T21:00Z,Minnesota,Air Force,3642.0,Williams Arena
+2019,2018-12-02T20:00Z,Iowa,Robert Morris,3457.0,Carver-Hawkeye Arena
+2019,2018-12-02T19:00Z,Penn State,Jacksonville,2121.0,Bryce Jordan Center
+2019,2018-12-02T19:00Z,Michigan State,Texas Southern,4470.0,Breslin Center
+2019,2018-12-02T19:00Z,Ohio State,Cincinnati,4825.0,Value City Arena
+2019,2018-12-02T18:00Z,Maryland,UMBC,4226.0,XFINITY Center
+2019,2018-12-01T20:00Z,Illinois,Eastern Michigan,1383.0,State Farm Center
+2019,2018-11-30T01:30Z,Minnesota,Syracuse,4178.0,Williams Arena
+2019,2018-11-30T01:00Z,Northwestern,Pittsburgh,411.0,Welsh-Ryan Arena
+2019,2018-11-30T00:00Z,Purdue,Miami,5831.0,Mackey Arena
+2019,2018-11-30T00:00Z,Ohio State,North Carolina,4997.0,Value City Arena
+2019,2018-11-29T23:30Z,Maryland,Georgia Tech,4108.0,XFINITY Center
+2019,2018-11-29T02:00Z,Wisconsin,Duke,3483.0,Kohl Center
+2019,2018-11-29T00:00Z,Michigan State,Virginia,4219.0,Breslin Center
+2019,2018-11-25T20:00Z,Northwestern,UT Martin,372.0,Welsh-Ryan Arena
+2019,2018-11-25T19:00Z,Indiana,Northern Illinois,3415.0,Simon Skjodt Assembly Hall
+2019,2018-11-25T19:00Z,Penn State,Stony Brook,2018.0,Bryce Jordan Center
+2019,2018-11-23T21:00Z,Minnesota,Cornell,4339.0,Williams Arena
+2019,2018-11-21T19:00Z,Penn State,North Dakota,1881.0,Bryce Jordan Center
+2019,2018-11-21T19:00Z,Indiana,Florida,3345.0,Simon Skjodt Assembly Hall
+2019,2018-11-21T01:00Z,Minnesota,Arkansas-Pine Bluff,3007.0,Williams Arena
+2019,2018-11-20T01:00Z,Wisconsin,IUPUI,2902.0,Kohl Center
+2019,2018-11-20T00:00Z,Michigan,Detroit Mercy,2241.0,Crisler Center
+2019,2018-11-18T21:00Z,Rutgers,Albany,1625.0,Jersey Mike’s Arena
+2019,2018-11-18T19:00Z,Purdue,Purdue Fort Wayne,5970.0,Mackey Arena
+2019,2018-11-18T19:00Z,Penn State,Princeton,2026.0,Bryce Jordan Center
+2019,2018-11-18T19:00Z,Indiana,North Florida,3298.0,Simon Skjodt Assembly Hall
+2019,2018-11-18T19:00Z,Illinois,Columbia,1439.0,State Farm Center
+2019,2018-11-18T18:00Z,Michigan State,Wright State,5233.0,Breslin Center
+2019,2018-11-18T01:30Z,Minnesota,San Diego,3626.0,Williams Arena
+2019,2018-11-18T01:00Z,Iowa,North Carolina Central,3238.0,Carver-Hawkeye Arena
+2019,2018-11-17T18:00Z,Wisconsin,North Dakota State,3275.0,Kohl Center
+2019,2018-11-16T01:00Z,Northwestern,UIC,761.0,Welsh-Ryan Arena
+2019,2018-11-16T00:00Z,Purdue,Western Illinois,5816.0,Mackey Arena
+2019,2018-11-15T01:00Z,Illinois,Valparaiso,1163.0,State Farm Center
+2019,2018-11-14T00:00Z,Rutgers,Central Connecticut,4583.0,Jersey Mike’s Arena
+2019,2018-11-11T19:00Z,Maryland,Dayton,4631.0,XFINITY Center
+2019,2018-11-11T19:00Z,Northwestern,Duke,2258.0,Welsh-Ryan Arena
+2019,2018-11-11T19:00Z,Penn State,California,2406.0,Bryce Jordan Center
+2019,2018-11-11T19:00Z,Purdue,Harvard,5884.0,Mackey Arena
+2019,2018-11-11T18:00Z,Michigan State,East Tennessee State,4379.0,Breslin Center
+2019,2018-11-11T17:00Z,Nebraska,South Carolina Upstate,3638.0,Pinnacle Bank Arena
+2019,2018-11-10T02:00Z,Minnesota,New Hampshire,14625.0,Williams Arena
+2019,2018-11-10T01:00Z,Iowa,Oral Roberts,3644.0,Carver-Hawkeye Arena
+2019,2018-11-10T00:00Z,Maryland,Coppin State,4432.0,XFINITY Center
+2019,2018-11-10T00:00Z,Ohio State,Detroit Mercy,3937.0,Value City Arena
+2019,2018-11-10T00:00Z,Michigan,Mount St. Mary's,2722.0,Crisler Center
+2019,2018-11-09T17:00Z,Rutgers,Stony Brook,1187.0,Jersey Mike’s Arena
+2019,2018-11-09T01:00Z,Wisconsin,Winthrop,3102.0,Kohl Center
+2019,2018-11-09T00:00Z,Penn State,Providence,2115.0,Bryce Jordan Center
+2019,2018-11-08T01:00Z,Nebraska,Drake,2618.0,Pinnacle Bank Arena
+2019,2018-11-08T00:00Z,Indiana,Milwaukee,3060.0,Simon Skjodt Assembly Hall
+2019,2018-11-07T17:00Z,Illinois,Alabama A&M,2364.0,State Farm Center
+2019,2018-11-07T00:00Z,Ohio State,South Florida,3472.0,Value City Arena
+2019,2018-11-07T00:00Z,Rutgers,St. Francis (PA),1415.0,Jersey Mike’s Arena
+2019,2018-11-07T00:00Z,Michigan State,Bowling Green,4278.0,Breslin Center
+2020,2020-03-01T21:00Z,Minnesota,Maryland,6013.0,Williams Arena
+2020,2020-03-01T19:00Z,Michigan State,Penn State,10584.0,Breslin Center
+2020,2020-03-01T17:00Z,Rutgers,Iowa,2680.0,Jersey Mike’s Arena
+2020,2020-03-01T17:00Z,Michigan,Indiana,3719.0,Crisler Center
+2020,2020-02-29T21:00Z,Purdue,Ohio State,6753.0,Mackey Arena
+2020,2020-02-29T19:00Z,Northwestern,Illinois,4016.0,Welsh-Ryan Arena
+2020,2020-02-28T00:30Z,Iowa,Minnesota,8297.0,Carver-Hawkeye Arena
+2020,2020-02-28T00:00Z,Rutgers,Wisconsin,1471.0,Jersey Mike’s Arena
+2020,2020-02-28T00:00Z,Penn State,Michigan,1691.0,Bryce Jordan Center
+2020,2020-02-27T23:00Z,Indiana,Nebraska,3583.0,Simon Skjodt Assembly Hall
+2020,2020-02-27T01:00Z,Illinois,Michigan State,1176.0,State Farm Center
+2020,2020-02-26T01:00Z,Maryland,Purdue,5105.0,XFINITY Center
+2020,2020-02-25T23:00Z,Ohio State,Northwestern,4403.0,Value City Arena
+2020,2020-02-23T22:00Z,Michigan State,Michigan,11462.0,Breslin Center
+2020,2020-02-22T23:00Z,Minnesota,Indiana,4453.0,Williams Arena
+2020,2020-02-22T20:00Z,Iowa,Penn State,8389.0,Carver-Hawkeye Arena
+2020,2020-02-22T20:00Z,Nebraska,Illinois,5044.0,Pinnacle Bank Arena
+2020,2020-02-22T19:00Z,Rutgers,Ohio State,2281.0,Jersey Mike’s Arena
+2020,2020-02-22T17:00Z,Wisconsin,Northwestern,4172.0,Kohl Center
+2020,2020-02-21T00:00Z,Purdue,Michigan State,5908.0,Mackey Arena
+2020,2020-02-20T01:00Z,Wisconsin,Maryland,3878.0,Kohl Center
+2020,2020-02-20T01:00Z,Northwestern,Rutgers,1142.0,Welsh-Ryan Arena
+2020,2020-02-20T00:00Z,Ohio State,Nebraska,3896.0,Value City Arena
+2020,2020-02-20T00:00Z,Michigan,Illinois,2388.0,Crisler Center
+2020,2020-02-18T00:00Z,Michigan State,Minnesota,4608.0,Breslin Center
+2020,2020-02-16T20:00Z,Iowa,Wisconsin,9506.0,Carver-Hawkeye Arena
+2020,2020-02-16T20:00Z,Northwestern,Nebraska,2172.0,Welsh-Ryan Arena
+2020,2020-02-16T20:00Z,Illinois,Purdue,2119.0,State Farm Center
+2020,2020-02-16T19:00Z,Penn State,Maryland,2835.0,Bryce Jordan Center
+2020,2020-02-16T19:00Z,Indiana,Ohio State,6142.0,Simon Skjodt Assembly Hall
+2020,2020-02-16T17:00Z,Rutgers,Michigan,2571.0,Jersey Mike’s Arena
+2020,2020-02-14T01:00Z,Illinois,Indiana,1145.0,State Farm Center
+2020,2020-02-14T01:00Z,Wisconsin,Purdue,3799.0,Kohl Center
+2020,2020-02-14T01:00Z,Nebraska,Penn State,3907.0,Pinnacle Bank Arena
+2020,2020-02-14T00:00Z,Michigan,Northwestern,2354.0,Crisler Center
+2020,2020-02-14T00:00Z,Ohio State,Minnesota,3721.0,Value City Arena
+2020,2020-02-14T00:00Z,Michigan State,Rutgers,3878.0,Breslin Center
+2020,2020-02-13T23:00Z,Maryland,Iowa,5446.0,XFINITY Center
+2020,2020-02-11T02:00Z,Northwestern,Michigan State,864.0,Welsh-Ryan Arena
+2020,2020-02-11T00:00Z,Minnesota,Michigan,3423.0,Williams Arena
+2020,2020-02-09T20:00Z,Nebraska,Indiana,6160.0,Pinnacle Bank Arena
+2020,2020-02-09T19:00Z,Purdue,Iowa,6681.0,Mackey Arena
+2020,2020-02-09T19:00Z,Penn State,Illinois,4592.0,Bryce Jordan Center
+2020,2020-02-09T19:00Z,Ohio State,Wisconsin,6075.0,Value City Arena
+2020,2020-02-09T17:00Z,Maryland,Rutgers,9239.0,XFINITY Center
+2020,2020-02-07T01:00Z,Indiana,Maryland,3274.0,Simon Skjodt Assembly Hall
+2020,2020-02-07T01:00Z,Wisconsin,Minnesota,3581.0,Kohl Center
+2020,2020-02-07T01:00Z,Illinois,Ohio State,2388.0,State Farm Center
+2020,2020-02-07T00:30Z,Iowa,Nebraska,6967.0,Carver-Hawkeye Arena
+2020,2020-02-07T00:00Z,Rutgers,Penn State,1658.0,Jersey Mike’s Arena
+2020,2020-02-06T23:00Z,Michigan,Purdue,2076.0,Crisler Center
+2020,2020-02-04T01:00Z,Maryland,Michigan State,4798.0,XFINITY Center
+2020,2020-02-03T23:00Z,Purdue,Indiana,8161.0,Mackey Arena
+2020,2020-02-02T20:00Z,Nebraska,Ohio State,4189.0,Pinnacle Bank Arena
+2020,2020-02-02T20:00Z,Minnesota,Rutgers,4319.0,Williams Arena
+2020,2020-02-02T20:00Z,Illinois,Wisconsin,2388.0,State Farm Center
+2020,2020-02-02T17:00Z,Michigan,Iowa,3124.0,Crisler Center
+2020,2020-02-02T17:00Z,Penn State,Northwestern,2362.0,Bryce Jordan Center
+2020,2020-01-31T01:00Z,Northwestern,Michigan,1133.0,Welsh-Ryan Arena
+2020,2020-01-31T01:00Z,Minnesota,Nebraska,3568.0,Williams Arena
+2020,2020-01-31T00:00Z,Penn State,Iowa,1657.0,Bryce Jordan Center
+2020,2020-01-31T00:00Z,Indiana,Wisconsin,3576.0,Simon Skjodt Assembly Hall
+2020,2020-01-31T00:00Z,Rutgers,Illinois,1359.0,Jersey Mike’s Arena
+2020,2020-01-31T00:00Z,Michigan State,Purdue,4314.0,Breslin Center
+2020,2020-01-30T23:30Z,Ohio State,Maryland,5380.0,Value City Arena
+2020,2020-01-27T23:00Z,Indiana,Minnesota,3463.0,Simon Skjodt Assembly Hall
+2020,2020-01-26T21:00Z,Iowa,Michigan State,13420.0,Carver-Hawkeye Arena
+2020,2020-01-26T19:00Z,Purdue,Penn State,6057.0,Mackey Arena
+2020,2020-01-26T19:00Z,Michigan,Rutgers,3676.0,Crisler Center
+2020,2020-01-26T18:00Z,Maryland,Northwestern,8276.0,XFINITY Center
+2020,2020-01-25T17:00Z,Wisconsin,Nebraska,3191.0,Kohl Center
+2020,2020-01-24T01:00Z,Iowa,Ohio State,6490.0,Carver-Hawkeye Arena
+2020,2020-01-24T01:00Z,Illinois,Maryland,1088.0,State Farm Center
+2020,2020-01-23T23:30Z,Michigan State,Northwestern,3963.0,Breslin Center
+2020,2020-01-23T23:00Z,Penn State,Indiana,1634.0,Bryce Jordan Center
+2020,2020-01-23T01:00Z,Nebraska,Purdue,3819.0,Pinnacle Bank Arena
+2020,2020-01-23T01:00Z,Minnesota,Wisconsin,3619.0,Williams Arena
+2020,2020-01-21T01:00Z,Maryland,Indiana,4583.0,XFINITY Center
+2020,2020-01-20T23:00Z,Rutgers,Michigan State,2084.0,Jersey Mike’s Arena
+2020,2020-01-19T22:00Z,Nebraska,Michigan,5030.0,Pinnacle Bank Arena
+2020,2020-01-19T20:00Z,Wisconsin,Iowa,6460.0,Kohl Center
+2020,2020-01-19T20:00Z,Northwestern,Penn State,1424.0,Welsh-Ryan Arena
+2020,2020-01-19T19:00Z,Purdue,Minnesota,6077.0,Mackey Arena
+2020,2020-01-19T19:00Z,Ohio State,Illinois,5143.0,Value City Arena
+2020,2020-01-17T01:00Z,Maryland,Nebraska,3839.0,XFINITY Center
+2020,2020-01-17T01:00Z,Minnesota,Iowa,3412.0,Williams Arena
+2020,2020-01-17T01:00Z,Wisconsin,Michigan,3191.0,Kohl Center
+2020,2020-01-17T00:00Z,Indiana,Northwestern,3805.0,Simon Skjodt Assembly Hall
+2020,2020-01-17T00:00Z,Purdue,Illinois,5886.0,Mackey Arena
+2020,2020-01-17T00:00Z,Penn State,Rutgers,1685.0,Bryce Jordan Center
+2020,2020-01-16T23:00Z,Michigan State,Ohio State,3700.0,Breslin Center
+2020,2020-01-13T00:00Z,Northwestern,Purdue,1464.0,Welsh-Ryan Arena
+2020,2020-01-12T22:00Z,Iowa,Indiana,7397.0,Carver-Hawkeye Arena
+2020,2020-01-12T20:00Z,Michigan State,Wisconsin,6174.0,Breslin Center
+2020,2020-01-12T20:00Z,Illinois,Minnesota,1333.0,State Farm Center
+2020,2020-01-12T19:00Z,Rutgers,Nebraska,2023.0,Jersey Mike’s Arena
+2020,2020-01-12T19:00Z,Ohio State,Penn State,5428.0,Value City Arena
+2020,2020-01-12T17:00Z,Michigan,Maryland,2608.0,Crisler Center
+2020,2020-01-10T01:00Z,Iowa,Maryland,6689.0,Carver-Hawkeye Arena
+2020,2020-01-10T01:00Z,Nebraska,Wisconsin,3954.0,Pinnacle Bank Arena
+2020,2020-01-10T01:00Z,Minnesota,Northwestern,3001.0,Williams Arena
+2020,2020-01-10T01:00Z,Illinois,Rutgers,977.0,State Farm Center
+2020,2020-01-10T00:00Z,Indiana,Purdue,5159.0,Simon Skjodt Assembly Hall
+2020,2020-01-10T00:00Z,Penn State,Michigan State,1696.0,Bryce Jordan Center
+2020,2020-01-09T23:00Z,Ohio State,Michigan,4230.0,Value City Arena
+2020,2020-01-07T00:00Z,Indiana,Illinois,3024.0,Simon Skjodt Assembly Hall
+2020,2020-01-07T00:00Z,Maryland,Ohio State,4427.0,XFINITY Center
+2020,2020-01-05T19:00Z,Northwestern,Iowa,1843.0,Welsh-Ryan Arena
+2020,2020-01-05T17:00Z,Michigan,Michigan State,11068.0,Crisler Center
+2020,2020-01-05T17:00Z,Purdue,Rutgers,7441.0,Mackey Arena
+2020,2020-01-04T23:00Z,Nebraska,Minnesota,5940.0,Pinnacle Bank Arena
+2020,2020-01-04T21:00Z,Wisconsin,Penn State,5078.0,Kohl Center
+2020,2019-12-31T22:00Z,Northwestern,Maryland,1003.0,Welsh-Ryan Arena
+2020,2019-12-31T22:00Z,Minnesota,Ohio State,3982.0,Williams Arena
+2020,2019-12-31T21:00Z,Purdue,Wisconsin,6080.0,Mackey Arena
+2020,2019-12-31T20:00Z,Rutgers,Indiana,2324.0,Jersey Mike’s Arena
+2020,2019-12-31T20:00Z,Iowa,Illinois,6942.0,Carver-Hawkeye Arena
+2020,2019-12-31T19:00Z,Michigan,Penn State,5012.0,Crisler Center
+2020,2019-12-31T18:00Z,Michigan State,Nebraska,5121.0,Breslin Center
+2020,2019-12-29T01:00Z,Maryland,Michigan,6203.0,XFINITY Center
+2020,2019-12-28T23:00Z,Indiana,Michigan State,6020.0,Simon Skjodt Assembly Hall
+2020,2019-12-28T21:00Z,Penn State,Minnesota,1923.0,Bryce Jordan Center
+2020,2019-12-28T20:00Z,Wisconsin,Rutgers,4320.0,Kohl Center
+2020,2019-12-28T20:00Z,Illinois,Northwestern,2099.0,State Farm Center
+2020,2019-12-28T19:00Z,Nebraska,Iowa,5228.0,Pinnacle Bank Arena
+2020,2019-12-28T17:00Z,Ohio State,Purdue,4212.0,St. John Arena
+2020,2019-12-22T18:00Z,Nebraska,Manhattan,4025.0,Pinnacle Bank Arena
+2020,2019-12-22T17:00Z,Indiana,UCLA,5272.0,Simon Skjodt Assembly Hall
+2020,2019-12-22T17:00Z,Penn State,Sacred Heart,1774.0,Bryce Jordan Center
+2020,2019-12-22T00:00Z,Iowa,Drake,7625.0,Carver-Hawkeye Arena
+2020,2019-12-21T18:00Z,Minnesota,Lehigh,4300.0,Williams Arena
+2020,2019-12-21T17:00Z,Purdue,Bowling Green,5742.0,Mackey Arena
+2020,2019-12-21T01:00Z,Wisconsin,Prairie View A&M,3404.0,Kohl Center
+2020,2019-12-18T17:00Z,Purdue,Western Kentucky,7106.0,Mackey Arena
+2020,2019-12-16T17:00Z,Northwestern,UT Arlington,3432.0,Welsh-Ryan Arena
+2020,2019-12-15T20:00Z,Illinois,Evansville,1383.0,State Farm Center
+2020,2019-12-15T19:00Z,Indiana,Youngstown State,3573.0,Simon Skjodt Assembly Hall
+2020,2019-12-15T19:00Z,Rutgers,Marshall,1337.0,Jersey Mike’s Arena
+2020,2019-12-15T19:00Z,Minnesota,UC Davis,4673.0,Williams Arena
+2020,2019-12-15T18:00Z,Michigan State,Morehead State,3474.0,Breslin Center
+2020,2019-12-14T20:30Z,Michigan,Appalachian State,2608.0,Crisler Center
+2020,2019-12-14T20:00Z,Iowa,North Carolina Central,4262.0,Carver-Hawkeye Arena
+2020,2019-12-14T19:00Z,Nebraska,Oral Roberts,3769.0,Pinnacle Bank Arena
+2020,2019-12-13T00:00Z,Rutgers,Southern,1095.0,Jersey Mike’s Arena
+2020,2019-12-11T01:00Z,Illinois,Merrimack,960.0,State Farm Center
+2020,2019-12-08T19:00Z,Michigan,Oakland,2154.0,Crisler Center
+2020,2019-12-08T19:00Z,Rutgers,Towson,1292.0,Jersey Mike’s Arena
+2020,2019-12-08T19:00Z,Ohio State,Radford,3902.0,Value City Arena
+2020,2019-12-08T18:00Z,Maryland,Loyola Maryland,4148.0,XFINITY Center
+2020,2019-12-08T17:00Z,Purdue,Kent State,5585.0,Mackey Arena
+2020,2019-12-08T00:00Z,Indiana,North Florida,3754.0,Simon Skjodt Assembly Hall
+2020,2019-12-07T20:00Z,Northwestern,Dartmouth,866.0,Welsh-Ryan Arena
+2020,2019-12-06T02:00Z,Michigan,Syracuse,1832.0,Crisler Center
+2020,2019-12-06T01:00Z,Ohio State,Louisville,3807.0,Value City Arena
+2020,2019-12-06T00:00Z,Penn State,Pittsburgh,1667.0,Bryce Jordan Center
+2020,2019-12-05T23:00Z,Rutgers,Virginia,1597.0,Jersey Mike’s Arena
+2020,2019-12-05T02:00Z,Iowa,Clemson,5884.0,Carver-Hawkeye Arena
+2020,2019-12-05T01:00Z,Northwestern,Boston College,610.0,Welsh-Ryan Arena
+2020,2019-12-05T00:00Z,Nebraska,Duke,4013.0,Pinnacle Bank Arena
+2020,2019-12-01T20:00Z,Northwestern,DePaul,1416.0,Welsh-Ryan Arena
+2020,2019-12-01T18:00Z,Michigan,Morgan State,2107.0,Crisler Center
+2020,2019-12-01T01:00Z,Illinois,Presbyterian,1058.0,State Farm Center
+2020,2019-11-27T20:00Z,Northwestern,Colgate,945.0,Welsh-Ryan Arena
+2020,2019-11-27T01:00Z,Minnesota,Bryant,2770.0,Williams Arena
+2020,2019-11-27T01:00Z,Wisconsin,Eastern Illinois,3564.0,Kohl Center
+2020,2019-11-24T20:00Z,Ohio State,UConn,8909.0,Value City Arena
+2020,2019-11-24T20:00Z,Nebraska,Creighton,3967.0,Pinnacle Bank Arena
+2020,2019-11-24T20:00Z,Illinois,Bryant,1199.0,State Farm Center
+2020,2019-11-24T19:00Z,Michigan State,Hartford,5033.0,Breslin Center
+2020,2019-11-24T19:00Z,Purdue,Northern Illinois,5800.0,Mackey Arena
+2020,2019-11-24T19:00Z,Penn State,George Mason,1911.0,Bryce Jordan Center
+2020,2019-11-24T17:00Z,Maryland,Quinnipiac,4445.0,XFINITY Center
+2020,2019-11-23T20:00Z,Minnesota,Montana State,3497.0,Williams Arena
+2020,2019-11-23T18:00Z,Michigan,Notre Dame,4008.0,Crisler Center
+2020,2019-11-22T01:00Z,Northwestern,Valparaiso,678.0,Welsh-Ryan Arena
+2020,2019-11-22T01:00Z,Illinois,Arkansas-Pine Bluff,1045.0,State Farm Center
+2020,2019-11-22T00:00Z,Penn State,Clemson,1740.0,Bryce Jordan Center
+2020,2019-11-21T01:00Z,Nebraska,Southern,3541.0,Pinnacle Bank Arena
+2020,2019-11-21T00:30Z,Iowa,Princeton,5885.0,Carver-Hawkeye Arena
+2020,2019-11-21T00:00Z,Maryland,George Washington,3614.0,XFINITY Center
+2020,2019-11-20T00:00Z,Michigan State,Oakland,3844.0,Breslin Center
+2020,2019-11-18T00:00Z,Wisconsin,Milwaukee,3668.0,Kohl Center
+2020,2019-11-17T21:00Z,Minnesota,Arizona State,4862.0,Williams Arena
+2020,2019-11-17T20:00Z,Nebraska,SIU Edwardsville,3537.0,Pinnacle Bank Arena
+2020,2019-11-17T19:00Z,Indiana,Jackson State,3557.0,Simon Skjodt Assembly Hall
+2020,2019-11-17T19:00Z,Rutgers,Harvard,1710.0,Jersey Mike’s Arena
+2020,2019-11-17T19:00Z,Purdue,Western Illinois,5745.0,Mackey Arena
+2020,2019-11-17T19:00Z,Penn State,La Salle,1949.0,Bryce Jordan Center
+2020,2019-11-17T19:00Z,Ohio State,Ohio,5213.0,Value City Arena
+2020,2019-11-17T18:00Z,Maryland,Delaware,4435.0,XFINITY Center
+2020,2019-11-16T20:00Z,Illinois,Illinois State,1520.0,State Farm Center
+2020,2019-11-15T01:00Z,Nebraska,Morgan State,3377.0,Pinnacle Bank Arena
+2020,2019-11-15T00:30Z,Iowa,North Alabama,5446.0,Carver-Hawkeye Arena
+2020,2019-11-14T18:00Z,Minnesota,Milwaukee,4081.0,Williams Arena
+2020,2019-11-14T01:00Z,Illinois,Austin Peay,1010.0,State Farm Center
+2020,2019-11-14T00:00Z,Penn State,Fordham,1639.0,Bryce Jordan Center
+2020,2019-11-13T23:00Z,Rutgers,Niagara,4000.0,Jersey Mike’s Arena
+2020,2019-11-10T21:30Z,Northwestern,Loyola Maryland,760.0,Welsh-Ryan Arena
+2020,2019-11-10T20:00Z,Maryland,South Carolina,7447.0,XFINITY Center
+2020,2019-11-10T20:00Z,Minnesota,Vermont,3456.0,Williams Arena
+2020,2019-11-10T20:00Z,Wisconsin,Wofford,3593.0,Kohl Center
+2020,2019-11-10T19:00Z,Michigan,Bradley,2338.0,Crisler Center
+2020,2019-11-10T19:00Z,Purdue,Milwaukee,5717.0,Mackey Arena
+2020,2019-11-10T19:00Z,Penn State,Rider,1999.0,Bryce Jordan Center
+2020,2019-11-10T17:00Z,Indiana,Nicholls,3337.0,Simon Skjodt Assembly Hall
+2020,2019-11-09T20:00Z,Illinois,Holy Cross,1240.0,State Farm Center
+2020,2019-11-09T19:00Z,Rutgers,Coppin State,1536.0,Jersey Mike’s Arena
+2020,2019-11-09T00:00Z,Michigan State,Detroit Mercy,4657.0,Breslin Center
+2020,2019-11-09T00:00Z,Michigan,Western Michigan,2568.0,Crisler Center
+2020,2019-11-08T00:30Z,Iowa,Florida Atlantic,3334.0,Carver-Hawkeye Arena
+2020,2019-11-08T00:00Z,Indiana,Mount St. Mary's,2831.0,Simon Skjodt Assembly Hall
+2020,2019-11-06T18:00Z,Nebraska,Alabama A&M,5250.0,Pinnacle Bank Arena
+2020,2019-11-06T01:00Z,Wisconsin,North Florida,3032.0,Kohl Center
+2020,2019-11-05T21:00Z,Minnesota,Missouri State,2860.0,Williams Arena
+2020,2019-11-05T17:00Z,Illinois,Chicago State,4189.0,State Farm Center
+2020,2019-11-05T16:00Z,Maryland,Wagner,8368.0,XFINITY Center
+2022,2022-03-22T00:00Z,Indiana,Princeton,9627.0,Simon Skjodt Assembly Hall
+2022,2022-03-21T22:00Z,Michigan,Villanova,5581.0,Crisler Center
+2022,2022-03-20T19:00Z,Maryland,Florida Gulf Coast,4575.0,XFINITY Center
+2022,2022-03-20T17:00Z,Iowa,Creighton,14382.0,Carver-Hawkeye Arena
+2022,2022-03-19T19:30Z,Michigan,American University,6471.0,Crisler Center
+2022,2022-03-19T17:30Z,Indiana,Charlotte,6389.0,Simon Skjodt Assembly Hall
+2022,2022-03-18T21:00Z,Maryland,Delaware,4776.0,XFINITY Center
+2022,2022-03-18T20:10Z,Iowa,Illinois State,14382.0,Carver-Hawkeye Arena
+2022,2022-03-16T23:00Z,Purdue,Southern Illinois,769.0,Mackey Arena
+2022,2022-02-27T21:30Z,Nebraska,Northwestern,6234.0,Pinnacle Bank Arena
+2022,2022-02-27T21:00Z,Iowa,Michigan,15056.0,Carver-Hawkeye Arena
+2022,2022-02-27T20:00Z,Illinois,Rutgers,1445.0,State Farm Center
+2022,2022-02-27T19:30Z,Michigan State,Ohio State,7124.0,Breslin Center
+2022,2022-02-27T19:00Z,Penn State,Minnesota,2401.0,Bryce Jordan Center
+2022,2022-02-27T18:00Z,Purdue,Wisconsin,4811.0,Mackey Arena
+2022,2022-02-26T01:00Z,Maryland,Indiana,7532.0,XFINITY Center
+2022,2022-02-25T01:00Z,Rutgers,Iowa,1852.0,Jersey Mike’s Arena
+2022,2022-02-25T01:00Z,Northwestern,Purdue,1481.0,Welsh-Ryan Arena
+2022,2022-02-25T01:00Z,Minnesota,Illinois,2896.0,Williams Arena
+2022,2022-02-24T23:00Z,Michigan,Michigan State,5460.0,Crisler Center
+2022,2022-02-24T23:00Z,Ohio State,Penn State,3618.0,Value City Arena
+2022,2022-02-24T00:30Z,Wisconsin,Nebraska,2425.0,Kohl Center
+2022,2022-02-22T01:00Z,Iowa,Indiana,7510.0,Carver-Hawkeye Arena
+2022,2022-02-21T23:00Z,Michigan State,Penn State,2985.0,Breslin Center
+2022,2022-02-20T22:00Z,Illinois,Northwestern,942.0,State Farm Center
+2022,2022-02-20T20:00Z,Michigan,Maryland,6394.0,Crisler Center
+2022,2022-02-20T20:00Z,Nebraska,Minnesota,6566.0,Pinnacle Bank Arena
+2022,2022-02-20T19:00Z,Ohio State,Wisconsin,5683.0,Value City Arena
+2022,2022-02-20T18:00Z,Rutgers,Purdue,2961.0,Jersey Mike’s Arena
+2022,2022-02-19T21:00Z,Indiana,Iowa,7052.0,Simon Skjodt Assembly Hall
+2022,2022-02-18T01:00Z,Maryland,Ohio State,4987.0,XFINITY Center
+2022,2022-02-18T01:00Z,Minnesota,Rutgers,2747.0,Williams Arena
+2022,2022-02-18T00:00Z,Penn State,Nebraska,1801.0,Bryce Jordan Center
+2022,2022-02-18T00:00Z,Purdue,Illinois,2983.0,Mackey Arena
+2022,2022-02-17T23:00Z,Indiana,Northwestern,3632.0,Simon Skjodt Assembly Hall
+2022,2022-02-17T00:30Z,Wisconsin,Michigan State,2166.0,Kohl Center
+2022,2022-02-15T02:00Z,Iowa,Maryland,9820.0,Carver-Hawkeye Arena
+2022,2022-02-15T02:00Z,Illinois,Ohio State,997.0,State Farm Center
+2022,2022-02-15T00:00Z,Nebraska,Indiana,4109.0,Pinnacle Bank Arena
+2022,2022-02-13T19:00Z,Wisconsin,Purdue,2869.0,Kohl Center
+2022,2022-02-13T19:00Z,Rutgers,Penn State,1933.0,Jersey Mike’s Arena
+2022,2022-02-13T18:00Z,Northwestern,Michigan,2341.0,Welsh-Ryan Arena
+2022,2022-02-12T20:00Z,Indiana,Michigan State,5560.0,Simon Skjodt Assembly Hall
+2022,2022-02-12T20:00Z,Illinois,Nebraska,1182.0,State Farm Center
+2022,2022-02-11T21:30Z,Minnesota,Northwestern,2734.0,Williams Arena
+2022,2022-02-11T00:00Z,Ohio State,Nebraska,3135.0,Value City Arena
+2022,2022-02-10T23:30Z,Michigan State,Michigan,4764.0,Breslin Center
+2022,2022-02-10T01:00Z,Illinois,Indiana,1198.0,State Farm Center
+2022,2022-02-10T00:30Z,Iowa,Minnesota,8141.0,Carver-Hawkeye Arena
+2022,2022-02-10T00:00Z,Purdue,Penn State,2902.0,Mackey Arena
+2022,2022-02-09T23:00Z,Maryland,Wisconsin,4123.0,XFINITY Center
+2022,2022-02-07T23:00Z,Ohio State,Rutgers,3383.0,Value City Arena
+2022,2022-02-06T23:30Z,Michigan,Iowa,3827.0,Crisler Center
+2022,2022-02-06T20:00Z,Minnesota,Michigan State,3150.0,Williams Arena
+2022,2022-02-06T19:00Z,Penn State,Northwestern,3401.0,Bryce Jordan Center
+2022,2022-02-06T19:00Z,Wisconsin,Illinois,6007.0,Kohl Center
+2022,2022-02-06T18:00Z,Indiana,Purdue,7891.0,Simon Skjodt Assembly Hall
+2022,2022-02-06T18:00Z,Maryland,Nebraska,6047.0,XFINITY Center
+2022,2022-02-04T23:00Z,Purdue,Northwestern,2862.0,Mackey Arena
+2022,2022-02-04T01:00Z,Nebraska,Penn State,3839.0,Pinnacle Bank Arena
+2022,2022-02-04T00:30Z,Wisconsin,Iowa,3923.0,Kohl Center
+2022,2022-02-03T23:00Z,Michigan State,Maryland,2563.0,Breslin Center
+2022,2022-02-02T01:00Z,Nebraska,Rutgers,3503.0,Pinnacle Bank Arena
+2022,2022-02-01T02:00Z,Iowa,Ohio State,6185.0,Carver-Hawkeye Arena
+2022,2022-02-01T00:00Z,Michigan,Indiana,4198.0,Crisler Center
+2022,2022-01-30T20:00Z,Minnesota,Wisconsin,4482.0,Williams Arena
+2022,2022-01-30T20:00Z,Nebraska,Purdue,4810.0,Pinnacle Bank Arena
+2022,2022-01-30T19:00Z,Penn State,Maryland,2678.0,Bryce Jordan Center
+2022,2022-01-30T19:00Z,Rutgers,Michigan State,1335.0,Jersey Mike’s Arena
+2022,2022-01-29T01:00Z,Northwestern,Iowa,1578.0,Welsh-Ryan Arena
+2022,2022-01-28T02:00Z,Nebraska,Wisconsin,3528.0,Pinnacle Bank Arena
+2022,2022-01-28T00:00Z,Ohio State,Michigan,4293.0,Value City Arena
+2022,2022-01-28T00:00Z,Maryland,Rutgers,3987.0,XFINITY Center
+2022,2022-01-28T00:00Z,Purdue,Minnesota,2901.0,Mackey Arena
+2022,2022-01-28T00:00Z,Penn State,Michigan State,1551.0,Bryce Jordan Center
+2022,2022-01-25T23:00Z,Penn State,Iowa,1669.0,Bryce Jordan Center
+2022,2022-01-24T23:00Z,Michigan,Purdue,1845.0,Crisler Center
+2022,2022-01-23T23:00Z,Iowa,Illinois,8977.0,Carver-Hawkeye Arena
+2022,2022-01-23T20:00Z,Wisconsin,Penn State,3189.0,Kohl Center
+2022,2022-01-23T19:00Z,Michigan State,Minnesota,2899.0,Breslin Center
+2022,2022-01-23T18:00Z,Maryland,Northwestern,4940.0,XFINITY Center
+2022,2022-01-23T18:00Z,Rutgers,Ohio State,1219.0,Jersey Mike’s Arena
+2022,2022-01-21T01:00Z,Minnesota,Iowa,3741.0,Williams Arena
+2022,2022-01-21T01:00Z,Illinois,Purdue,1038.0,State Farm Center
+2022,2022-01-21T01:00Z,Northwestern,Penn State,939.0,Welsh-Ryan Arena
+2022,2022-01-21T00:00Z,Michigan,Wisconsin,1994.0,Crisler Center
+2022,2022-01-20T23:00Z,Ohio State,Maryland,3319.0,Value City Arena
+2022,2022-01-16T23:00Z,Iowa,Nebraska,8473.0,Carver-Hawkeye Arena
+2022,2022-01-16T22:00Z,Maryland,Michigan,4189.0,XFINITY Center
+2022,2022-01-16T19:00Z,Purdue,Indiana,8505.0,Mackey Arena
+2022,2022-01-16T19:00Z,Rutgers,Wisconsin,1581.0,Jersey Mike’s Arena
+2022,2022-01-16T19:00Z,Michigan State,Northwestern,3241.0,Breslin Center
+2022,2022-01-16T19:00Z,Penn State,Illinois,2048.0,Bryce Jordan Center
+2022,2022-01-15T23:00Z,Minnesota,Ohio State,3177.0,Williams Arena
+2022,2022-01-14T01:00Z,Penn State,Michigan,1622.0,Bryce Jordan Center
+2022,2022-01-14T01:00Z,Northwestern,Rutgers,670.0,Welsh-Ryan Arena
+2022,2022-01-14T00:00Z,Purdue,Iowa,3103.0,Mackey Arena
+2022,2022-01-13T23:00Z,Indiana,Nebraska,3477.0,Simon Skjodt Assembly Hall
+2022,2022-01-13T00:30Z,Wisconsin,Minnesota,2157.0,Kohl Center
+2022,2022-01-13T00:00Z,Ohio State,Michigan State,2917.0,Value City Arena
+2022,2022-01-09T20:00Z,Minnesota,Maryland,3447.0,Williams Arena
+2022,2022-01-09T20:00Z,Illinois,Wisconsin,2066.0,State Farm Center
+2022,2022-01-09T20:00Z,Northwestern,Ohio State,1232.0,Welsh-Ryan Arena
+2022,2022-01-09T19:00Z,Nebraska,Iowa,8415.0,Pinnacle Bank Arena
+2022,2022-01-09T19:00Z,Michigan State,Purdue,4220.0,Breslin Center
+2022,2022-01-09T17:00Z,Michigan,Rutgers,2154.0,Crisler Center
+2022,2022-01-07T01:00Z,Iowa,Northwestern,5020.0,Carver-Hawkeye Arena
+2022,2022-01-07T00:00Z,Rutgers,Minnesota,1001.0,Jersey Mike’s Arena
+2022,2022-01-07T00:00Z,Ohio State,Illinois,2567.0,Value City Arena
+2022,2022-01-06T23:00Z,Maryland,Penn State,4174.0,XFINITY Center
+2022,2022-01-06T00:30Z,Wisconsin,Indiana,2053.0,Kohl Center
+2022,2022-01-05T02:00Z,Nebraska,Michigan,3591.0,Pinnacle Bank Arena
+2022,2022-01-02T20:00Z,Indiana,Maryland,5572.0,Simon Skjodt Assembly Hall
+2022,2022-01-02T19:00Z,Purdue,Rutgers,3074.0,Mackey Arena
+2022,2022-01-02T17:00Z,Iowa,Evansville,7307.0,Carver-Hawkeye Arena
+2022,2021-12-31T17:00Z,Michigan,Ohio State,7904.0,Crisler Center
+2022,2021-12-30T20:00Z,Michigan State,Nebraska,4122.0,Breslin Center
+2022,2021-12-23T18:00Z,Indiana,Southern Illinois,3735.0,Simon Skjodt Assembly Hall
+2022,2021-12-22T18:00Z,Nebraska,Wyoming,4566.0,Pinnacle Bank Arena
+2022,2021-12-22T18:00Z,Illinois,Missouri,1247.0,State Farm Center
+2022,2021-12-21T20:00Z,Iowa,IUPUI,4632.0,Carver-Hawkeye Arena
+2022,2021-12-21T16:00Z,Purdue,North Alabama,5457.0,Mackey Arena
+2022,2021-12-19T19:00Z,Purdue,Miami (OH),3006.0,Mackey Arena
+2022,2021-12-19T18:00Z,Indiana,Western Michigan,2327.0,Simon Skjodt Assembly Hall
+2022,2021-12-19T18:00Z,Nebraska,Drake,4849.0,Pinnacle Bank Arena
+2022,2021-12-19T00:30Z,Iowa,UCF,6236.0,Carver-Hawkeye Arena
+2022,2021-12-18T17:00Z,Rutgers,Wagner,1305.0,Jersey Mike’s Arena
+2022,2021-12-18T01:00Z,Northwestern,Temple,802.0,Welsh-Ryan Arena
+2022,2021-12-17T00:30Z,Wisconsin,Illinois State,2150.0,Kohl Center
+2022,2021-12-16T01:00Z,Minnesota,Ohio,2751.0,Williams Arena
+2022,2021-12-16T00:00Z,Ohio State,Alabama State,2832.0,Value City Arena
+2022,2021-12-15T01:00Z,Northwestern,Milwaukee,797.0,Welsh-Ryan Arena
+2022,2021-12-15T00:00Z,Rutgers,Central Connecticut,400.0,Jersey Mike’s Arena
+2022,2021-12-13T00:00Z,Ohio State,Indiana,3606.0,Value City Arena
+2022,2021-12-12T20:00Z,Illinois,Butler,1015.0,State Farm Center
+2022,2021-12-12T20:00Z,Wisconsin,Green Bay,3906.0,Kohl Center
+2022,2021-12-12T19:00Z,Michigan,Minnesota,2484.0,Crisler Center
+2022,2021-12-12T19:00Z,Rutgers,Delaware State,445.0,Jersey Mike’s Arena
+2022,2021-12-12T19:00Z,Penn State,Youngstown State,2261.0,Bryce Jordan Center
+2022,2021-12-12T19:00Z,Purdue,Denver,2791.0,Mackey Arena
+2022,2021-12-11T20:00Z,Northwestern,Delaware,919.0,Welsh-Ryan Arena
+2022,2021-12-10T02:00Z,Wisconsin,Michigan,2669.0,Kohl Center
+2022,2021-12-10T00:00Z,Indiana,Fairfield,3091.0,Simon Skjodt Assembly Hall
+2022,2021-12-10T00:00Z,Penn State,Rutgers,1881.0,Bryce Jordan Center
+2022,2021-12-10T00:00Z,Michigan State,Illinois,3213.0,Breslin Center
+2022,2021-12-09T00:00Z,Maryland,Purdue,4254.0,XFINITY Center
+2022,2021-12-08T00:00Z,Ohio State,Mount St. Mary's,2805.0,Value City Arena
+2022,2021-12-07T01:00Z,Minnesota,Nebraska,3300.0,Williams Arena
+2022,2021-12-06T23:00Z,Indiana,Penn State,3224.0,Simon Skjodt Assembly Hall
+2022,2021-12-05T21:00Z,Iowa,Michigan State,6942.0,Carver-Hawkeye Arena
+2022,2021-12-05T20:00Z,Illinois,Eastern Kentucky,1227.0,State Farm Center
+2022,2021-12-05T20:00Z,Northwestern,Wisconsin,1231.0,Welsh-Ryan Arena
+2022,2021-12-05T19:00Z,Rutgers,Maryland,860.0,Jersey Mike’s Arena
+2022,2021-12-05T19:00Z,Michigan,Akron,2274.0,Crisler Center
+2022,2021-12-05T19:00Z,Purdue,Ohio State,3236.0,Mackey Arena
+2022,2021-12-03T01:00Z,Maryland,Miami,4367.0,XFINITY Center
+2022,2021-12-03T01:00Z,Illinois,Florida State,1027.0,State Farm Center
+2022,2021-12-03T00:00Z,Indiana,NC State,5242.0,Simon Skjodt Assembly Hall
+2022,2021-12-02T23:00Z,Michigan State,Notre Dame,4581.0,Breslin Center
+2022,2021-12-02T02:00Z,Minnesota,North Carolina,3432.0,Williams Arena
+2022,2021-12-02T00:30Z,Wisconsin,Virginia Tech,2096.0,Kohl Center
+2022,2021-12-02T00:00Z,Purdue,Georgia Tech,1539.0,Mackey Arena
+2022,2021-11-28T20:00Z,Minnesota,UTSA,3150.0,Williams Arena
+2022,2021-11-28T19:00Z,Michigan State,Marshall,3938.0,Breslin Center
+2022,2021-11-27T23:00Z,Ohio State,Cincinnati,2315.0,Value City Arena
+2022,2021-11-26T21:00Z,Minnesota,Bradley,3389.0,Williams Arena
+2022,2021-11-24T00:00Z,Ohio State,Bellarmine,2766.0,Value City Arena
+2022,2021-11-23T00:30Z,Wisconsin,Chicago State,2139.0,Kohl Center
+2022,2021-11-23T00:00Z,Michigan,Oakland,1967.0,Crisler Center
+2022,2021-11-23T00:00Z,Purdue,Marshall,1526.0,Mackey Arena
+2022,2021-11-21T20:00Z,Illinois,UC Riverside,1053.0,State Farm Center
+2022,2021-11-21T18:00Z,Maryland,Baylor,8395.0,XFINITY Center
+2022,2021-11-20T23:00Z,Purdue,Dayton,1938.0,Mackey Arena
+2022,2021-11-20T18:00Z,Nebraska,North Carolina Central,3225.0,Pinnacle Bank Arena
+2022,2021-11-20T00:00Z,Rutgers,Harvard,1728.0,Jersey Mike’s Arena
+2022,2021-11-19T17:00Z,Michigan State,Bryant,2533.0,Breslin Center
+2022,2021-11-19T01:00Z,Illinois,SIU Edwardsville,1008.0,State Farm Center
+2022,2021-11-18T23:00Z,Maryland,UNC Wilmington,3695.0,XFINITY Center
+2022,2021-11-18T01:00Z,Northwestern,Loyola Chicago,931.0,Welsh-Ryan Arena
+2022,2021-11-18T01:00Z,Nebraska,Creighton,4042.0,Pinnacle Bank Arena
+2022,2021-11-18T01:00Z,Minnesota,American University,2643.0,Williams Arena
+2022,2021-11-18T00:30Z,Iowa,Southern,5406.0,Carver-Hawkeye Arena
+2022,2021-11-18T00:00Z,Ohio State,Bowling Green,3418.0,Value City Arena
+2022,2021-11-17T00:00Z,Maryland,Mount St. Mary's,3683.0,XFINITY Center
+2022,2021-11-17T00:00Z,Indiana,Norfolk State,3398.0,Simon Skjodt Assembly Hall
+2022,2021-11-17T00:00Z,Michigan State,Valparaiso,3524.0,Breslin Center
+2022,2021-11-17T00:00Z,Penn State,Delaware State,1879.0,Bryce Jordan Center
+2022,2021-11-16T23:00Z,Michigan,UMass Lowell,1957.0,Crisler Center
+2022,2021-11-16T16:00Z,Rutgers,Stony Brook,218.0,Jersey Mike’s Arena
+2022,2021-11-14T22:00Z,Indiana,Kentucky,5394.0,Simon Skjodt Assembly Hall
+2022,2021-11-14T21:00Z,Illinois,Miami (OH),1121.0,State Farm Center
+2022,2021-11-14T20:00Z,Nebraska,Alabama A&M,3526.0,Pinnacle Bank Arena
+2022,2021-11-14T20:00Z,Minnesota,George Washington,3056.0,Williams Arena
+2022,2021-11-14T19:30Z,Purdue,Western Michigan,2062.0,Mackey Arena
+2022,2021-11-14T19:00Z,Ohio State,Norfolk State,2980.0,Value City Arena
+2022,2021-11-14T19:00Z,Northwestern,UC Santa Barbara,834.0,Welsh-Ryan Arena
+2022,2021-11-14T19:00Z,Rutgers,Fairfield,1239.0,Jersey Mike’s Arena
+2022,2021-11-14T19:00Z,Michigan State,Niagara,3422.0,Breslin Center
+2022,2021-11-14T19:00Z,Wisconsin,NJIT,2984.0,Kohl Center
+2022,2021-11-13T19:00Z,Michigan,St. Francis Brooklyn,2363.0,Crisler Center
+2022,2021-11-13T00:00Z,Maryland,Villanova,5150.0,XFINITY Center
+2022,2021-11-13T00:00Z,Rutgers,South Alabama,853.0,Jersey Mike’s Arena
+2022,2021-11-12T01:00Z,Nebraska,Prairie View A&M,3155.0,Pinnacle Bank Arena
+2022,2021-11-12T00:30Z,Iowa,Samford,4555.0,Carver-Hawkeye Arena
+2022,2021-11-12T00:00Z,Penn State,Rider,1839.0,Bryce Jordan Center
+2022,2021-11-11T01:00Z,Northwestern,UIC,742.0,Welsh-Ryan Arena
+2022,2021-11-11T00:30Z,Wisconsin,St. Thomas - Minnesota,2270.0,Kohl Center
+2022,2021-11-11T00:00Z,Ohio State,Bucknell,2748.0,Value City Arena
+2022,2021-11-10T00:00Z,Iowa,New Hampshire,6789.0,Carver-Hawkeye Arena
+2022,2021-11-10T00:00Z,Michigan,IUPUI,1948.0,Crisler Center
+2022,2021-11-10T00:00Z,Penn State,Long Island University,1979.0,Bryce Jordan Center
+2022,2021-11-10T00:00Z,Rutgers,Saint Peter's,1407.0,Jersey Mike’s Arena
+2022,2021-11-09T23:00Z,Michigan State,Morehead State,3203.0,Breslin Center
+2022,2021-11-09T18:00Z,Minnesota,Jacksonville,2554.0,Williams Arena
+2022,2021-11-09T18:00Z,Nebraska,Maine,4476.0,Pinnacle Bank Arena
+2022,2021-11-09T17:00Z,Illinois,North Carolina Central,1983.0,State Farm Center
+2022,2021-11-09T16:00Z,Maryland,Longwood,4613.0,XFINITY Center
+2023,2023-03-21T00:00Z,Indiana,Miami,14480.0,Simon Skjodt Assembly Hall
+2023,2023-03-20T20:00Z,Ohio State,North Carolina,5186.0,Value City Arena
+2023,2023-03-19T21:41Z,Maryland,Arizona,6622.0,XFINITY Center
+2023,2023-03-19T19:00Z,Iowa,Georgia,14382.0,Carver-Hawkeye Arena
+2023,2023-03-19T19:00Z,Nebraska,Northern Iowa,6478.0,Pinnacle Bank Arena
+2023,2023-03-17T20:00Z,Iowa,SE Louisiana,14382.0,Carver-Hawkeye Arena
+2023,2023-03-17T18:30Z,Maryland,Holy Cross,4415.0,XFINITY Center
+2023,2023-03-15T23:00Z,Nebraska,Missouri State,4116.0,Pinnacle Bank Arena
+2023,2023-02-26T20:00Z,Minnesota,Purdue,4014.0,Williams Arena
+2023,2023-02-26T19:00Z,Iowa,Indiana,15056.0,Carver-Hawkeye Arena
+2023,2023-02-26T19:00Z,Wisconsin,Michigan,4933.0,Kohl Center
+2023,2023-02-26T19:00Z,Rutgers,Illinois,2049.0,Jersey Mike’s Arena
+2023,2023-02-26T19:00Z,Nebraska,Northwestern,6232.0,Pinnacle Bank Arena
+2023,2023-02-25T19:00Z,Penn State,Michigan State,4394.0,Bryce Jordan Center
+2023,2023-02-24T23:00Z,Ohio State,Maryland,8949.0,Value City Arena
+2023,2023-02-24T00:00Z,Michigan,Rutgers,2402.0,Crisler Center
+2023,2023-02-24T00:00Z,Northwestern,Wisconsin,2077.0,Welsh-Ryan Arena
+2023,2023-02-23T01:00Z,Illinois,Nebraska,3547.0,State Farm Center
+2023,2023-02-23T00:00Z,Purdue,Penn State,3403.0,Mackey Arena
+2023,2023-02-22T21:30Z,Michigan State,Minnesota,2392.0,Breslin Center
+2023,2023-02-22T01:00Z,Maryland,Iowa,9065.0,XFINITY Center
+2023,2023-02-21T00:00Z,Michigan,Ohio State,5832.0,Crisler Center
+2023,2023-02-21T00:00Z,Wisconsin,Rutgers,3201.0,Kohl Center
+2023,2023-02-19T20:00Z,Illinois,Penn State,6299.0,State Farm Center
+2023,2023-02-19T17:00Z,Indiana,Purdue,17222.0,Simon Skjodt Assembly Hall
+2023,2023-02-18T20:00Z,Michigan State,Maryland,3439.0,Breslin Center
+2023,2023-02-18T20:00Z,Northwestern,Minnesota,1582.0,Welsh-Ryan Arena
+2023,2023-02-18T19:00Z,Nebraska,Iowa,14289.0,Pinnacle Bank Arena
+2023,2023-02-17T01:30Z,Indiana,Michigan,7446.0,Simon Skjodt Assembly Hall
+2023,2023-02-17T00:00Z,Penn State,Ohio State,2306.0,Bryce Jordan Center
+2023,2023-02-16T01:00Z,Minnesota,Nebraska,3268.0,Williams Arena
+2023,2023-02-16T00:30Z,Iowa,Wisconsin,10512.0,Carver-Hawkeye Arena
+2023,2023-02-16T00:00Z,Rutgers,Northwestern,1258.0,Jersey Mike’s Arena
+2023,2023-02-14T00:00Z,Ohio State,Indiana,7178.0,Value City Arena
+2023,2023-02-12T20:00Z,Iowa,Rutgers,13150.0,Carver-Hawkeye Arena
+2023,2023-02-12T20:00Z,Michigan State,Penn State,5355.0,Breslin Center
+2023,2023-02-12T19:00Z,Purdue,Northwestern,3831.0,Mackey Arena
+2023,2023-02-12T18:00Z,Maryland,Illinois,7301.0,XFINITY Center
+2023,2023-02-12T18:00Z,Michigan,Nebraska,4313.0,Crisler Center
+2023,2023-02-11T21:00Z,Minnesota,Wisconsin,4538.0,Williams Arena
+2023,2023-02-10T01:30Z,Northwestern,Maryland,1085.0,Welsh-Ryan Arena
+2023,2023-02-10T01:00Z,Nebraska,Illinois,4369.0,Pinnacle Bank Arena
+2023,2023-02-10T00:00Z,Rutgers,Purdue,1149.0,Jersey Mike’s Arena
+2023,2023-02-09T23:30Z,Indiana,Iowa,13046.0,Simon Skjodt Assembly Hall
+2023,2023-02-09T00:30Z,Wisconsin,Michigan State,4254.0,Kohl Center
+2023,2023-02-09T00:00Z,Ohio State,Minnesota,4357.0,Value City Arena
+2023,2023-02-07T00:00Z,Northwestern,Nebraska,1459.0,Welsh-Ryan Arena
+2023,2023-02-05T21:00Z,Maryland,Ohio State,11167.0,XFINITY Center
+2023,2023-02-05T20:00Z,Michigan State,Michigan,9220.0,Breslin Center
+2023,2023-02-05T20:00Z,Illinois,Minnesota,4533.0,State Farm Center
+2023,2023-02-05T19:15Z,Purdue,Indiana,14876.0,Mackey Arena
+2023,2023-02-05T19:00Z,Rutgers,Wisconsin,5662.0,Jersey Mike’s Arena
+2023,2023-02-05T17:00Z,Penn State,Iowa,5228.0,Bryce Jordan Center
+2023,2023-02-03T01:30Z,Iowa,Maryland,10671.0,Carver-Hawkeye Arena
+2023,2023-02-03T01:30Z,Nebraska,Michigan State,4549.0,Pinnacle Bank Arena
+2023,2023-02-03T00:00Z,Penn State,Northwestern,1977.0,Bryce Jordan Center
+2023,2023-02-02T23:30Z,Michigan,Illinois,2676.0,Crisler Center
+2023,2023-02-02T01:00Z,Minnesota,Indiana,4129.0,Williams Arena
+2023,2023-02-02T00:30Z,Wisconsin,Ohio State,2890.0,Kohl Center
+2023,2023-01-30T23:00Z,Maryland,Penn State,1585.0,XFINITY Center
+2023,2023-01-29T23:00Z,Illinois,Michigan State,5096.0,State Farm Center
+2023,2023-01-29T20:00Z,Minnesota,Michigan,4545.0,Williams Arena
+2023,2023-01-29T19:00Z,Indiana,Rutgers,8598.0,Simon Skjodt Assembly Hall
+2023,2023-01-29T19:00Z,Wisconsin,Northwestern,8217.0,Kohl Center
+2023,2023-01-29T18:00Z,Ohio State,Purdue,8664.0,Value City Arena
+2023,2023-01-28T18:00Z,Iowa,Nebraska,13843.0,Carver-Hawkeye Arena
+2023,2023-01-27T01:30Z,Indiana,Ohio State,10455.0,Simon Skjodt Assembly Hall
+2023,2023-01-27T01:00Z,Illinois,Purdue,2584.0,State Farm Center
+2023,2023-01-27T00:00Z,Rutgers,Penn State,1204.0,Jersey Mike’s Arena
+2023,2023-01-26T23:30Z,Maryland,Michigan,5602.0,XFINITY Center
+2023,2023-01-26T01:00Z,Northwestern,Chicago State,766.0,Welsh-Ryan Arena
+2023,2023-01-26T00:30Z,Wisconsin,Valparaiso,2496.0,Kohl Center
+2023,2023-01-24T01:15Z,Michigan,Indiana,2987.0,Crisler Center
+2023,2023-01-24T00:00Z,Ohio State,Iowa,9955.0,Value City Arena
+2023,2023-01-22T22:00Z,Penn State,Wisconsin,2310.0,Bryce Jordan Center
+2023,2023-01-22T20:00Z,Northwestern,Illinois,2276.0,Welsh-Ryan Arena
+2023,2023-01-22T20:00Z,Michigan State,Rutgers,5015.0,Breslin Center
+2023,2023-01-22T19:00Z,Nebraska,Maryland,5715.0,Pinnacle Bank Arena
+2023,2023-01-21T19:00Z,Purdue,Minnesota,5003.0,Mackey Arena
+2023,2023-01-20T01:30Z,Rutgers,Michigan,1105.0,Jersey Mike’s Arena
+2023,2023-01-20T00:30Z,Wisconsin,Maryland,2746.0,Kohl Center
+2023,2023-01-19T23:30Z,Ohio State,Northwestern,4698.0,Value City Arena
+2023,2023-01-19T01:00Z,Illinois,Indiana,5583.0,State Farm Center
+2023,2023-01-19T00:00Z,Michigan State,Iowa,3359.0,Breslin Center
+2023,2023-01-19T00:00Z,Purdue,Nebraska,2796.0,Mackey Arena
+2023,2023-01-19T00:00Z,Penn State,Minnesota,2001.0,Bryce Jordan Center
+2023,2023-01-15T20:00Z,Minnesota,Illinois,4454.0,Williams Arena
+2023,2023-01-15T19:00Z,Indiana,Wisconsin,10422.0,Simon Skjodt Assembly Hall
+2023,2023-01-15T18:00Z,Maryland,Rutgers,6591.0,XFINITY Center
+2023,2023-01-14T20:00Z,Northwestern,Purdue,1566.0,Welsh-Ryan Arena
+2023,2023-01-14T19:30Z,Nebraska,Ohio State,5879.0,Pinnacle Bank Arena
+2023,2023-01-14T19:00Z,Michigan,Michigan State,10534.0,Crisler Center
+2023,2023-01-14T17:30Z,Iowa,Penn State,12436.0,Carver-Hawkeye Arena
+2023,2023-01-13T01:30Z,Minnesota,Rutgers,2238.0,Williams Arena
+2023,2023-01-12T23:30Z,Indiana,Maryland,5789.0,Simon Skjodt Assembly Hall
+2023,2023-01-12T01:00Z,Nebraska,Penn State,3082.0,Pinnacle Bank Arena
+2023,2023-01-12T00:30Z,Iowa,Northwestern,8384.0,Carver-Hawkeye Arena
+2023,2023-01-12T00:00Z,Michigan State,Wisconsin,2672.0,Breslin Center
+2023,2023-01-10T23:30Z,Purdue,Michigan,3473.0,Mackey Arena
+2023,2023-01-08T21:00Z,Wisconsin,Minnesota,3445.0,Kohl Center
+2023,2023-01-08T20:00Z,Northwestern,Indiana,1923.0,Welsh-Ryan Arena
+2023,2023-01-08T18:00Z,Ohio State,Illinois,6273.0,Value City Arena
+2023,2023-01-07T21:30Z,Michigan,Iowa,10731.0,Crisler Center
+2023,2023-01-07T19:00Z,Penn State,Purdue,2367.0,Bryce Jordan Center
+2023,2023-01-07T19:00Z,Rutgers,Nebraska,3223.0,Jersey Mike’s Arena
+2023,2023-01-07T18:00Z,Maryland,Michigan State,6494.0,XFINITY Center
+2023,2023-01-06T02:00Z,Illinois,Northwestern,1904.0,State Farm Center
+2023,2023-01-06T01:00Z,Minnesota,Ohio State,2410.0,Williams Arena
+2023,2023-01-03T18:00Z,Michigan,Penn State,3237.0,Crisler Center
+2023,2023-01-03T01:00Z,Northwestern,Michigan State,1282.0,Welsh-Ryan Arena
+2023,2023-01-02T19:00Z,Rutgers,Maryland,2546.0,Jersey Mike’s Arena
+2023,2023-01-01T20:00Z,Illinois,Iowa,4803.0,State Farm Center
+2023,2023-01-01T18:00Z,Indiana,Nebraska,7152.0,Simon Skjodt Assembly Hall
+2023,2023-01-01T18:00Z,Purdue,Wisconsin,3552.0,Mackey Arena
+2023,2022-12-31T18:00Z,Ohio State,Michigan,4038.0,Value City Arena
+2023,2022-12-30T22:00Z,Penn State,Rutgers,2368.0,Bryce Jordan Center
+2023,2022-12-30T19:00Z,Maryland,Minnesota,6006.0,XFINITY Center
+2023,2022-12-30T02:00Z,Iowa,Purdue,11942.0,Carver-Hawkeye Arena
+2023,2022-12-30T00:30Z,Wisconsin,Illinois,3274.0,Kohl Center
+2023,2022-12-29T20:00Z,Michigan State,Indiana,4533.0,Breslin Center
+2023,2022-12-29T02:00Z,Northwestern,Ohio State,1372.0,Welsh-Ryan Arena
+2023,2022-12-29T00:00Z,Nebraska,Michigan,8150.0,Pinnacle Bank Arena
+2023,2022-12-22T21:00Z,Minnesota,Eastern Illinois,3038.0,Williams Arena
+2023,2022-12-22T00:00Z,Nebraska,Kansas,4637.0,Pinnacle Bank Arena
+2023,2022-12-21T18:00Z,Indiana,Butler,5898.0,Simon Skjodt Assembly Hall
+2023,2022-12-21T18:00Z,Iowa,Dartmouth,8100.0,Carver-Hawkeye Arena
+2023,2022-12-21T18:00Z,Illinois,Florida Atlantic,1932.0,State Farm Center
+2023,2022-12-21T17:00Z,Penn State,Cornell,1589.0,Bryce Jordan Center
+2023,2022-12-21T00:00Z,Michigan State,Prairie View A&M,2495.0,Breslin Center
+2023,2022-12-18T20:00Z,Iowa,Northern Iowa,13394.0,Carver-Hawkeye Arena
+2023,2022-12-18T20:00Z,Michigan State,Detroit Mercy,3240.0,Breslin Center
+2023,2022-12-18T20:00Z,Nebraska,Wyoming,4972.0,Pinnacle Bank Arena
+2023,2022-12-18T19:00Z,Indiana,Morehead State,4720.0,Simon Skjodt Assembly Hall
+2023,2022-12-18T19:00Z,Rutgers,New Orleans,1016.0,Jersey Mike’s Arena
+2023,2022-12-18T00:00Z,Northwestern,Air Force,891.0,Welsh-Ryan Arena
+2023,2022-12-17T17:00Z,Michigan,Appalachian State,2853.0,Crisler Center
+2023,2022-12-16T23:00Z,Ohio State,Albany,3616.0,Value City Arena
+2023,2022-12-16T00:00Z,Rutgers,Princeton,1161.0,Jersey Mike’s Arena
+2023,2022-12-14T17:00Z,Minnesota,Milwaukee,6291.0,Williams Arena
+2023,2022-12-13T01:00Z,Minnesota,Chicago State,2083.0,Williams Arena
+2023,2022-12-11T21:00Z,Ohio State,Michigan State,6979.0,Value City Arena
+2023,2022-12-11T21:00Z,Penn State,West Virginia,2218.0,Bryce Jordan Center
+2023,2022-12-11T20:00Z,Maryland,UConn,12566.0,XFINITY Center
+2023,2022-12-11T19:00Z,Wisconsin,St. Thomas - Minnesota,3483.0,Kohl Center
+2023,2022-12-11T19:00Z,Purdue,Illinois State,3429.0,Mackey Arena
+2023,2022-12-11T02:00Z,Iowa,Minnesota,8946.0,Carver-Hawkeye Arena
+2023,2022-12-11T00:00Z,Nebraska,Samford,4645.0,Pinnacle Bank Arena
+2023,2022-12-10T20:00Z,Northwestern,DePaul,1263.0,Welsh-Ryan Arena
+2023,2022-12-10T19:00Z,Rutgers,Hampton,1172.0,Jersey Mike’s Arena
+2023,2022-12-09T00:00Z,Penn State,Indiana,1621.0,Bryce Jordan Center
+2023,2022-12-09T00:00Z,Michigan,Toledo,2798.0,Crisler Center
+2023,2022-12-08T23:30Z,Purdue,Maryland,3007.0,Mackey Arena
+2023,2022-12-08T16:00Z,Ohio State,New Hampshire,6857.0,Value City Arena
+2023,2022-12-08T01:00Z,Minnesota,Kentucky,2495.0,Williams Arena
+2023,2022-12-08T01:00Z,Nebraska,Wisconsin,4553.0,Pinnacle Bank Arena
+2023,2022-12-08T01:00Z,Illinois,Rutgers,1771.0,State Farm Center
+2023,2022-12-08T00:00Z,Iowa,Iowa State,13802.0,Carver-Hawkeye Arena
+2023,2022-12-06T00:00Z,Michigan State,Purdue,3015.0,Breslin Center
+2023,2022-12-04T19:00Z,Indiana,Illinois,5381.0,Simon Skjodt Assembly Hall
+2023,2022-12-04T19:00Z,Wisconsin,Iowa,3926.0,Kohl Center
+2023,2022-12-04T19:00Z,Michigan,Northwestern,2835.0,Crisler Center
+2023,2022-12-04T18:00Z,Maryland,Nebraska,4321.0,XFINITY Center
+2023,2022-12-04T17:00Z,Rutgers,Ohio State,2649.0,Jersey Mike’s Arena
+2023,2022-12-04T01:30Z,Minnesota,Penn State,2852.0,Williams Arena
+2023,2022-12-02T01:30Z,Iowa,NC State,8250.0,Carver-Hawkeye Arena
+2023,2022-12-02T01:00Z,Michigan State,Georgia Tech,2748.0,Breslin Center
+2023,2022-12-02T00:30Z,Wisconsin,Florida State,3035.0,Kohl Center
+2023,2022-12-01T23:00Z,Indiana,North Carolina,5939.0,Simon Skjodt Assembly Hall
+2023,2022-12-01T01:00Z,Minnesota,Wake Forest,2177.0,Williams Arena
+2023,2022-12-01T00:00Z,Penn State,Virginia,1823.0,Bryce Jordan Center
+2023,2022-11-30T23:00Z,Purdue,Syracuse,2521.0,Mackey Arena
+2023,2022-11-27T20:00Z,Northwestern,Valparaiso,976.0,Welsh-Ryan Arena
+2023,2022-11-27T19:00Z,Rutgers,Cornell,1192.0,Jersey Mike’s Arena
+2023,2022-11-27T18:00Z,Ohio State,North Alabama,3694.0,Value City Arena
+2023,2022-11-23T20:00Z,Ohio State,Wright State,4208.0,Value City Arena
+2023,2022-11-23T01:00Z,Northwestern,Niagara,836.0,Welsh-Ryan Arena
+2023,2022-11-23T00:00Z,Nebraska,Tarleton,4331.0,Pinnacle Bank Arena
+2023,2022-11-22T01:00Z,Illinois,Oakland,1334.0,State Farm Center
+2023,2022-11-22T00:00Z,Penn State,Syracuse,1650.0,Bryce Jordan Center
+2023,2022-11-20T20:00Z,Iowa,Belmont,8227.0,Carver-Hawkeye Arena
+2023,2022-11-20T20:00Z,Minnesota,Presbyterian,2505.0,Williams Arena
+2023,2022-11-20T19:00Z,Purdue,Indiana State,3053.0,Mackey Arena
+2023,2022-11-20T18:00Z,Ohio State,McNeese,3351.0,Value City Arena
+2023,2022-11-20T18:00Z,Indiana,Quinnipiac,3912.0,Simon Skjodt Assembly Hall
+2023,2022-11-19T20:00Z,Northwestern,Southern Illinois,1042.0,Welsh-Ryan Arena
+2023,2022-11-19T20:00Z,Illinois,Evansville,1409.0,State Farm Center
+2023,2022-11-19T00:00Z,Penn State,Bryant,1565.0,Bryce Jordan Center
+2023,2022-11-18T00:00Z,Indiana,Bowling Green,3673.0,Simon Skjodt Assembly Hall
+2023,2022-11-18T00:00Z,Michigan State,Florida A&M,2145.0,Breslin Center
+2023,2022-11-18T00:00Z,Purdue,SIU Edwardsville,1861.0,Mackey Arena
+2023,2022-11-17T02:00Z,Northwestern,Notre Dame,1176.0,Welsh-Ryan Arena
+2023,2022-11-17T00:30Z,Wisconsin,Bradley,2223.0,Kohl Center
+2023,2022-11-17T00:00Z,Michigan,Western Michigan,2031.0,Crisler Center
+2023,2022-11-17T00:00Z,Rutgers,North Carolina Central,1029.0,Jersey Mike’s Arena
+2023,2022-11-16T17:00Z,Illinois,McNeese,8141.0,State Farm Center
+2023,2022-11-16T16:00Z,Maryland,Davidson,8454.0,XFINITY Center
+2023,2022-11-16T00:00Z,Michigan State,Oakland,2119.0,Breslin Center
+2023,2022-11-16T00:00Z,Penn State,Youngstown State,1541.0,Bryce Jordan Center
+2023,2022-11-13T21:00Z,Minnesota,Lehigh,3724.0,Williams Arena
+2023,2022-11-13T20:00Z,Michigan State,Western Michigan,3226.0,Breslin Center
+2023,2022-11-13T20:00Z,Illinois,Alcorn State,1776.0,State Farm Center
+2023,2022-11-13T19:00Z,Wisconsin,North Florida,3253.0,Kohl Center
+2023,2022-11-13T19:00Z,Rutgers,NJIT,1161.0,Jersey Mike’s Arena
+2023,2022-11-13T19:00Z,Purdue,Murray State,2866.0,Mackey Arena
+2023,2022-11-13T18:00Z,Maryland,Fordham,4052.0,XFINITY Center
+2023,2022-11-13T18:00Z,Northwestern,Pennsylvania,860.0,Welsh-Ryan Arena
+2023,2022-11-12T02:00Z,Nebraska,Houston Christian,4264.0,Pinnacle Bank Arena
+2023,2022-11-12T00:00Z,Indiana,UMass Lowell,4125.0,Simon Skjodt Assembly Hall
+2023,2022-11-12T00:00Z,Michigan,St. Francis (PA),2930.0,Crisler Center
+2023,2022-11-12T00:00Z,Rutgers,Seton Hall,1387.0,Jersey Mike’s Arena
+2023,2022-11-12T00:00Z,Penn State,Fairfield,1959.0,Bryce Jordan Center
+2023,2022-11-11T23:00Z,Maryland,South Carolina,9244.0,XFINITY Center
+2023,2022-11-11T00:30Z,Iowa,Evansville,7675.0,Carver-Hawkeye Arena
+2023,2022-11-10T23:00Z,Purdue,Marshall,2058.0,Mackey Arena
+2023,2022-11-10T01:00Z,Illinois,Long Island University,1583.0,State Farm Center
+2023,2022-11-10T00:00Z,Penn State,Norfolk State,1777.0,Bryce Jordan Center
+2023,2022-11-09T23:00Z,Michigan,Delaware State,1865.0,Crisler Center
+2023,2022-11-09T01:30Z,Ohio State,Tennessee,6402.0,Value City Arena
+2023,2022-11-09T00:00Z,Indiana,Vermont,4003.0,Simon Skjodt Assembly Hall
+2023,2022-11-08T02:30Z,Iowa,Southern,7417.0,Carver-Hawkeye Arena
+2023,2022-11-07T23:30Z,Minnesota,Western Illinois,2242.0,Williams Arena
+2023,2022-11-07T18:00Z,Nebraska,Omaha,6233.0,Pinnacle Bank Arena
+2023,2022-11-07T17:00Z,Michigan State,Delaware State,5462.0,Breslin Center
+2023,2022-11-07T16:00Z,Rutgers,Hofstra,831.0,Jersey Mike’s Arena
+2024,2024-04-02T00:00Z,Wisconsin,Saint Louis,2198.0,Kohl Center
+2024,2024-04-01T23:00Z,Purdue,Vermont,2679.0,Mackey Arena
+2024,2024-03-30T00:00Z,Minnesota,North Dakota State,2367.0,Williams Arena
+2024,2024-03-29T00:00Z,Wisconsin,Illinois State,3133.0,Kohl Center
+2024,2024-03-28T23:00Z,Purdue,Duquesne,2531.0,Mackey Arena
+2024,2024-03-28T22:00Z,Penn State,Mississippi State,1823.0,Bryce Jordan Center
+2024,2024-03-27T00:00Z,Minnesota,Pacific,1140.0,Williams Arena
+2024,2024-03-26T00:00Z,Iowa,West Virginia,14324.0,Carver-Hawkeye Arena
+2024,2024-03-25T22:30Z,Indiana,Oklahoma,12385.0,Simon Skjodt Assembly Hall
+2024,2024-03-25T22:00Z,Penn State,Belmont,1666.0,Bryce Jordan Center
+2024,2024-03-24T19:00Z,Illinois,Stony Brook,1572.0,State Farm Center
+2024,2024-03-24T16:00Z,Ohio State,Duke,8333.0,Value City Arena
+2024,2024-03-23T19:00Z,Iowa,Holy Cross,14324.0,Carver-Hawkeye Arena
+2024,2024-03-23T17:30Z,Indiana,Fairfield,12753.0,Simon Skjodt Assembly Hall
+2024,2024-03-21T23:00Z,Illinois,Missouri State,1391.0,State Farm Center
+2024,2024-03-21T22:00Z,Penn State,George Mason,1635.0,Bryce Jordan Center
+2024,2024-03-04T00:00Z,Michigan,Purdue,3202.0,Crisler Center
+2024,2024-03-03T21:00Z,Illinois,Nebraska,4311.0,State Farm Center
+2024,2024-03-03T20:00Z,Indiana,Maryland,12402.0,Simon Skjodt Assembly Hall
+2024,2024-03-03T19:00Z,Rutgers,Northwestern,3571.0,Jersey Mike’s Arena
+2024,2024-03-03T19:00Z,Wisconsin,Michigan State,4542.0,Kohl Center
+2024,2024-03-03T18:00Z,Iowa,Ohio State,14998.0,Carver-Hawkeye Arena
+2024,2024-03-03T18:00Z,Penn State,Minnesota,2830.0,Bryce Jordan Center
+2024,2024-03-01T01:00Z,Michigan State,Illinois,3392.0,Breslin Center
+2024,2024-02-29T23:00Z,Maryland,Wisconsin,6608.0,XFINITY Center
+2024,2024-02-29T02:00Z,Minnesota,Iowa,14625.0,Williams Arena
+2024,2024-02-29T00:00Z,Ohio State,Michigan,10895.0,Value City Arena
+2024,2024-02-29T00:00Z,Purdue,Penn State,4593.0,Mackey Arena
+2024,2024-02-28T00:00Z,Northwestern,Indiana,2864.0,Welsh-Ryan Arena
+2024,2024-02-25T21:00Z,Wisconsin,Purdue,4700.0,Kohl Center
+2024,2024-02-25T19:00Z,Ohio State,Maryland,10790.0,Value City Arena
+2024,2024-02-25T18:00Z,Iowa,Illinois,14998.0,Carver-Hawkeye Arena
+2024,2024-02-24T22:00Z,Nebraska,Minnesota,7101.0,Pinnacle Bank Arena
+2024,2024-02-24T20:00Z,Northwestern,Michigan,2942.0,Welsh-Ryan Arena
+2024,2024-02-24T19:00Z,Michigan State,Rutgers,7696.0,Breslin Center
+2024,2024-02-23T01:00Z,Indiana,Iowa,17222.0,Simon Skjodt Assembly Hall
+2024,2024-02-22T23:00Z,Penn State,Ohio State,2501.0,Bryce Jordan Center
+2024,2024-02-22T00:00Z,Purdue,Michigan State,3856.0,Mackey Arena
+2024,2024-02-22T00:00Z,Maryland,Rutgers,5192.0,XFINITY Center
+2024,2024-02-21T02:00Z,Nebraska,Northwestern,4238.0,Pinnacle Bank Arena
+2024,2024-02-21T00:00Z,Minnesota,Wisconsin,4559.0,Williams Arena
+2024,2024-02-19T19:00Z,Illinois,Indiana,3878.0,State Farm Center
+2024,2024-02-18T18:00Z,Maryland,Penn State,9443.0,XFINITY Center
+2024,2024-02-18T17:00Z,Michigan,Michigan State,10461.0,Crisler Center
+2024,2024-02-17T21:00Z,Purdue,Nebraska,5205.0,Mackey Arena
+2024,2024-02-17T20:00Z,Minnesota,Northwestern,4882.0,Williams Arena
+2024,2024-02-17T19:00Z,Rutgers,Wisconsin,2558.0,Jersey Mike’s Arena
+2024,2024-02-16T01:00Z,Iowa,Michigan,14998.0,Carver-Hawkeye Arena
+2024,2024-02-15T23:00Z,Penn State,Illinois,2376.0,Bryce Jordan Center
+2024,2024-02-15T01:00Z,Northwestern,Purdue,1949.0,Welsh-Ryan Arena
+2024,2024-02-15T00:00Z,Ohio State,Nebraska,7115.0,Value City Arena
+2024,2024-02-14T00:00Z,Rutgers,Minnesota,1511.0,Jersey Mike’s Arena
+2024,2024-02-11T21:00Z,Michigan State,Ohio State,5753.0,Breslin Center
+2024,2024-02-11T20:00Z,Wisconsin,Penn State,4519.0,Kohl Center
+2024,2024-02-11T20:00Z,Illinois,Maryland,3185.0,State Farm Center
+2024,2024-02-11T19:00Z,Indiana,Purdue,13304.0,Simon Skjodt Assembly Hall
+2024,2024-02-11T18:00Z,Nebraska,Iowa,15042.0,Pinnacle Bank Arena
+2024,2024-02-10T19:00Z,Michigan,Rutgers,4238.0,Crisler Center
+2024,2024-02-09T02:00Z,Iowa,Penn State,14998.0,Carver-Hawkeye Arena
+2024,2024-02-09T02:00Z,Minnesota,Ohio State,3572.0,Williams Arena
+2024,2024-02-09T00:00Z,Indiana,Michigan State,8580.0,Simon Skjodt Assembly Hall
+2024,2024-02-09T00:00Z,Illinois,Northwestern,3002.0,State Farm Center
+2024,2024-02-07T01:30Z,Rutgers,Maryland,1328.0,Jersey Mike’s Arena
+2024,2024-02-07T00:00Z,Michigan,Nebraska,2113.0,Crisler Center
+2024,2024-02-06T01:00Z,Purdue,Illinois,3953.0,Mackey Arena
+2024,2024-02-05T23:00Z,Michigan State,Minnesota,3154.0,Breslin Center
+2024,2024-02-04T20:00Z,Northwestern,Wisconsin,2721.0,Welsh-Ryan Arena
+2024,2024-02-04T17:00Z,Ohio State,Indiana,10130.0,Value City Arena
+2024,2024-02-04T01:00Z,Maryland,Iowa,17950.0,XFINITY Center
+2024,2024-02-03T23:00Z,Penn State,Michigan,4745.0,Bryce Jordan Center
+2024,2024-02-03T20:00Z,Nebraska,Rutgers,5831.0,Pinnacle Bank Arena
+2024,2024-02-01T23:00Z,Ohio State,Wisconsin,6672.0,Value City Arena
+2024,2024-02-01T01:00Z,Northwestern,Iowa,7039.0,Welsh-Ryan Arena
+2024,2024-02-01T01:00Z,Nebraska,Purdue,4408.0,Pinnacle Bank Arena
+2024,2024-02-01T01:00Z,Minnesota,Penn State,3319.0,Williams Arena
+2024,2024-02-01T00:00Z,Maryland,Indiana,7137.0,XFINITY Center
+2024,2024-02-01T00:00Z,Michigan,Illinois,2522.0,Crisler Center
+2024,2024-01-31T00:00Z,Rutgers,Michigan State,1409.0,Jersey Mike’s Arena
+2024,2024-01-28T20:00Z,Illinois,Minnesota,4788.0,State Farm Center
+2024,2024-01-28T19:00Z,Purdue,Ohio State,7132.0,Mackey Arena
+2024,2024-01-28T19:00Z,Indiana,Northwestern,10776.0,Simon Skjodt Assembly Hall
+2024,2024-01-28T18:00Z,Penn State,Maryland,3532.0,Bryce Jordan Center
+2024,2024-01-27T20:00Z,Wisconsin,Rutgers,6035.0,Kohl Center
+2024,2024-01-27T19:00Z,Iowa,Nebraska,14998.0,Carver-Hawkeye Arena
+2024,2024-01-27T17:00Z,Michigan State,Michigan,9385.0,Breslin Center
+2024,2024-01-26T01:00Z,Northwestern,Penn State,1664.0,Welsh-Ryan Arena
+2024,2024-01-26T00:00Z,Illinois,Ohio State,3254.0,State Farm Center
+2024,2024-01-25T00:00Z,Michigan,Maryland,2586.0,Crisler Center
+2024,2024-01-24T23:30Z,Michigan State,Purdue,3096.0,Breslin Center
+2024,2024-01-24T02:00Z,Wisconsin,Minnesota,4191.0,Kohl Center
+2024,2024-01-21T19:00Z,Purdue,Indiana,11796.0,Mackey Arena
+2024,2024-01-21T19:00Z,Rutgers,Michigan,4647.0,Jersey Mike’s Arena
+2024,2024-01-21T18:00Z,Penn State,Nebraska,2608.0,Bryce Jordan Center
+2024,2024-01-21T17:00Z,Ohio State,Iowa,18660.0,Value City Arena
+2024,2024-01-20T20:00Z,Minnesota,Michigan State,5020.0,Williams Arena
+2024,2024-01-20T18:00Z,Maryland,Illinois,6409.0,XFINITY Center
+2024,2024-01-19T00:00Z,Penn State,Purdue,2266.0,Bryce Jordan Center
+2024,2024-01-18T01:00Z,Indiana,Minnesota,7977.0,Simon Skjodt Assembly Hall
+2024,2024-01-18T01:00Z,Nebraska,Michigan,4398.0,Pinnacle Bank Arena
+2024,2024-01-18T00:00Z,Maryland,Ohio State,5112.0,XFINITY Center
+2024,2024-01-18T00:00Z,Illinois,Rutgers,2845.0,State Farm Center
+2024,2024-01-17T23:30Z,Michigan State,Northwestern,2816.0,Breslin Center
+2024,2024-01-17T02:00Z,Iowa,Wisconsin,14998.0,Carver-Hawkeye Arena
+2024,2024-01-14T21:00Z,Ohio State,Michigan State,7601.0,Value City Arena
+2024,2024-01-14T20:00Z,Minnesota,Nebraska,5958.0,Williams Arena
+2024,2024-01-14T20:00Z,Northwestern,Illinois,2322.0,Welsh-Ryan Arena
+2024,2024-01-14T19:00Z,Rutgers,Penn State,6938.0,Jersey Mike’s Arena
+2024,2024-01-14T17:00Z,Maryland,Purdue,7231.0,XFINITY Center
+2024,2024-01-14T01:00Z,Iowa,Indiana,14998.0,Carver-Hawkeye Arena
+2024,2024-01-13T19:00Z,Michigan,Wisconsin,4906.0,Crisler Center
+2024,2024-01-12T01:00Z,Nebraska,Illinois,4040.0,Pinnacle Bank Arena
+2024,2024-01-11T23:00Z,Ohio State,Rutgers,5227.0,Value City Arena
+2024,2024-01-11T01:00Z,Purdue,Iowa,14876.0,Mackey Arena
+2024,2024-01-11T00:30Z,Wisconsin,Northwestern,2827.0,Kohl Center
+2024,2024-01-11T00:00Z,Indiana,Penn State,8516.0,Simon Skjodt Assembly Hall
+2024,2024-01-10T01:00Z,Michigan,Minnesota,2112.0,Crisler Center
+2024,2024-01-09T23:00Z,Michigan State,Maryland,2886.0,Breslin Center
+2024,2024-01-07T20:00Z,Illinois,Wisconsin,3691.0,State Farm Center
+2024,2024-01-07T19:00Z,Nebraska,Indiana,9059.0,Pinnacle Bank Arena
+2024,2024-01-06T01:00Z,Northwestern,Ohio State,1872.0,Welsh-Ryan Arena
+2024,2024-01-05T23:00Z,Rutgers,Iowa,8000.0,Jersey Mike’s Arena
+2024,2024-01-05T02:00Z,Wisconsin,Nebraska,2852.0,Kohl Center
+2024,2024-01-05T00:00Z,Indiana,Michigan,8723.0,Simon Skjodt Assembly Hall
+2024,2024-01-04T01:00Z,Minnesota,Maryland,2362.0,Williams Arena
+2024,2024-01-03T02:00Z,Iowa,Michigan State,14998.0,Carver-Hawkeye Arena
+2024,2024-01-03T00:00Z,Purdue,Rutgers,3263.0,Mackey Arena
+2024,2024-01-02T23:00Z,Penn State,Northwestern,1730.0,Bryce Jordan Center
+2024,2023-12-31T19:30Z,Nebraska,Maryland,8795.0,Pinnacle Bank Arena
+2024,2023-12-31T17:30Z,Indiana,Illinois,11600.0,Simon Skjodt Assembly Hall
+2024,2023-12-30T23:00Z,Purdue,Wisconsin,5540.0,Mackey Arena
+2024,2023-12-30T21:00Z,Penn State,Michigan State,2967.0,Bryce Jordan Center
+2024,2023-12-30T20:00Z,Northwestern,Rutgers,1820.0,Welsh-Ryan Arena
+2024,2023-12-30T19:00Z,Iowa,Minnesota,14998.0,Carver-Hawkeye Arena
+2024,2023-12-30T17:00Z,Michigan,Ohio State,8078.0,Crisler Center
+2024,2023-12-22T23:00Z,Indiana,Bowling Green,9067.0,Simon Skjodt Assembly Hall
+2024,2023-12-22T18:00Z,Ohio State,Belmont,6336.0,Value City Arena
+2024,2023-12-22T18:00Z,Michigan,Florida A&M,2308.0,Crisler Center
+2024,2023-12-22T00:30Z,Wisconsin,Eastern Illinois,3622.0,Kohl Center
+2024,2023-12-21T23:00Z,Iowa,Loyola Chicago,14998.0,Carver-Hawkeye Arena
+2024,2023-12-21T21:00Z,Minnesota,Lindenwood,3069.0,Williams Arena
+2024,2023-12-20T19:00Z,Maryland,James Madison,5032.0,XFINITY Center
+2024,2023-12-20T16:30Z,Penn State,Central Connecticut,2764.0,Bryce Jordan Center
+2024,2023-12-20T16:00Z,Purdue,Indiana State,7177.0,Mackey Arena
+2024,2023-12-19T00:00Z,Indiana,Evansville,8227.0,Simon Skjodt Assembly Hall
+2024,2023-12-18T23:30Z,Ohio State,UCLA,6800.0,Value City Arena
+2024,2023-12-17T22:30Z,Rutgers,Virginia Tech,4731.0,Jersey Mike’s Arena
+2024,2023-12-17T21:00Z,Illinois,Missouri,4790.0,State Farm Center
+2024,2023-12-17T20:00Z,Northwestern,Bradley,1797.0,Welsh-Ryan Arena
+2024,2023-12-17T19:00Z,Michigan State,Central Michigan,4340.0,Breslin Center
+2024,2023-12-17T18:00Z,Penn State,St. Francis (PA),1929.0,Bryce Jordan Center
+2024,2023-12-17T18:00Z,Nebraska,Southern,4488.0,Pinnacle Bank Arena
+2024,2023-12-16T16:00Z,Michigan,Miami (OH),3065.0,Crisler Center
+2024,2023-12-15T23:00Z,Ohio State,Grand Valley State,4583.0,Value City Arena
+2024,2023-12-13T17:00Z,Minnesota,Grambling,5291.0,Williams Arena
+2024,2023-12-12T16:00Z,Maryland,Towson,14994.0,XFINITY Center
+2024,2023-12-10T20:00Z,Illinois,Michigan,3763.0,State Farm Center
+2024,2023-12-10T19:30Z,Wisconsin,Iowa,12252.0,Kohl Center
+2024,2023-12-10T19:00Z,Minnesota,Purdue,3834.0,Williams Arena
+2024,2023-12-10T18:00Z,Ohio State,Penn State,6032.0,Value City Arena
+2024,2023-12-10T18:00Z,Maryland,Northwestern,5127.0,XFINITY Center
+2024,2023-12-09T21:00Z,Rutgers,Indiana,3525.0,Jersey Mike’s Arena
+2024,2023-12-09T19:00Z,Michigan State,Nebraska,3194.0,Breslin Center
+2024,2023-12-07T00:00Z,Illinois,Northern Kentucky,2869.0,State Farm Center
+2024,2023-12-07T00:00Z,Purdue,Southeast Missouri State,3412.0,Mackey Arena
+2024,2023-12-06T01:00Z,Nebraska,UNC Wilmington,3950.0,Pinnacle Bank Arena
+2024,2023-12-06T00:00Z,Ohio State,Ohio,4950.0,Value City Arena
+2024,2023-12-06T00:00Z,Rutgers,La Salle,1216.0,Jersey Mike’s Arena
+2024,2023-12-03T21:00Z,Northwestern,Georgetown,1587.0,Welsh-Ryan Arena
+2024,2023-12-03T19:00Z,Indiana,Stetson,8789.0,Simon Skjodt Assembly Hall
+2024,2023-12-03T19:00Z,Purdue,Valparaiso,5305.0,Mackey Arena
+2024,2023-12-03T19:00Z,Michigan State,Miami (OH),2861.0,Breslin Center
+2024,2023-12-03T18:00Z,Maryland,George Mason,5901.0,XFINITY Center
+2024,2023-12-03T18:00Z,Wisconsin,Butler,3581.0,Kohl Center
+2024,2023-12-02T20:00Z,Nebraska,Georgia Tech,4578.0,Pinnacle Bank Arena
+2024,2023-12-02T19:00Z,Minnesota,Drake,4578.0,Williams Arena
+2024,2023-12-02T18:30Z,Iowa,Bowling Green,14998.0,Carver-Hawkeye Arena
+2024,2023-12-02T00:00Z,Rutgers,Lafayette,1497.0,Jersey Mike’s Arena
+2024,2023-11-30T01:00Z,Minnesota,Norfolk State,2820.0,Williams Arena
+2024,2023-11-30T01:00Z,Nebraska,Florida Atlantic,3897.0,Pinnacle Bank Arena
+2024,2023-11-30T00:30Z,Wisconsin,Northern Illinois,2886.0,Kohl Center
+2024,2023-11-30T00:00Z,Michigan,SIU Edwardsville,2145.0,Crisler Center
+2024,2023-11-30T00:00Z,Illinois,Central Connecticut,2743.0,State Farm Center
+2024,2023-11-30T00:00Z,Maryland,Niagara,5064.0,XFINITY Center
+2024,2023-11-29T23:00Z,Penn State,Radford,1830.0,Bryce Jordan Center
+2024,2023-11-29T17:00Z,Northwestern,Loyola Chicago,1018.0,Welsh-Ryan Arena
+2024,2023-11-29T16:00Z,Rutgers,Delaware State,1786.0,Jersey Mike’s Arena
+2024,2023-11-26T20:00Z,Minnesota,Stony Brook,3122.0,Williams Arena
+2024,2023-11-26T19:00Z,Purdue,Southern Indiana,3683.0,Mackey Arena
+2024,2023-11-26T19:00Z,Illinois,Canisius,2962.0,State Farm Center
+2024,2023-11-26T18:00Z,Ohio State,Cornell,5695.0,Value City Arena
+2024,2023-11-26T18:00Z,Penn State,Providence,2026.0,Bryce Jordan Center
+2024,2023-11-24T18:00Z,Michigan,Eastern Michigan,4052.0,Crisler Center
+2024,2023-11-23T01:00Z,Minnesota,Cal State Northridge,2728.0,Williams Arena
+2024,2023-11-21T00:00Z,Rutgers,Fairfield,1309.0,Jersey Mike’s Arena
+2024,2023-11-20T00:00Z,Iowa,Drake,14998.0,Carver-Hawkeye Arena
+2024,2023-11-19T22:00Z,Minnesota,UConn,10869.0,Williams Arena
+2024,2023-11-19T20:00Z,Northwestern,Southeast Missouri State,1439.0,Welsh-Ryan Arena
+2024,2023-11-19T19:00Z,Indiana,Lipscomb,8572.0,Simon Skjodt Assembly Hall
+2024,2023-11-19T19:00Z,Nebraska,Creighton,6604.0,Pinnacle Bank Arena
+2024,2023-11-19T18:00Z,Michigan State,Evansville,3107.0,Breslin Center
+2024,2023-11-19T17:00Z,Maryland,Syracuse,7090.0,XFINITY Center
+2024,2023-11-18T17:00Z,Rutgers,St. Francis (PA),1709.0,Jersey Mike’s Arena
+2024,2023-11-18T00:00Z,Indiana,Murray State,8432.0,Simon Skjodt Assembly Hall
+2024,2023-11-17T01:30Z,Iowa,Kansas State,14998.0,Carver-Hawkeye Arena
+2024,2023-11-17T00:00Z,Ohio State,Boston College,4523.0,Value City Arena
+2024,2023-11-17T00:00Z,Purdue,Texas A&M,5223.0,Mackey Arena
+2024,2023-11-16T23:30Z,Michigan State,Detroit Mercy,2936.0,Breslin Center
+2024,2023-11-16T01:00Z,Minnesota,North Dakota State,2816.0,Williams Arena
+2024,2023-11-15T17:00Z,Illinois,Saint Peter's,11563.0,State Farm Center
+2024,2023-11-15T01:00Z,Nebraska,Alcorn State,3917.0,Pinnacle Bank Arena
+2024,2023-11-15T00:30Z,Wisconsin,South Dakota State,2913.0,Kohl Center
+2024,2023-11-15T00:00Z,Michigan,Oakland,2307.0,Crisler Center
+2024,2023-11-13T23:00Z,Penn State,Kansas,1938.0,Bryce Jordan Center
+2024,2023-11-12T22:00Z,Rutgers,Auburn,1619.0,Jersey Mike’s Arena
+2024,2023-11-12T21:00Z,Purdue,Southern,5002.0,Mackey Arena
+2024,2023-11-12T20:00Z,Northwestern,Omaha,1566.0,Welsh-Ryan Arena
+2024,2023-11-12T19:00Z,Michigan State,Wright State,3137.0,Breslin Center
+2024,2023-11-12T19:00Z,Minnesota,Chicago State,2856.0,Williams Arena
+2024,2023-11-12T18:00Z,Ohio State,IUPUI,4933.0,Value City Arena
+2024,2023-11-10T22:00Z,Penn State,Navy,2127.0,Bryce Jordan Center
+2024,2023-11-10T01:00Z,Northwestern,UIC,1623.0,Welsh-Ryan Arena
+2024,2023-11-10T01:00Z,Wisconsin,Western Illinois,3058.0,Kohl Center
+2024,2023-11-10T00:00Z,Indiana,Eastern Illinois,8380.0,Simon Skjodt Assembly Hall
+2024,2023-11-10T00:00Z,Rutgers,Wagner,1688.0,Jersey Mike’s Arena
+2024,2023-11-09T01:00Z,Minnesota,Long Island University,3141.0,Williams Arena
+2024,2023-11-08T23:30Z,Michigan State,Oakland,2596.0,Breslin Center
+2024,2023-11-08T00:30Z,Wisconsin,Milwaukee,3120.0,Kohl Center
+2024,2023-11-08T00:00Z,Illinois,Morehead State,2680.0,State Farm Center
+2024,2023-11-07T23:00Z,Penn State,Bucknell,1977.0,Bryce Jordan Center
+2024,2023-11-07T00:30Z,Iowa,Fairleigh Dickinson,14998.0,Carver-Hawkeye Arena
+2024,2023-11-07T00:00Z,Maryland,Harvard,4891.0,XFINITY Center
+2024,2023-11-07T00:00Z,Michigan,Purdue Fort Wayne,2389.0,Crisler Center
+2024,2023-11-07T00:00Z,Rutgers,Monmouth,1403.0,Jersey Mike’s Arena
+2024,2023-11-06T18:00Z,Nebraska,Northwestern State,7065.0,Pinnacle Bank Arena
+2025,2025-03-25T02:00Z,USC,Mississippi State,7808.0,Galen Center
+2025,2025-03-24T21:00Z,Maryland,Alabama,5052.0,XFINITY Center
+2025,2025-03-24T02:00Z,UCLA,Richmond,6119.0,Pauley Pavilion
+2025,2025-03-24T00:07Z,Ohio State,Tennessee,7089.0,Schottenstein Center
+2025,2025-03-23T18:00Z,Rutgers,Army,703.0,Jersey Mike’s Arena
+2025,2025-03-22T20:00Z,Maryland,Norfolk State,7040.0,XFINITY Center
+2025,2025-03-22T19:00Z,USC,UNC Greensboro,6865.0,Galen Center
+2025,2025-03-22T02:00Z,UCLA,Southern,5703.0,Pauley Pavilion
+2025,2025-03-02T22:00Z,Washington,Oregon,4813.0,Alaska Airlines Arena
+2025,2025-03-02T21:30Z,Maryland,Ohio State,9335.0,XFINITY Center
+2025,2025-03-02T21:00Z,Iowa,Wisconsin,14998.0,Carver-Hawkeye Arena
+2025,2025-03-02T20:00Z,Northwestern,Nebraska,2408.0,Welsh-Ryan Arena
+2025,2025-03-02T19:00Z,Rutgers,Penn State,4729.0,Jersey Mike’s Arena
+2025,2025-03-02T19:00Z,Purdue,Indiana,10512.0,Mackey Arena
+2025,2025-03-02T18:30Z,Illinois,Michigan,6889.0,State Farm Center
+2025,2025-03-02T02:00Z,UCLA,USC,13659.0,Pauley Pavilion
+2025,2025-03-01T19:00Z,Michigan State,Minnesota,7616.0,Breslin Center
+2025,2025-02-28T00:00Z,Indiana,Maryland,10664.0,Simon Skjodt Assembly Hall
+2025,2025-02-27T23:00Z,Penn State,Purdue,2407.0,Bryce Jordan Center
+2025,2025-02-27T01:00Z,Wisconsin,UCLA,3897.0,Kohl Center
+2025,2025-02-27T01:00Z,Minnesota,Washington,4297.0,Williams Arena
+2025,2025-02-27T00:00Z,Ohio State,Michigan State,7207.0,Schottenstein Center
+2025,2025-02-27T00:00Z,Michigan,Iowa,4062.0,Crisler Center
+2025,2025-02-23T22:00Z,Oregon,Rutgers,6181.0,Matthew Knight Arena
+2025,2025-02-23T21:00Z,USC,Illinois,9021.0,Galen Center
+2025,2025-02-23T20:00Z,Nebraska,Washington,7476.0,Pinnacle Bank Arena
+2025,2025-02-23T20:00Z,Wisconsin,Northwestern,4390.0,Kohl Center
+2025,2025-02-23T19:00Z,Iowa,UCLA,14998.0,Carver-Hawkeye Arena
+2025,2025-02-23T19:00Z,Michigan State,Indiana,5657.0,Breslin Center
+2025,2025-02-23T17:00Z,Ohio State,Purdue,8567.0,Schottenstein Center
+2025,2025-02-22T17:00Z,Michigan,Penn State,4758.0,Crisler Center
+2025,2025-02-21T02:30Z,UCLA,Illinois,5435.0,Pauley Pavilion
+2025,2025-02-21T02:00Z,Washington,Rutgers,2947.0,Alaska Airlines Arena
+2025,2025-02-21T00:30Z,Northwestern,Maryland,1726.0,Welsh-Ryan Arena
+2025,2025-02-21T00:00Z,Indiana,Ohio State,10772.0,Simon Skjodt Assembly Hall
+2025,2025-02-20T02:30Z,USC,Michigan State,5823.0,Galen Center
+2025,2025-02-20T01:00Z,Nebraska,Oregon,5257.0,Pinnacle Bank Arena
+2025,2025-02-20T00:00Z,Purdue,Minnesota,3814.0,Mackey Arena
+2025,2025-02-18T01:00Z,Rutgers,Northwestern,2327.0,Jersey Mike’s Arena
+2025,2025-02-17T23:00Z,Maryland,Michigan,7049.0,XFINITY Center
+2025,2025-02-17T17:00Z,Ohio State,Iowa,8810.0,Schottenstein Center
+2025,2025-02-17T02:00Z,UCLA,Michigan State,7563.0,Pauley Pavilion
+2025,2025-02-17T00:00Z,Washington,USC,7913.0,Alaska Airlines Arena
+2025,2025-02-16T22:00Z,Illinois,Nebraska,5881.0,State Farm Center
+2025,2025-02-16T20:00Z,Minnesota,Oregon,6487.0,Williams Arena
+2025,2025-02-16T18:00Z,Penn State,Wisconsin,4188.0,Bryce Jordan Center
+2025,2025-02-15T17:00Z,Indiana,Purdue,12008.0,Simon Skjodt Assembly Hall
+2025,2025-02-14T03:00Z,USC,UCLA,10258.0,Galen Center
+2025,2025-02-14T00:30Z,Ohio State,Minnesota,6417.0,Schottenstein Center
+2025,2025-02-14T00:30Z,Iowa,Rutgers,14998.0,Carver-Hawkeye Arena
+2025,2025-02-14T00:00Z,Illinois,Penn State,3983.0,State Farm Center
+2025,2025-02-13T23:30Z,Maryland,Nebraska,7029.0,XFINITY Center
+2025,2025-02-13T02:00Z,Oregon,Washington,4720.0,Matthew Knight Arena
+2025,2025-02-13T00:00Z,Purdue,Northwestern,4002.0,Mackey Arena
+2025,2025-02-13T00:00Z,Michigan,Indiana,2677.0,Crisler Center
+2025,2025-02-12T23:30Z,Michigan State,Wisconsin,2275.0,Breslin Center
+2025,2025-02-11T01:00Z,Nebraska,Iowa,6535.0,Pinnacle Bank Arena
+2025,2025-02-09T21:00Z,Oregon,UCLA,6534.0,Matthew Knight Arena
+2025,2025-02-09T21:00Z,Washington,Maryland,4819.0,Alaska Airlines Arena
+2025,2025-02-09T21:00Z,Wisconsin,Illinois,4547.0,Kohl Center
+2025,2025-02-09T20:00Z,Minnesota,Indiana,4180.0,Williams Arena
+2025,2025-02-09T19:00Z,Michigan State,Michigan,11043.0,Breslin Center
+2025,2025-02-09T19:00Z,Northwestern,Penn State,1902.0,Welsh-Ryan Arena
+2025,2025-02-09T18:00Z,Rutgers,Purdue,3882.0,Jersey Mike’s Arena
+2025,2025-02-09T02:00Z,USC,Ohio State,8892.0,Galen Center
+2025,2025-02-07T02:00Z,Oregon,Maryland,5156.0,Matthew Knight Arena
+2025,2025-02-07T01:00Z,Nebraska,Michigan,5617.0,Pinnacle Bank Arena
+2025,2025-02-07T01:00Z,Minnesota,Iowa,6721.0,Williams Arena
+2025,2025-02-07T00:00Z,Illinois,Northwestern,4591.0,State Farm Center
+2025,2025-02-06T23:00Z,Indiana,Rutgers,10418.0,Simon Skjodt Assembly Hall
+2025,2025-02-06T02:50Z,UCLA,Ohio State,6822.0,Pauley Pavilion
+2025,2025-02-06T00:30Z,Wisconsin,USC,6285.0,Kohl Center
+2025,2025-02-05T23:00Z,Penn State,Washington,2035.0,Bryce Jordan Center
+2025,2025-02-02T22:00Z,Ohio State,Washington,8602.0,Schottenstein Center
+2025,2025-02-02T20:00Z,UCLA,Minnesota,6184.0,Pauley Pavilion
+2025,2025-02-02T20:00Z,Northwestern,Michigan State,1861.0,Welsh-Ryan Arena
+2025,2025-02-02T19:00Z,Purdue,Wisconsin,5012.0,Mackey Arena
+2025,2025-02-02T18:30Z,Iowa,USC,14998.0,Carver-Hawkeye Arena
+2025,2025-02-02T18:00Z,Maryland,Illinois,8068.0,XFINITY Center
+2025,2025-02-02T17:00Z,Michigan,Oregon,4306.0,Crisler Center
+2025,2025-02-02T17:00Z,Indiana,Nebraska,11476.0,Simon Skjodt Assembly Hall
+2025,2025-01-31T03:00Z,USC,Minnesota,5243.0,Galen Center
+2025,2025-01-31T00:00Z,Purdue,Nebraska,6315.0,Mackey Arena
+2025,2025-01-31T00:00Z,Rutgers,Illinois,2016.0,Jersey Mike’s Arena
+2025,2025-01-30T23:00Z,Michigan State,Oregon,3521.0,Breslin Center
+2025,2025-01-30T00:30Z,Wisconsin,Michigan,4023.0,Kohl Center
+2025,2025-01-29T23:00Z,Penn State,Maryland,2066.0,Bryce Jordan Center
+2025,2025-01-28T02:00Z,Washington,Indiana,2219.0,Alaska Airlines Arena
+2025,2025-01-28T01:30Z,Illinois,Purdue,4081.0,State Farm Center
+2025,2025-01-26T20:00Z,Nebraska,Ohio State,9772.0,Pinnacle Bank Arena
+2025,2025-01-26T20:00Z,Minnesota,Wisconsin,7554.0,Williams Arena
+2025,2025-01-26T19:00Z,Maryland,UCLA,13648.0,XFINITY Center
+2025,2025-01-26T18:00Z,Penn State,Rutgers,2438.0,Bryce Jordan Center
+2025,2025-01-25T17:00Z,Michigan,Michigan State,10873.0,Crisler Center
+2025,2025-01-25T02:00Z,Oregon,Indiana,5572.0,Matthew Knight Arena
+2025,2025-01-24T01:00Z,Northwestern,Illinois,1735.0,Welsh-Ryan Arena
+2025,2025-01-24T00:00Z,Rutgers,UCLA,3138.0,Jersey Mike’s Arena
+2025,2025-01-23T23:00Z,Ohio State,Maryland,7082.0,Schottenstein Center
+2025,2025-01-23T02:00Z,Washington,Iowa,3380.0,Alaska Airlines Arena
+2025,2025-01-23T01:00Z,Minnesota,Michigan,4344.0,Williams Arena
+2025,2025-01-23T00:00Z,Purdue,USC,7543.0,Mackey Arena
+2025,2025-01-22T23:30Z,Michigan State,Penn State,3208.0,Breslin Center
+2025,2025-01-21T01:00Z,Nebraska,Wisconsin,4571.0,Pinnacle Bank Arena
+2025,2025-01-19T22:00Z,Oregon,Iowa,7307.0,Matthew Knight Arena
+2025,2025-01-19T20:00Z,Illinois,Michigan State,5896.0,State Farm Center
+2025,2025-01-19T20:00Z,Northwestern,Minnesota,1854.0,Welsh-Ryan Arena
+2025,2025-01-19T18:00Z,Penn State,Ohio State,2817.0,Bryce Jordan Center
+2025,2025-01-19T17:00Z,Indiana,USC,12534.0,Simon Skjodt Assembly Hall
+2025,2025-01-18T22:00Z,Washington,Purdue,10010.0,Alaska Airlines Arena
+2025,2025-01-18T17:00Z,Michigan,Rutgers,4683.0,Crisler Center
+2025,2025-01-17T02:00Z,Wisconsin,Ohio State,2820.0,Kohl Center
+2025,2025-01-17T00:00Z,Iowa,Nebraska,14998.0,Carver-Hawkeye Arena
+2025,2025-01-17T00:00Z,Indiana,Illinois,10534.0,Simon Skjodt Assembly Hall
+2025,2025-01-16T02:30Z,UCLA,Penn State,1563.0,Walter Pyramid
+2025,2025-01-16T02:00Z,Oregon,Purdue,4944.0,Matthew Knight Arena
+2025,2025-01-16T00:00Z,Rutgers,Michigan State,1585.0,Jersey Mike’s Arena
+2025,2025-01-16T00:00Z,Michigan,Washington,2687.0,Crisler Center
+2025,2025-01-15T00:00Z,Maryland,Minnesota,5049.0,XFINITY Center
+2025,2025-01-13T01:00Z,USC,Penn State,5881.0,Galen Center
+2025,2025-01-12T20:00Z,Iowa,Indiana,14998.0,Carver-Hawkeye Arena
+2025,2025-01-12T19:00Z,Michigan State,Washington,4192.0,Breslin Center
+2025,2025-01-12T19:00Z,Rutgers,Nebraska,4016.0,Jersey Mike’s Arena
+2025,2025-01-12T18:00Z,Ohio State,Oregon,8664.0,Schottenstein Center
+2025,2025-01-11T19:30Z,Wisconsin,Maryland,4115.0,Kohl Center
+2025,2025-01-11T19:00Z,Purdue,Michigan,9231.0,Mackey Arena
+2025,2025-01-10T00:00Z,Illinois,Iowa,4231.0,State Farm Center
+2025,2025-01-09T22:00Z,Penn State,Oregon,1701.0,Bryce Jordan Center
+2025,2025-01-09T01:30Z,Maryland,USC,14735.0,XFINITY Center
+2025,2025-01-09T01:00Z,Nebraska,Michigan State,4903.0,Pinnacle Bank Arena
+2025,2025-01-09T01:00Z,Minnesota,Rutgers,2924.0,Williams Arena
+2025,2025-01-09T01:00Z,Northwestern,Indiana,1452.0,Welsh-Ryan Arena
+2025,2025-01-09T00:00Z,Michigan,Ohio State,5112.0,Crisler Center
+2025,2025-01-08T02:00Z,Washington,Wisconsin,2700.0,Alaska Airlines Arena
+2025,2025-01-08T00:00Z,Purdue,UCLA,3742.0,Mackey Arena
+2025,2025-01-06T01:00Z,Rutgers,USC,7356.0,Jersey Mike’s Arena
+2025,2025-01-05T23:00Z,Iowa,Maryland,14998.0,Carver-Hawkeye Arena
+2025,2025-01-05T20:00Z,Nebraska,Penn State,5945.0,Pinnacle Bank Arena
+2025,2025-01-05T20:00Z,Minnesota,Illinois,4788.0,Williams Arena
+2025,2025-01-05T18:00Z,Ohio State,Northwestern,7190.0,Schottenstein Center
+2025,2025-01-04T20:30Z,Oregon,Wisconsin,5847.0,Matthew Knight Arena
+2025,2025-01-04T17:00Z,Indiana,UCLA,11528.0,Simon Skjodt Assembly Hall
+2025,2025-01-03T00:00Z,Maryland,Rutgers,5434.0,XFINITY Center
+2025,2025-01-01T22:00Z,UCLA,Michigan,4566.0,Pauley Pavilion
+2025,2025-01-01T20:00Z,USC,Nebraska,5662.0,Galen Center
+2025,2025-01-01T19:00Z,Michigan State,Purdue,5324.0,Breslin Center
+2025,2025-01-01T18:00Z,Penn State,Iowa,3417.0,Bryce Jordan Center
+2025,2024-12-30T03:10Z,USC,Michigan,8043.0,Galen Center
+2025,2024-12-29T22:00Z,UCLA,Nebraska,5339.0,Pauley Pavilion
+2025,2024-12-29T20:00Z,Iowa,Purdue,14998.0,Carver-Hawkeye Arena
+2025,2024-12-29T19:00Z,Rutgers,Ohio State,2929.0,Jersey Mike’s Arena
+2025,2024-12-29T18:00Z,Maryland,Michigan State,9200.0,XFINITY Center
+2025,2024-12-28T21:00Z,Minnesota,Penn State,5312.0,Williams Arena
+2025,2024-12-28T20:00Z,Northwestern,Washington,1439.0,Welsh-Ryan Arena
+2025,2024-12-28T20:00Z,Illinois,Oregon,4914.0,State Farm Center
+2025,2024-12-28T19:00Z,Indiana,Wisconsin,11212.0,Simon Skjodt Assembly Hall
+2025,2024-12-22T17:00Z,Indiana,Oakland,10378.0,Simon Skjodt Assembly Hall
+2025,2024-12-21T19:00Z,Purdue,Indiana State,3803.0,Mackey Arena
+2025,2024-12-21T17:00Z,Rutgers,Lafayette,1858.0,Jersey Mike’s Arena
+2025,2024-12-21T00:30Z,Iowa,Northern Iowa,14998.0,Carver-Hawkeye Arena
+2025,2024-12-20T20:00Z,Minnesota,Prairie View A&M,2570.0,Williams Arena
+2025,2024-12-20T18:00Z,Illinois,Southern,3396.0,State Farm Center
+2025,2024-12-20T17:00Z,Wisconsin,UAlbany,5820.0,Kohl Center
+2025,2024-12-20T02:00Z,Oregon,UC Irvine,4508.0,Matthew Knight Arena
+2025,2024-12-19T22:35Z,Washington,Furman,1780.0,Alaska Airlines Arena
+2025,2024-12-19T16:00Z,Maryland,William & Mary,17950.0,XFINITY Center
+2025,2024-12-18T22:15Z,Washington,North Dakota State,1738.0,Alaska Airlines Arena
+2025,2024-12-18T17:00Z,Northwestern,UNLV,1092.0,Welsh-Ryan Arena
+2025,2024-12-18T02:00Z,Oregon,Air Force,4551.0,Matthew Knight Arena
+2025,2024-12-17T17:00Z,Ohio State,Grand Valley State,4710.0,Schottenstein Center
+2025,2024-12-17T03:00Z,UCLA,Cal Poly,2356.0,Pauley Pavilion
+2025,2024-12-15T20:30Z,USC,Elon,4818.0,Galen Center
+2025,2024-12-15T20:00Z,Northwestern,Bradley,1130.0,Welsh-Ryan Arena
+2025,2024-12-15T19:00Z,Illinois,Southern Indiana,4108.0,State Farm Center
+2025,2024-12-15T19:00Z,Rutgers,Wagner,1463.0,Jersey Mike’s Arena
+2025,2024-12-15T19:00Z,Indiana,Bellarmine,10220.0,Simon Skjodt Assembly Hall
+2025,2024-12-15T18:00Z,Nebraska,Chattanooga,4637.0,Pinnacle Bank Arena
+2025,2024-12-15T17:00Z,Michigan State,Iowa,5939.0,Breslin Center
+2025,2024-12-15T02:30Z,Washington,Utah,2695.0,Alaska Airlines Arena
+2025,2024-12-14T22:00Z,Purdue,Kentucky,5108.0,Mackey Arena
+2025,2024-12-14T20:00Z,Michigan,Detroit Mercy,3423.0,Crisler Center
+2025,2024-12-14T16:00Z,Ohio State,Youngstown State,5659.0,Schottenstein Center
+2025,2024-12-13T00:00Z,Illinois,Bradley,3684.0,State Farm Center
+2025,2024-12-12T02:00Z,Iowa,Iowa State,14998.0,Carver-Hawkeye Arena
+2025,2024-12-12T01:00Z,Nebraska,Tarleton State,4259.0,Pinnacle Bank Arena
+2025,2024-12-12T01:00Z,Minnesota,Jackson State,2812.0,Williams Arena
+2025,2024-12-12T00:00Z,Rutgers,Fairleigh Dickinson,1681.0,Jersey Mike’s Arena
+2025,2024-12-11T02:00Z,USC,Fresno State,3081.0,Galen Center
+2025,2024-12-10T23:00Z,Ohio State,Ball State,4977.0,Schottenstein Center
+2025,2024-12-08T22:00Z,Washington,UCLA,3453.0,Alaska Airlines Arena
+2025,2024-12-08T21:00Z,Ohio State,Illinois,6668.0,Schottenstein Center
+2025,2024-12-08T20:00Z,Wisconsin,Rutgers,3266.0,Kohl Center
+2025,2024-12-08T19:00Z,Michigan,Northwestern,3636.0,Crisler Center
+2025,2024-12-08T19:00Z,Michigan State,DePaul,3416.0,Breslin Center
+2025,2024-12-08T19:00Z,Nebraska,Minnesota,6009.0,Pinnacle Bank Arena
+2025,2024-12-07T21:00Z,Oregon,USC,7246.0,Matthew Knight Arena
+2025,2024-12-07T19:00Z,Purdue,Maryland,6203.0,Mackey Arena
+2025,2024-12-07T18:00Z,Penn State,Indiana,2055.0,Bryce Jordan Center
+2025,2024-12-05T03:00Z,Oregon,Washington State,4756.0,Matthew Knight Arena
+2025,2024-12-05T01:00Z,Northwestern,DePaul,1045.0,Welsh-Ryan Arena
+2025,2024-12-05T00:00Z,Purdue,Maine,3413.0,Mackey Arena
+2025,2024-12-05T00:00Z,Indiana,Southern Indiana,10322.0,Simon Skjodt Assembly Hall
+2025,2024-12-04T02:30Z,USC,California Baptist,2489.0,Galen Center
+2025,2024-12-04T01:00Z,Nebraska,Lindenwood,4252.0,Pinnacle Bank Arena
+2025,2024-12-04T01:00Z,Minnesota,North Florida,2931.0,Williams Arena
+2025,2024-12-04T00:00Z,Maryland,Mount St. Mary's,4678.0,XFINITY Center
+2025,2024-12-03T00:00Z,Penn State,St. John's,1759.0,Bryce Jordan Center
+2025,2024-12-01T19:00Z,Northwestern,Cornell,2163.0,Welsh-Ryan Arena
+2025,2024-12-01T19:00Z,Indiana,Maine,10477.0,Simon Skjodt Assembly Hall
+2025,2024-11-27T18:00Z,Penn State,Drexel,1888.0,Bryce Jordan Center
+2025,2024-11-27T01:00Z,Nebraska,Kansas City,4753.0,Pinnacle Bank Arena
+2025,2024-11-24T21:00Z,UCLA,South Carolina,13659.0,Pauley Pavilion
+2025,2024-11-24T21:00Z,Iowa,Washington State,14998.0,Carver-Hawkeye Arena
+2025,2024-11-24T20:00Z,Minnesota,Montana,3961.0,Williams Arena
+2025,2024-11-24T19:00Z,Rutgers,Princeton,2281.0,Jersey Mike’s Arena
+2025,2024-11-24T19:00Z,Michigan,Long Beach State,2753.0,Crisler Center
+2025,2024-11-24T18:00Z,Maryland,St. Francis (PA),5773.0,XFINITY Center
+2025,2024-11-24T18:00Z,Ohio State,Bowling Green,6660.0,Schottenstein Center
+2025,2024-11-24T18:00Z,Purdue,UT Arlington,4712.0,Mackey Arena
+2025,2024-11-23T21:00Z,USC,Notre Dame,7894.0,Galen Center
+2025,2024-11-23T19:00Z,Wisconsin,Omaha,3014.0,Kohl Center
+2025,2024-11-23T18:00Z,Northwestern,Harvard,926.0,Welsh-Ryan Arena
+2025,2024-11-23T01:00Z,Illinois,Oregon State,3891.0,State Farm Center
+2025,2024-11-22T20:00Z,Washington,Prairie View A&M,1665.0,Alaska Airlines Arena
+2025,2024-11-22T00:30Z,Wisconsin,UIC,2728.0,Kohl Center
+2025,2024-11-21T20:00Z,Washington,Cal State Fullerton,1575.0,Alaska Airlines Arena
+2025,2024-11-21T02:00Z,Oregon,Auburn,5067.0,Matthew Knight Arena
+2025,2024-11-21T01:00Z,Minnesota,Eastern Illinois,2946.0,Williams Arena
+2025,2024-11-20T23:30Z,Michigan State,Detroit Mercy,2812.0,Breslin Center
+2025,2024-11-20T22:30Z,Michigan,Long Island University,2012.0,Crisler Center
+2025,2024-11-20T01:00Z,Nebraska,North Alabama,4414.0,Pinnacle Bank Arena
+2025,2024-11-19T02:00Z,Oregon,Grand Canyon,4518.0,Matthew Knight Arena
+2025,2024-11-19T00:00Z,Purdue,Bellarmine,3415.0,Mackey Arena
+2025,2024-11-18T17:00Z,Illinois,Le Moyne,13486.0,State Farm Center
+2025,2024-11-18T00:30Z,UCLA,Arkansas,2255.0,Pauley Pavilion
+2025,2024-11-17T20:00Z,Wisconsin,Milwaukee,3410.0,Kohl Center
+2025,2024-11-17T19:00Z,Indiana,Stanford,10351.0,Simon Skjodt Assembly Hall
+2025,2024-11-17T18:00Z,Penn State,Monmouth,1751.0,Bryce Jordan Center
+2025,2024-11-17T17:00Z,Michigan,Oakland,2643.0,Crisler Center
+2025,2024-11-17T16:00Z,Maryland,Towson,5108.0,XFINITY Center
+2025,2024-11-15T20:00Z,USC,Santa Clara,3594.0,Galen Center
+2025,2024-11-15T16:00Z,Rutgers,Iona,3349.0,Jersey Mike’s Arena
+2025,2024-11-15T02:00Z,Washington,Eastern Washington,1925.0,Alaska Airlines Arena
+2025,2024-11-15T00:30Z,Purdue,IU Indianapolis,3432.0,Mackey Arena
+2025,2024-11-15T00:00Z,Illinois,Eastern Illinois,3645.0,State Farm Center
+2025,2024-11-15T00:00Z,Northwestern,Utah,1114.0,Welsh-Ryan Arena
+2025,2024-11-15T00:00Z,Michigan,Central Michigan,2423.0,Crisler Center
+2025,2024-11-14T23:30Z,Michigan State,Eastern Kentucky,2631.0,Breslin Center
+2025,2024-11-14T16:30Z,Penn State,Niagara,2311.0,Bryce Jordan Center
+2025,2024-11-14T00:00Z,Iowa,Toledo,14998.0,Carver-Hawkeye Arena
+2025,2024-11-13T03:00Z,USC,Cal State Northridge,3064.0,Galen Center
+2025,2024-11-13T01:00Z,Nebraska,Southern,4326.0,Pinnacle Bank Arena
+2025,2024-11-13T01:00Z,Minnesota,UMass Lowell,2616.0,Williams Arena
+2025,2024-11-12T23:00Z,Ohio State,Charlotte,4531.0,Schottenstein Center
+2025,2024-11-12T19:30Z,UCLA,Pepperdine,3898.0,Pauley Pavilion
+2025,2024-11-12T19:00Z,Oregon,North Texas,4344.0,Matthew Knight Arena
+2025,2024-11-11T03:00Z,Oregon,Baylor,6372.0,Matthew Knight Arena
+2025,2024-11-11T01:00Z,Illinois,Marquette,3748.0,State Farm Center
+2025,2024-11-11T00:00Z,Purdue,Notre Dame,5854.0,Mackey Arena
+2025,2024-11-10T22:00Z,UCLA,Colgate,3285.0,Pauley Pavilion
+2025,2024-11-10T22:00Z,Washington,Siena,2137.0,Alaska Airlines Arena
+2025,2024-11-10T22:00Z,Wisconsin,Georgetown,3452.0,Kohl Center
+2025,2024-11-10T20:00Z,Northwestern,Lehigh,1166.0,Welsh-Ryan Arena
+2025,2024-11-10T19:00Z,Rutgers,NJIT,1548.0,Jersey Mike’s Arena
+2025,2024-11-10T18:10Z,Maryland,Duke,9042.0,XFINITY Center
+2025,2024-11-10T18:00Z,Penn State,Duquesne,2152.0,Bryce Jordan Center
+2025,2024-11-09T22:00Z,USC,Cal Poly,5215.0,Galen Center
+2025,2024-11-09T19:00Z,Nebraska,SE Louisiana,5006.0,Pinnacle Bank Arena
+2025,2024-11-09T01:00Z,Minnesota,Vermont,3192.0,Williams Arena
+2025,2024-11-09T00:00Z,Michigan State,Yale,2893.0,Breslin Center
+2025,2024-11-09T00:00Z,Michigan,Lehigh,2747.0,Crisler Center
+2025,2024-11-08T02:00Z,Washington,Pacific,1717.0,Alaska Airlines Arena
+2025,2024-11-08T00:00Z,Illinois,Florida State,3741.0,State Farm Center
+2025,2024-11-08T00:00Z,Indiana,Harvard,10287.0,Simon Skjodt Assembly Hall
+2025,2024-11-08T00:00Z,Rutgers,Cornell,1263.0,Jersey Mike’s Arena
+2025,2024-11-07T23:00Z,Maryland,Coppin State,5040.0,XFINITY Center
+2025,2024-11-07T23:00Z,Penn State,Canisius,1741.0,Bryce Jordan Center
+2025,2024-11-06T00:30Z,Wisconsin,Wright State,2850.0,Kohl Center
+2025,2024-11-05T23:30Z,Michigan State,Oakland,2549.0,Breslin Center
+2025,2024-11-05T23:00Z,Ohio State,Cleveland State,4828.0,Schottenstein Center
+2025,2024-11-05T02:00Z,Washington,Seattle U,1711.0,Alaska Airlines Arena
+2025,2024-11-05T01:00Z,Minnesota,Central Connecticut,2647.0,Williams Arena
+2025,2024-11-05T00:00Z,Indiana,Brown,10050.0,Simon Skjodt Assembly Hall
+2025,2024-11-05T00:00Z,Rutgers,Manhattan,1517.0,Jersey Mike’s Arena
+2025,2024-11-05T00:00Z,Oregon,California Baptist,4141.0,Matthew Knight Arena
+2025,2024-11-04T22:00Z,Penn State,Bucknell,1575.0,Bryce Jordan Center
+2025,2024-11-04T18:00Z,Nebraska,Omaha,81.0,Pinnacle Bank Arena
+2026,2026-03-26T23:30Z,Wisconsin,Harvard,1657.0,Kohl Center
+2026,2026-03-24T02:00Z,UCLA,Oklahoma State,6114.0,Pauley Pavilion
+2026,2026-03-23T18:00Z,Iowa,Virginia,14332.0,Carver-Hawkeye Arena
+2026,2026-03-22T18:07Z,Minnesota,Ole Miss,10763.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-03-22T17:00Z,Michigan,NC State,7003.0,Crisler Center
+2026,2026-03-22T02:00Z,UCLA,California Baptist,7250.0,Pauley Pavilion
+2026,2026-03-21T20:27Z,Iowa,Fairleigh Dickinson,14332.0,Carver-Hawkeye Arena
+2026,2026-03-21T15:30Z,Ohio State,Howard,6169.0,Schottenstein Center
+2026,2026-03-20T22:05Z,Minnesota,Green Bay,10355.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-03-20T21:30Z,Michigan,Holy Cross,8941.0,Crisler Center
+2026,2026-03-01T23:15Z,USC,UCLA,8841.0,Galen Center
+2026,2026-03-01T22:00Z,Oregon,Washington,5865.0,Matthew Knight Arena
+2026,2026-03-01T20:00Z,Wisconsin,Iowa,8520.0,Kohl Center
+2026,2026-03-01T20:00Z,Northwestern,Purdue,2181.0,Welsh-Ryan Arena
+2026,2026-03-01T19:00Z,Illinois,Minnesota,5785.0,State Farm Center
+2026,2026-03-01T17:00Z,Michigan State,Ohio State,6214.0,Breslin Center
+2026,2026-02-28T19:30Z,Michigan,Maryland,5212.0,Crisler Center
+2026,2026-02-28T19:00Z,Nebraska,Rutgers,5856.0,Pinnacle Bank Arena
+2026,2026-02-28T19:00Z,Indiana,Penn State,8447.0,Simon Skjodt Assembly Hall
+2026,2026-02-27T02:00Z,Iowa,Illinois,14998.0,Carver-Hawkeye Arena
+2026,2026-02-26T01:00Z,Ohio State,Michigan,6663.0,Schottenstein Center
+2026,2026-02-26T00:00Z,Purdue,Oregon,5428.0,Mackey Arena
+2026,2026-02-26T00:00Z,Rutgers,Indiana,2739.0,Jersey Mike’s Arena
+2026,2026-02-25T23:30Z,Maryland,Northwestern,7025.0,XFINITY Center
+2026,2026-02-25T23:00Z,Penn State,USC,1650.0,Rec Hall
+2026,2026-02-22T23:15Z,Minnesota,Michigan State,7088.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-02-22T22:30Z,UCLA,Wisconsin,5421.0,Pauley Pavilion
+2026,2026-02-22T20:00Z,Washington,Nebraska,6212.0,Alaska Airlines Arena
+2026,2026-02-22T20:00Z,Northwestern,Illinois,3046.0,Welsh-Ryan Arena
+2026,2026-02-22T19:00Z,Ohio State,USC,8144.0,Schottenstein Center
+2026,2026-02-22T18:00Z,Maryland,Purdue,9032.0,XFINITY Center
+2026,2026-02-22T18:00Z,Indiana,Oregon,8136.0,Simon Skjodt Assembly Hall
+2026,2026-02-22T17:00Z,Iowa,Michigan,14998.0,Carver-Hawkeye Arena
+2026,2026-02-21T21:00Z,Rutgers,Penn State,3218.0,Jersey Mike’s Arena
+2026,2026-02-20T03:00Z,UCLA,Washington,3421.0,Pauley Pavilion
+2026,2026-02-20T02:00Z,USC,Wisconsin,4020.0,Galen Center
+2026,2026-02-20T02:00Z,Oregon,Nebraska,4827.0,Matthew Knight Arena
+2026,2026-02-20T00:00Z,Purdue,Iowa,4046.0,Mackey Arena
+2026,2026-02-19T01:00Z,Minnesota,Ohio State,4025.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-02-18T23:30Z,Michigan State,Northwestern,3014.0,Breslin Center
+2026,2026-02-18T00:00Z,Illinois,Rutgers,4373.0,State Farm Center
+2026,2026-02-16T17:00Z,Nebraska,Iowa,6771.0,Pinnacle Bank Arena
+2026,2026-02-16T01:00Z,Washington,Oregon,5134.0,Alaska Airlines Arena
+2026,2026-02-15T23:00Z,Wisconsin,Minnesota,3953.0,Kohl Center
+2026,2026-02-15T21:00Z,Michigan,Michigan State,11627.0,Crisler Center
+2026,2026-02-15T21:00Z,Penn State,Northwestern,3074.0,Rec Hall
+2026,2026-02-15T20:00Z,UCLA,Indiana,5468.0,Pauley Pavilion
+2026,2026-02-15T19:00Z,Ohio State,Maryland,7504.0,Schottenstein Center
+2026,2026-02-14T17:00Z,Purdue,Rutgers,6452.0,Mackey Arena
+2026,2026-02-13T03:00Z,USC,Indiana,4124.0,Galen Center
+2026,2026-02-13T02:00Z,Northwestern,Michigan,1636.0,Welsh-Ryan Arena
+2026,2026-02-13T01:00Z,Minnesota,Nebraska,4039.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-02-13T00:00Z,Maryland,Penn State,7015.0,XFINITY Center
+2026,2026-02-12T01:00Z,Michigan State,UCLA,3517.0,Breslin Center
+2026,2026-02-12T00:30Z,Iowa,Washington,14998.0,Carver-Hawkeye Arena
+2026,2026-02-12T00:00Z,Illinois,Wisconsin,4458.0,State Farm Center
+2026,2026-02-08T20:00Z,Michigan,UCLA,6108.0,Crisler Center
+2026,2026-02-08T20:00Z,Oregon,Ohio State,5371.0,Matthew Knight Arena
+2026,2026-02-08T20:00Z,Wisconsin,Washington,3630.0,Kohl Center
+2026,2026-02-08T19:00Z,Indiana,Purdue,9110.0,Simon Skjodt Assembly Hall
+2026,2026-02-08T18:00Z,Illinois,USC,15544.0,State Farm Center
+2026,2026-02-08T17:00Z,Rutgers,Minnesota,5480.0,Jersey Mike’s Arena
+2026,2026-02-07T19:00Z,Nebraska,Maryland,6113.0,Pinnacle Bank Arena
+2026,2026-02-07T18:00Z,Penn State,Michigan State,2011.0,Rec Hall
+2026,2026-02-06T02:00Z,Washington,Ohio State,3394.0,Alaska Airlines Arena
+2026,2026-02-06T02:00Z,Northwestern,USC,1499.0,Welsh-Ryan Arena
+2026,2026-02-06T00:00Z,Iowa,Minnesota,14998.0,Carver-Hawkeye Arena
+2026,2026-02-05T03:00Z,UCLA,Rutgers,2895.0,Pauley Pavilion
+2026,2026-02-05T02:00Z,Oregon,Illinois,4397.0,Matthew Knight Arena
+2026,2026-02-05T00:30Z,Wisconsin,Indiana,2837.0,Kohl Center
+2026,2026-02-05T00:00Z,Michigan,Nebraska,3039.0,Crisler Center
+2026,2026-02-05T00:00Z,Purdue,Penn State,3712.0,Mackey Arena
+2026,2026-02-04T23:30Z,Michigan State,Maryland,3423.0,Breslin Center
+2026,2026-02-01T23:00Z,Ohio State,Nebraska,7608.0,Schottenstein Center
+2026,2026-02-01T23:00Z,Washington,Illinois,4691.0,Alaska Airlines Arena
+2026,2026-02-01T22:00Z,USC,Rutgers,5504.0,Galen Center
+2026,2026-02-01T21:00Z,UCLA,Iowa,6917.0,Pauley Pavilion
+2026,2026-02-01T20:00Z,Minnesota,Purdue,4502.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-02-01T19:00Z,Indiana,Northwestern,8515.0,Simon Skjodt Assembly Hall
+2026,2026-02-01T17:00Z,Michigan State,Michigan,11635.0,Breslin Center
+2026,2026-01-31T22:00Z,Maryland,Oregon,9364.0,XFINITY Center
+2026,2026-01-30T02:00Z,USC,Iowa,4303.0,Galen Center
+2026,2026-01-30T01:00Z,Ohio State,Wisconsin,4855.0,Schottenstein Center
+2026,2026-01-30T00:00Z,Indiana,Michigan,7619.0,Simon Skjodt Assembly Hall
+2026,2026-01-29T23:00Z,Purdue,Michigan State,3610.0,Mackey Arena
+2026,2026-01-29T01:00Z,Nebraska,Northwestern,4784.0,Pinnacle Bank Arena
+2026,2026-01-29T00:00Z,Illinois,UCLA,4756.0,State Farm Center
+2026,2026-01-29T00:00Z,Maryland,Washington,6425.0,XFINITY Center
+2026,2026-01-29T00:00Z,Rutgers,Oregon,1704.0,Jersey Mike’s Arena
+2026,2026-01-28T23:00Z,Penn State,Minnesota,1546.0,Rec Hall
+2026,2026-01-26T20:00Z,Rutgers,Washington,3323.0,Jersey Mike’s Arena
+2026,2026-01-25T21:00Z,Northwestern,UCLA,2894.0,Welsh-Ryan Arena
+2026,2026-01-25T20:00Z,Minnesota,Wisconsin,5749.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-01-25T19:00Z,Michigan,USC,4692.0,Crisler Center
+2026,2026-01-25T19:00Z,Iowa,Ohio State,14998.0,Carver-Hawkeye Arena
+2026,2026-01-25T17:00Z,Purdue,Indiana,7917.0,Mackey Arena
+2026,2026-01-24T22:00Z,Oregon,Penn State,6136.0,Matthew Knight Arena
+2026,2026-01-24T19:00Z,Nebraska,Illinois,7683.0,Pinnacle Bank Arena
+2026,2026-01-23T01:00Z,Ohio State,Indiana,5242.0,Schottenstein Center
+2026,2026-01-23T01:00Z,Michigan State,USC,4123.0,Breslin Center
+2026,2026-01-22T23:00Z,Rutgers,Michigan,2802.0,Jersey Mike’s Arena
+2026,2026-01-22T23:00Z,Maryland,Iowa,6514.0,XFINITY Center
+2026,2026-01-22T03:00Z,UCLA,Purdue,3759.0,Pauley Pavilion
+2026,2026-01-22T02:00Z,Washington,Penn State,2096.0,Alaska Airlines Arena
+2026,2026-01-22T02:00Z,Oregon,Minnesota,4675.0,Matthew Knight Arena
+2026,2026-01-22T00:30Z,Wisconsin,Nebraska,3549.0,Kohl Center
+2026,2026-01-19T01:00Z,Iowa,Michigan State,14988.0,Carver-Hawkeye Arena
+2026,2026-01-18T23:00Z,Washington,Minnesota,3509.0,Alaska Airlines Arena
+2026,2026-01-18T22:00Z,USC,Purdue,5464.0,Galen Center
+2026,2026-01-18T21:00Z,UCLA,Maryland,8721.0,Pauley Pavilion
+2026,2026-01-18T21:00Z,Wisconsin,Oregon,4147.0,Kohl Center
+2026,2026-01-18T20:00Z,Illinois,Northwestern,5068.0,State Farm Center
+2026,2026-01-18T18:00Z,Penn State,Rutgers,1838.0,Rec Hall
+2026,2026-01-16T02:00Z,Iowa,Oregon,14988.0,Carver-Hawkeye Arena
+2026,2026-01-16T02:00Z,USC,Maryland,4645.0,Galen Center
+2026,2026-01-16T01:00Z,Northwestern,Wisconsin,1457.0,Welsh-Ryan Arena
+2026,2026-01-16T00:00Z,Michigan,Illinois,3108.0,Crisler Center
+2026,2026-01-16T00:00Z,Michigan State,Nebraska,4273.0,Breslin Center
+2026,2026-01-15T01:00Z,Minnesota,UCLA,4374.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-01-15T00:00Z,Indiana,Washington,7352.0,Simon Skjodt Assembly Hall
+2026,2026-01-14T23:30Z,Ohio State,Penn State,5884.0,Schottenstein Center
+2026,2026-01-12T00:00Z,Nebraska,UCLA,6110.0,Pinnacle Bank Arena
+2026,2026-01-11T22:00Z,Indiana,Iowa,8073.0,Simon Skjodt Assembly Hall
+2026,2026-01-11T22:00Z,Oregon,Michigan State,6313.0,Matthew Knight Arena
+2026,2026-01-11T21:00Z,Maryland,Ohio State,8623.0,XFINITY Center
+2026,2026-01-11T20:00Z,Minnesota,USC,5514.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-01-11T20:00Z,Northwestern,Rutgers,1531.0,Welsh-Ryan Arena
+2026,2026-01-11T20:00Z,Penn State,Illinois,1945.0,Bryce Jordan Center
+2026,2026-01-11T19:00Z,Michigan,Wisconsin,4488.0,Crisler Center
+2026,2026-01-11T19:00Z,Purdue,Washington,6005.0,Mackey Arena
+2026,2026-01-09T02:00Z,Washington,Michigan State,2858.0,Alaska Airlines Arena
+2026,2026-01-09T01:00Z,Nebraska,Indiana,4480.0,Pinnacle Bank Arena
+2026,2026-01-09T01:00Z,Minnesota,Northwestern,3865.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2026-01-09T00:30Z,Wisconsin,Purdue,2458.0,Kohl Center
+2026,2026-01-09T00:00Z,Rutgers,Maryland,1687.0,Jersey Mike’s Arena
+2026,2026-01-08T23:00Z,Penn State,Michigan,1468.0,Rec Hall
+2026,2026-01-08T00:00Z,Illinois,Ohio State,4237.0,State Farm Center
+2026,2026-01-07T03:00Z,USC,Oregon,4259.0,Galen Center
+2026,2026-01-06T01:30Z,Northwestern,Iowa,2272.0,Welsh-Ryan Arena
+2026,2026-01-05T23:30Z,Michigan,Minnesota,3046.0,Crisler Center
+2026,2026-01-04T23:00Z,Maryland,Indiana,6600.0,XFINITY Center
+2026,2026-01-04T21:00Z,Wisconsin,Penn State,3615.0,Kohl Center
+2026,2026-01-04T20:00Z,Nebraska,Purdue,6243.0,Pinnacle Bank Arena
+2026,2026-01-04T19:00Z,Ohio State,Rutgers,6201.0,Schottenstein Center
+2026,2026-01-04T17:00Z,Michigan State,Illinois,5114.0,Breslin Center
+2026,2026-01-04T01:00Z,UCLA,USC,11241.0,Pauley Pavilion
+2026,2026-01-01T23:00Z,Washington,Michigan,5229.0,Alaska Airlines Arena
+2026,2026-01-01T22:00Z,Oregon,Northwestern,4195.0,Matthew Knight Arena
+2026,2026-01-01T21:00Z,Illinois,Maryland,5207.0,State Farm Center
+2026,2026-01-01T19:00Z,Iowa,Nebraska,14988.0,Carver-Hawkeye Arena
+2026,2026-01-01T19:00Z,Rutgers,Wisconsin,1946.0,Jersey Mike’s Arena
+2026,2026-01-01T17:00Z,Indiana,Michigan State,7892.0,Simon Skjodt Assembly Hall
+2026,2025-12-31T19:00Z,Penn State,UCLA,2189.0,Rec Hall
+2026,2025-12-31T17:30Z,Purdue,Ohio State,4102.0,Mackey Arena
+2026,2025-12-30T02:00Z,Oregon,Michigan,5439.0,Matthew Knight Arena
+2026,2025-12-30T01:00Z,Washington,Northwestern,4092.0,Alaska Airlines Arena
+2026,2025-12-29T23:00Z,Indiana,Minnesota,8134.0,Simon Skjodt Assembly Hall
+2026,2025-12-29T21:00Z,Maryland,Wisconsin,7580.0,XFINITY Center
+2026,2025-12-29T20:00Z,Nebraska,USC,6285.0,Pinnacle Bank Arena
+2026,2025-12-28T21:00Z,Iowa,Penn State,14998.0,Carver-Hawkeye Arena
+2026,2025-12-28T19:00Z,Ohio State,UCLA,8455.0,Schottenstein Center
+2026,2025-12-28T19:00Z,Michigan State,Rutgers,5034.0,Breslin Center
+2026,2025-12-28T17:00Z,Purdue,Illinois,6031.0,Mackey Arena
+2026,2025-12-22T23:30Z,Ohio State,Western Michigan,5078.0,Schottenstein Center
+2026,2025-12-21T18:00Z,Indiana,Western Carolina,7875.0,Simon Skjodt Assembly Hall
+2026,2025-12-21T17:00Z,Michigan,Oakland,4752.0,Crisler Center
+2026,2025-12-21T17:00Z,Nebraska,California Baptist,5391.0,Pinnacle Bank Arena
+2026,2025-12-21T17:00Z,Purdue,Jackson State,5203.0,Mackey Arena
+2026,2025-12-21T17:00Z,Wisconsin,IU Indianapolis,1329.0,Kohl Center
+2026,2025-12-20T22:00Z,UCLA,Long Beach State,3428.0,Pauley Pavilion
+2026,2025-12-20T17:00Z,Rutgers,Lafayette,1761.0,Jersey Mike’s Arena
+2026,2025-12-20T00:00Z,Illinois,Jackson State,4112.0,State Farm Center
+2026,2025-12-19T16:00Z,Maryland,Central Connecticut,17300.0,XFINITY Center
+2026,2025-12-19T03:00Z,USC,Cal Poly,3511.0,Galen Center
+2026,2025-12-18T23:30Z,Ohio State,Norfolk State,4816.0,Schottenstein Center
+2026,2025-12-18T19:00Z,Oregon,Portland,6279.0,Matthew Knight Arena
+2026,2025-12-18T17:00Z,Northwestern,Loyola Chicago,3102.0,Welsh-Ryan Arena
+2026,2025-12-17T03:00Z,UCLA,Cal Poly,3110.0,Pauley Pavilion
+2026,2025-12-14T23:00Z,Minnesota,Wyoming,3266.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-12-14T20:00Z,Oregon,Montana State,4169.0,Matthew Knight Arena
+2026,2025-12-14T20:00Z,Illinois,North Texas,4136.0,State Farm Center
+2026,2025-12-14T18:00Z,Ohio State,Toledo,5652.0,Schottenstein Center
+2026,2025-12-14T18:00Z,Indiana,Eastern Michigan,7635.0,Simon Skjodt Assembly Hall
+2026,2025-12-14T17:00Z,Nebraska,Illinois State,4943.0,Pinnacle Bank Arena
+2026,2025-12-14T17:00Z,Purdue,Dayton,5024.0,Mackey Arena
+2026,2025-12-13T22:30Z,USC,UConn,9035.0,Galen Center
+2026,2025-12-13T20:00Z,Iowa,Lindenwood,14998.0,Carver-Hawkeye Arena
+2026,2025-12-13T20:00Z,Washington,Green Bay,2603.0,Alaska Airlines Arena
+2026,2025-12-13T17:00Z,Michigan,Akron,3495.0,Crisler Center
+2026,2025-12-12T00:00Z,Indiana,UL Monroe,7380.0,Simon Skjodt Assembly Hall
+2026,2025-12-11T23:30Z,Ohio State,Northern Kentucky,4672.0,Schottenstein Center
+2026,2025-12-11T16:00Z,Purdue,Lipscomb,5331.0,Mackey Arena
+2026,2025-12-11T01:00Z,Minnesota,Alabama A&M,2803.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-12-10T23:00Z,Maryland,Delaware State,5340.0,XFINITY Center
+2026,2025-12-10T17:00Z,Wisconsin,San Diego,5653.0,Kohl Center
+2026,2025-12-10T01:00Z,Nebraska,Omaha,4318.0,Pinnacle Bank Arena
+2026,2025-12-10T00:00Z,Penn State,Arizona State,1590.0,Bryce Jordan Center
+2026,2025-12-08T01:00Z,USC,Washington,6137.0,Galen Center
+2026,2025-12-07T23:00Z,Wisconsin,Michigan State,3039.0,Kohl Center
+2026,2025-12-07T21:00Z,Minnesota,Maryland,4854.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-12-07T20:00Z,UCLA,Oregon,3889.0,Pauley Pavilion
+2026,2025-12-07T19:00Z,Northwestern,Ohio State,1515.0,Welsh-Ryan Arena
+2026,2025-12-07T17:00Z,Michigan,Purdue,4055.0,Crisler Center
+2026,2025-12-06T23:00Z,Rutgers,Iowa,3457.0,Jersey Mike’s Arena
+2026,2025-12-06T18:00Z,Penn State,Nebraska,1619.0,Bryce Jordan Center
+2026,2025-12-06T17:00Z,Illinois,Indiana,4712.0,State Farm Center
+2026,2025-12-04T02:00Z,Oregon,Oregon State,5282.0,Matthew Knight Arena
+2026,2025-12-04T01:00Z,Northwestern,Kansas,918.0,Welsh-Ryan Arena
+2026,2025-12-04T01:00Z,Nebraska,Bradley,4276.0,Pinnacle Bank Arena
+2026,2025-12-04T00:00Z,Michigan,Central Michigan,2773.0,Crisler Center
+2026,2025-12-04T00:00Z,Maryland,Mount St. Mary's,4872.0,XFINITY Center
+2026,2025-12-04T00:00Z,Purdue,Evansville,3402.0,Mackey Arena
+2026,2025-12-03T23:00Z,Indiana,Western Michigan,7409.0,Simon Skjodt Assembly Hall
+2026,2025-12-03T03:00Z,USC,Saint Mary's,2361.0,Galen Center
+2026,2025-12-03T00:00Z,Illinois,Bellarmine,3979.0,State Farm Center
+2026,2025-12-02T02:00Z,Washington,San José State,1960.0,Alaska Airlines Arena
+2026,2025-11-30T21:30Z,UCLA,Tennessee,5639.0,Pauley Pavilion
+2026,2025-11-30T20:00Z,Illinois,Le Moyne,3994.0,State Farm Center
+2026,2025-11-30T20:00Z,Rutgers,Saint Peter's,1765.0,Jersey Mike’s Arena
+2026,2025-11-30T18:00Z,Iowa,Fairfield,14998.0,Carver-Hawkeye Arena
+2026,2025-11-30T18:00Z,Penn State,Yale,1461.0,Rec Hall
+2026,2025-11-30T18:00Z,Ohio State,Niagara,5239.0,Schottenstein Center
+2026,2025-11-29T03:00Z,Washington,UC San Diego,2530.0,Alaska Airlines Arena
+2026,2025-11-29T00:00Z,Rutgers,Northeastern,1537.0,Jersey Mike’s Arena
+2026,2025-11-28T22:00Z,USC,Pepperdine,3866.0,Galen Center
+2026,2025-11-27T00:30Z,Iowa,Western Illinois,14998.0,Carver-Hawkeye Arena
+2026,2025-11-27T00:00Z,Illinois,Western Kentucky,4216.0,State Farm Center
+2026,2025-11-26T17:00Z,Purdue,Howard,6848.0,Mackey Arena
+2026,2025-11-26T03:00Z,USC,Tennessee Tech,3012.0,Galen Center
+2026,2025-11-26T02:00Z,Washington,Southern,2000.0,Alaska Airlines Arena
+2026,2025-11-25T00:00Z,Rutgers,Siena,1757.0,Jersey Mike’s Arena
+2026,2025-11-23T22:00Z,UCLA,Southern,3712.0,Pauley Pavilion
+2026,2025-11-23T22:00Z,Washington,Vermont,1667.0,Alaska Airlines Arena
+2026,2025-11-23T22:00Z,Oregon,Utah State,4645.0,Matthew Knight Arena
+2026,2025-11-23T20:00Z,Wisconsin,Detroit Mercy,2594.0,Kohl Center
+2026,2025-11-23T19:30Z,Maryland,George Mason,7402.0,XFINITY Center
+2026,2025-11-23T19:00Z,Michigan State,Oakland,4251.0,Breslin Center
+2026,2025-11-23T17:30Z,Purdue,Miami (OH),3780.0,Mackey Arena
+2026,2025-11-22T00:30Z,Northwestern,Cleveland State,938.0,Welsh-Ryan Arena
+2026,2025-11-20T23:30Z,Michigan State,Eastern Illinois,2756.0,Breslin Center
+2026,2025-11-20T23:00Z,Maryland,Bethune-Cookman,4920.0,XFINITY Center
+2026,2025-11-20T02:00Z,Washington,Fresno State,2167.0,Alaska Airlines Arena
+2026,2025-11-20T01:00Z,Nebraska,Oral Roberts,4312.0,Pinnacle Bank Arena
+2026,2025-11-20T00:00Z,Indiana,Butler,7716.0,Simon Skjodt Assembly Hall
+2026,2025-11-19T23:30Z,Ohio State,Kent State,4617.0,Schottenstein Center
+2026,2025-11-19T03:00Z,USC,Portland,2947.0,Galen Center
+2026,2025-11-19T00:00Z,Michigan,Binghamton,2557.0,Crisler Center
+2026,2025-11-18T17:00Z,Illinois,Murray State,14361.0,State Farm Center
+2026,2025-11-16T22:00Z,Oregon,Army,4646.0,Matthew Knight Arena
+2026,2025-11-16T20:00Z,Wisconsin,Green Bay,3330.0,Kohl Center
+2026,2025-11-16T19:00Z,Michigan State,Western Michigan,3653.0,Breslin Center
+2026,2025-11-16T19:00Z,Rutgers,Fairleigh Dickinson,2194.0,Jersey Mike’s Arena
+2026,2025-11-16T18:00Z,Maryland,Princeton,6748.0,XFINITY Center
+2026,2025-11-15T00:30Z,Northwestern,Maryland Eastern Shore,1021.0,Welsh-Ryan Arena
+2026,2025-11-14T23:00Z,Minnesota,NJIT,2973.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-11-14T01:30Z,Iowa,Drake,14998.0,Carver-Hawkeye Arena
+2026,2025-11-14T00:00Z,Maryland,Towson,4940.0,XFINITY Center
+2026,2025-11-13T23:30Z,Ohio State,Bellarmine,4671.0,Schottenstein Center
+2026,2025-11-13T16:00Z,Rutgers,Rhode Island,6829.0,Jersey Mike’s Arena
+2026,2025-11-13T02:00Z,Nebraska,Creighton,5110.0,Pinnacle Bank Arena
+2026,2025-11-13T00:30Z,Wisconsin,Bowling Green,2368.0,Kohl Center
+2026,2025-11-12T23:30Z,Michigan State,Youngstown State,2542.0,Breslin Center
+2026,2025-11-12T16:30Z,Penn State,Coppin State,1816.0,Rec Hall
+2026,2025-11-12T02:00Z,Oregon,Grand Canyon,5177.0,Matthew Knight Arena
+2026,2025-11-12T01:00Z,Minnesota,Marquette,2999.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-11-12T00:00Z,Indiana,Marshall,7518.0,Simon Skjodt Assembly Hall
+2026,2025-11-11T02:00Z,Washington,Montana,1918.0,Alaska Airlines Arena
+2026,2025-11-09T20:00Z,Iowa,Evansville,14998.0,Carver-Hawkeye Arena
+2026,2025-11-09T20:00Z,Northwestern,SIU Edwardsville,1189.0,Welsh-Ryan Arena
+2026,2025-11-09T19:00Z,Michigan State,Eastern Michigan,3276.0,Breslin Center
+2026,2025-11-09T19:00Z,Rutgers,Stony Brook,1623.0,Jersey Mike’s Arena
+2026,2025-11-09T18:00Z,Maryland,Georgetown,6263.0,XFINITY Center
+2026,2025-11-09T18:00Z,Ohio State,Coppin State,5504.0,Schottenstein Center
+2026,2025-11-09T18:00Z,Illinois,Illinois State,4849.0,State Farm Center
+2026,2025-11-09T17:00Z,Michigan,Harvard,3348.0,Crisler Center
+2026,2025-11-08T23:00Z,Nebraska,Samford,4670.0,Pinnacle Bank Arena
+2026,2025-11-08T22:00Z,Oregon,Montana,4296.0,Matthew Knight Arena
+2026,2025-11-08T01:00Z,Minnesota,Manhattan,2904.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-11-08T00:00Z,Indiana,UIC,7413.0,Simon Skjodt Assembly Hall
+2026,2025-11-07T23:00Z,Penn State,Cincinnati,1609.0,Rec Hall
+2026,2025-11-07T00:00Z,Purdue,Eastern Illinois,5506.0,Mackey Arena
+2026,2025-11-07T00:00Z,Rutgers,Quinnipiac,1548.0,Jersey Mike’s Arena
+2026,2025-11-06T23:00Z,Maryland,UMBC,5462.0,XFINITY Center
+2026,2025-11-06T19:30Z,UCLA,UC Santa Barbara,6863.0,Pauley Pavilion
+2026,2025-11-06T01:00Z,Northwestern,IU Indianapolis,747.0,Welsh-Ryan Arena
+2026,2025-11-06T00:30Z,Wisconsin,Oakland,2430.0,Kohl Center
+2026,2025-11-05T03:00Z,USC,New Mexico State,3971.0,Galen Center
+2026,2025-11-05T01:00Z,Minnesota,North Dakota,3384.0,The Barn by Blue Cross and Blue Shield of Minnesota
+2026,2025-11-05T00:00Z,Michigan,Canisius,2881.0,Crisler Center
+2026,2025-11-05T00:00Z,Indiana,Lipscomb,7503.0,Simon Skjodt Assembly Hall
+2026,2025-11-05T00:00Z,Illinois,Southeast Missouri State,4227.0,State Farm Center
+2026,2025-11-04T23:30Z,Michigan State,Mercyhurst,2804.0,Breslin Center
+2026,2025-11-04T02:00Z,Oregon,West Georgia,4404.0,Matthew Knight Arena
+2026,2025-11-04T01:00Z,Washington,Seattle U,2975.0,Alaska Airlines Arena
+2026,2025-11-04T00:30Z,Iowa,Southern,14998.0,Carver-Hawkeye Arena
+2026,2025-11-04T00:00Z,Maryland,Loyola Maryland,5614.0,XFINITY Center
+2026,2025-11-04T00:00Z,Rutgers,Wagner,1339.0,Jersey Mike’s Arena
+2026,2025-11-04T00:00Z,Purdue,Fairleigh Dickinson,4726.0,Mackey Arena
+2026,2025-11-03T22:00Z,Penn State,Bucknell,1446.0,Rec Hall
+2026,2025-11-03T18:00Z,Nebraska,Northwestern State,8004.0,Pinnacle Bank Arena
