@@ -15,6 +15,9 @@ NCAA women's college basketball schedules and team box scores from ESPN, compile
 (sportsdataverse-data GitHub releases). Exclusions: neutral-site games, games with no reported attendance, the 2020–21 COVID season,
 and one implausible value (111,368 fans at Breslin Center, Feb. 24, 2019). Travel distances are straight-line, one-way, between approximate campus coordinates.
 
+## AI use
+This entry was produced with the help of an AI assistant (Claude, Anthropic). The AI proposed candidate story angles, wrote the Python code used to download, clean and analyze the data, generated the charts and draft text, and assembled and published this page. The author chose the competition track and the story, selected the headline and design direction, reviewed the findings and text, and is responsible for the accuracy of the final entry. All figures come directly from the cited public data, and the cleaning steps, including the excluded attendance error, are documented on the page.
+
 ## Publish on GitHub Pages
 1. Create a public repository named `b1g-wbb-love-data-2027` and upload the contents of this folder (keep `index.html` at the top level).
 2. Settings → Pages → Build and deployment → Source: *Deploy from a branch* → Branch: `main`, folder `/ (root)` → Save.
